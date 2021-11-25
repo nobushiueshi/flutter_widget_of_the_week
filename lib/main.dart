@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_widget_of_the_week/widgets/widget_001.dart';
+import 'package:flutter_widget_of_the_week/widgets/widget_002.dart';
 
 void main() {
   runApp(const MyApp());
@@ -43,6 +44,15 @@ class _MyHomePageState extends State<MyHomePage> {
         child: ListView(
           children: [
             ListTile(
+              title: const Text('#2 Expanded'),
+              onTap: () {
+                Navigator.push<void>(context,
+                    MaterialPageRoute(builder: (context) {
+                  return const Widget002();
+                }));
+              },
+            ),
+            ListTile(
               title: const Text('#1 SafeArea'),
               onTap: () {
                 Navigator.push<void>(context,
@@ -50,7 +60,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   return const Widget001();
                 }));
               },
-            )
+            ),
           ],
         ),
       ),

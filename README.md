@@ -1,6 +1,13 @@
-# flutter_widget_of_the_week
+# Flutter Widget of the Week学習用リポジトリ
 
-A new Flutter project.
+Flutter of the Weekの勉強用リポジトリです。
+
+## Flutter Widget of the Week
+
+||ウィジット名|動画|リファレンス|
+|---:|:---:|:---:|:---:|
+|#2|Expanded|[リンク](https://www.youtube.com/watch?v=_rnZaagadyo)|[リンク](https://api.flutter.dev/flutter/widgets/Expanded-class.html)|
+|#1|SafeArea|[リンク](https://www.youtube.com/watch?v=lkF0TQJO0bA)|[リンク](https://api.flutter.dev/flutter/widgets/SafeArea-class.html)|
 
 ## Getting Started
 
