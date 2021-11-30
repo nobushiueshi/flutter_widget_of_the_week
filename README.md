@@ -1,13 +1,19 @@
-# Flutter Widget of the Week学習用リポジトリ
+# Flutter Widget of the Week勉強用リポジトリ
 
-Flutter of the Weekの勉強用リポジトリです。
+Flutter Widget of the Weekの勉強用リポジトリです。
 
 ## Flutter Widget of the Week
 
 ||ウィジット名|動画|リファレンス|
 |---:|:---:|:---:|:---:|
+|#3|Wrap|[リンク](https://www.youtube.com/watch?v=z5iw2SeFx2M)|[リンク](https://api.flutter.dev/flutter/widgets/Wrap-class.html)|
 |#2|Expanded|[リンク](https://www.youtube.com/watch?v=_rnZaagadyo)|[リンク](https://api.flutter.dev/flutter/widgets/Expanded-class.html)|
 |#1|SafeArea|[リンク](https://www.youtube.com/watch?v=lkF0TQJO0bA)|[リンク](https://api.flutter.dev/flutter/widgets/SafeArea-class.html)|
+## 紹介記事
+
+|内容|記事|
+|:---:|:---:|
+|SafeArea,Expanded|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c1-safearea%e3%80%8d%e3%80%81%e3%80%8c2-expanded%e3%80%8d/)|
 
 ## Getting Started
 
