@@ -4,8 +4,9 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 ## Flutter Widget of the Week
 
-||ウィジット名|動画|リファレンス|
-|---:|:---:|:---:|:---:|
+|#|ウィジット名|動画|リファレンス|
+|:---:|:---:|:---:|:---:|
+|#5|Opacity|[リンク](https://www.youtube.com/watch?v=9hltevOHQBw)|[リンク](https://api.flutter.dev/flutter/widgets/Opacity-class.html)|
 |#4|AnimatedContainer|[リンク](https://www.youtube.com/watch?v=yI-8QHpGIP4)|[リンク](https://api.flutter.dev/flutter/widgets/AnimatedContainer-class.html)|
 |#3|Wrap|[リンク](https://www.youtube.com/watch?v=z5iw2SeFx2M)|[リンク](https://api.flutter.dev/flutter/widgets/Wrap-class.html)|
 |#2|Expanded|[リンク](https://www.youtube.com/watch?v=_rnZaagadyo)|[リンク](https://api.flutter.dev/flutter/widgets/Expanded-class.html)|

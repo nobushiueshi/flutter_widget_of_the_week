@@ -18,16 +18,33 @@ class _Widget004State extends State<Widget004> {
       ),
       body: SafeArea(
         child: Center(
-          child: AnimatedContainer(
-            duration: const Duration(milliseconds: 500),
-            curve: Curves.easeIn,
-            color: toggle ? Colors.red : Colors.blue,
-            width: toggle ? 100 : 150,
-            height: toggle ? 150 : 100,
-            child: const Icon(
-              Icons.face,
-              color: Colors.white,
-            ),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              const Text('Container'),
+              Container(
+                color: toggle ? Colors.red : Colors.blue,
+                width: toggle ? 100 : 150,
+                height: 150,
+                child: const Icon(
+                  Icons.face,
+                  color: Colors.white,
+                ),
+              ),
+              const SizedBox(height: 50),
+              const Text('AnimatedContainer'),
+              AnimatedContainer(
+                duration: const Duration(milliseconds: 500),
+                curve: Curves.easeIn,
+                color: toggle ? Colors.red : Colors.blue,
+                width: toggle ? 100 : 150,
+                height: 150,
+                child: const Icon(
+                  Icons.face,
+                  color: Colors.white,
+                ),
+              ),
+            ],
           ),
         ),
       ),
@@ -37,7 +54,7 @@ class _Widget004State extends State<Widget004> {
             toggle = !toggle;
           });
         },
-        child: const Icon(Icons.play_arrow),
+        child: const Icon(Icons.change_circle),
       ),
     );
   }

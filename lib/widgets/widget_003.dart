@@ -11,20 +11,39 @@ class Widget003 extends StatelessWidget {
       ),
       body: SafeArea(
         child: Center(
-          child: Container(
-            color: Colors.lightBlue,
-            child: Wrap(
-              direction: Axis.horizontal,
-              alignment: WrapAlignment.center,
-              spacing: 10,
-              runSpacing: 20,
-              children: [
-                _ChildWidget003(),
-                _ChildWidget003(),
-                _ChildWidget003(),
-                _ChildWidget003(),
-              ],
-            ),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              const Text('Row'),
+              Container(
+                color: Colors.lightBlue,
+                child: Row(
+                  children: const [
+                    _ChildWidget003(),
+                    _ChildWidget003(),
+                    _ChildWidget003(),
+                    _ChildWidget003(),
+                  ],
+                ),
+              ),
+              const SizedBox(height: 30),
+              const Text('Wrap'),
+              Container(
+                color: Colors.lightBlue,
+                child: Wrap(
+                  direction: Axis.horizontal,
+                  alignment: WrapAlignment.center,
+                  spacing: 10,
+                  runSpacing: 10,
+                  children: const [
+                    _ChildWidget003(),
+                    _ChildWidget003(),
+                    _ChildWidget003(),
+                    _ChildWidget003(),
+                  ],
+                ),
+              ),
+            ],
           ),
         ),
       ),
@@ -33,12 +52,14 @@ class Widget003 extends StatelessWidget {
 }
 
 class _ChildWidget003 extends StatelessWidget {
+  const _ChildWidget003();
+
   @override
   Widget build(BuildContext context) {
     return Container(
       width: 100,
       height: 100,
-      color: Colors.yellow,
+      color: Colors.red,
     );
   }
 }
