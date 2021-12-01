@@ -6,6 +6,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 ||ウィジット名|動画|リファレンス|
 |---:|:---:|:---:|:---:|
+|#4|AnimatedContainer|[リンク](https://www.youtube.com/watch?v=yI-8QHpGIP4)|[リンク](https://api.flutter.dev/flutter/widgets/AnimatedContainer-class.html)|
 |#3|Wrap|[リンク](https://www.youtube.com/watch?v=z5iw2SeFx2M)|[リンク](https://api.flutter.dev/flutter/widgets/Wrap-class.html)|
 |#2|Expanded|[リンク](https://www.youtube.com/watch?v=_rnZaagadyo)|[リンク](https://api.flutter.dev/flutter/widgets/Expanded-class.html)|
 |#1|SafeArea|[リンク](https://www.youtube.com/watch?v=lkF0TQJO0bA)|[リンク](https://api.flutter.dev/flutter/widgets/SafeArea-class.html)|
