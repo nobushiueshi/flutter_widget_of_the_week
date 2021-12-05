@@ -1,9 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widget_of_the_week/widgets/widget_001.dart';
-import 'package:flutter_widget_of_the_week/widgets/widget_002.dart';
-import 'package:flutter_widget_of_the_week/widgets/widget_003.dart';
-import 'package:flutter_widget_of_the_week/widgets/widget_004.dart';
-import 'package:flutter_widget_of_the_week/widgets/widget_005.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample_page_list.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,11 +11,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Flutter Widget of the Week',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'Flutter Widget of the Week'),
     );
   }
 }
@@ -45,53 +41,23 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       body: SafeArea(
         child: ListView(
-          children: [
-            ListTile(
-              title: const Text('#5 Opacity'),
-              onTap: () {
-                Navigator.push<void>(context,
-                    MaterialPageRoute(builder: (context) {
-                  return const Widget005();
-                }));
-              },
-            ),
-            ListTile(
-              title: const Text('#4 AnimatedContainer'),
-              onTap: () {
-                Navigator.push<void>(context,
-                    MaterialPageRoute(builder: (context) {
-                  return const Widget004();
-                }));
-              },
-            ),
-            ListTile(
-              title: const Text('#3 Wrap'),
-              onTap: () {
-                Navigator.push<void>(context,
-                    MaterialPageRoute(builder: (context) {
-                  return const Widget003();
-                }));
-              },
-            ),
-            ListTile(
-              title: const Text('#2 Expanded'),
-              onTap: () {
-                Navigator.push<void>(context,
-                    MaterialPageRoute(builder: (context) {
-                  return const Widget002();
-                }));
-              },
-            ),
-            ListTile(
-              title: const Text('#1 SafeArea'),
-              onTap: () {
-                Navigator.push<void>(context,
-                    MaterialPageRoute(builder: (context) {
-                  return const Widget001();
-                }));
-              },
-            ),
-          ],
+          children: samplePageDataList
+              .map(
+                (page) => ListTile(
+                  title: Text(page.name),
+                  onTap: () {
+                    Navigator.push<void>(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) {
+                          return page.widget;
+                        },
+                      ),
+                    );
+                  },
+                ),
+              )
+              .toList(),
         ),
       ),
       floatingActionButton: FloatingActionButton(

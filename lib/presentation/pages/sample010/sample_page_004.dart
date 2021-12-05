@@ -1,13 +1,15 @@
 import 'package:flutter/material.dart';
 
-class Widget004 extends StatefulWidget {
-  const Widget004({Key? key}) : super(key: key);
+class SamplePage004 extends StatefulWidget {
+  const SamplePage004({
+    Key? key,
+  }) : super(key: key);
 
   @override
-  _Widget004State createState() => _Widget004State();
+  _SamplePage004State createState() => _SamplePage004State();
 }
 
-class _Widget004State extends State<Widget004> {
+class _SamplePage004State extends State<SamplePage004> {
   bool toggle = false;
 
   @override

@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class Widget005 extends StatefulWidget {
-  const Widget005({Key? key}) : super(key: key);
+class SamplePage005 extends StatefulWidget {
+  const SamplePage005({Key? key}) : super(key: key);
 
   @override
-  _Widget005State createState() => _Widget005State();
+  _SamplePage005State createState() => _SamplePage005State();
 }
 
-class _Widget005State extends State<Widget005> {
+class _SamplePage005State extends State<SamplePage005> {
   bool toggle = false;
   @override
   Widget build(BuildContext context) {
@@ -23,27 +23,27 @@ class _Widget005State extends State<Widget005> {
               const Text('Opacityなし'),
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
-                children: const [
-                  _ChildWidget005(),
-                  _ChildWidget005(),
-                  _ChildWidget005(),
+                children: [
+                  const _SamplePage005Child(),
+                  if (!toggle) const _SamplePage005Child(),
+                  const _SamplePage005Child(),
                 ],
               ),
               const Text('Opacityあり'),
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  const _ChildWidget005(),
+                  const _SamplePage005Child(),
                   Opacity(
-                    opacity: toggle ? 1 : 0,
-                    child: const _ChildWidget005(
+                    opacity: toggle ? 0 : 1,
+                    child: const _SamplePage005Child(
                       color: Colors.red,
                     ),
                   ),
-                  const _ChildWidget005(),
+                  const _SamplePage005Child(),
                 ],
               ),
-              const Text('Stackを利用したサンプル'),
+              const Text('Stackを利用したサンプル(AnimatedOpacity)'),
               Stack(
                 children: [
                   const FlutterLogo(
@@ -52,7 +52,7 @@ class _Widget005State extends State<Widget005> {
                   AnimatedOpacity(
                     opacity: toggle ? 1 : 0,
                     duration: const Duration(milliseconds: 500),
-                    child: const _ChildWidget005(),
+                    child: const _SamplePage005Child(),
                   ),
                 ],
               ),
@@ -72,8 +72,8 @@ class _Widget005State extends State<Widget005> {
   }
 }
 
-class _ChildWidget005 extends StatelessWidget {
-  const _ChildWidget005({
+class _SamplePage005Child extends StatelessWidget {
+  const _SamplePage005Child({
     this.color = Colors.blue,
   });
 
