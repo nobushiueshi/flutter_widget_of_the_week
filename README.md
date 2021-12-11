@@ -6,6 +6,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジット名|動画|リファレンス|
 |:---:|:---:|:---:|:---:|
+|#7|FadeTransition|[リンク](* https://www.youtube.com/watch?v=rLwWVbv3xDQ)|[リンク](https://api.flutter.dev/flutter/widgets/FadeTransition-class.html)|
 |#6|FutureBuilder|[リンク](https://www.youtube.com/watch?v=ek8ZPdWj4Qo)|[リンク](https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html)|
 |#5|Opacity|[リンク](https://www.youtube.com/watch?v=9hltevOHQBw)|[リンク](https://api.flutter.dev/flutter/widgets/Opacity-class.html)|
 |#4|AnimatedContainer|[リンク](https://www.youtube.com/watch?v=yI-8QHpGIP4)|[リンク](https://api.flutter.dev/flutter/widgets/AnimatedContainer-class.html)|
