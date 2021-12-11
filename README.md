@@ -6,6 +6,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジット名|動画|リファレンス|
 |:---:|:---:|:---:|:---:|
+|#6|FutureBuilder|[リンク](https://www.youtube.com/watch?v=ek8ZPdWj4Qo)|[リンク](https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html)|
 |#5|Opacity|[リンク](https://www.youtube.com/watch?v=9hltevOHQBw)|[リンク](https://api.flutter.dev/flutter/widgets/Opacity-class.html)|
 |#4|AnimatedContainer|[リンク](https://www.youtube.com/watch?v=yI-8QHpGIP4)|[リンク](https://api.flutter.dev/flutter/widgets/AnimatedContainer-class.html)|
 |#3|Wrap|[リンク](https://www.youtube.com/watch?v=z5iw2SeFx2M)|[リンク](https://api.flutter.dev/flutter/widgets/Wrap-class.html)|
@@ -15,6 +16,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |内容|記事|
 |:---:|:---:|
+|Wrap,AnimatedContainer,Opacity|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c3-wrap%e3%80%8d%e3%80%81%e3%80%8c4-animatedcontainer%e3%80%8d%e3%80%81%e3%80%8c5-opacity%e3%80%8d/)|
 |SafeArea,Expanded|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c1-safearea%e3%80%8d%e3%80%81%e3%80%8c2-expanded%e3%80%8d/)|
 
 ## Getting Started
