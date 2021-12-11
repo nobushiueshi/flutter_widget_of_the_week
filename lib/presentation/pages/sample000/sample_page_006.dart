@@ -100,7 +100,10 @@ class _SamplePage006State extends State<SamplePage006> {
 
   Future<String> _failureFuture() async {
     await Future.delayed(const Duration(seconds: 2), () {});
-
-    throw Exception('Error');
+    try {
+      throw Exception('Error');
+    } on Exception catch (e) {
+      return Future.error(e);
+    }
   }
 }

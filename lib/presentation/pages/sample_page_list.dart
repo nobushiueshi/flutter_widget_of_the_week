@@ -6,6 +6,7 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample000/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample000/sample_page_005.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample000/sample_page_006.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample000/sample_page_007.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample000/sample_page_008.dart';
 
 class SamplePageData {
   SamplePageData({
@@ -18,6 +19,8 @@ class SamplePageData {
 }
 
 final samplePageDataList = <SamplePageData>[
+  SamplePageData(
+      name: '#8 FloatingActionButton', widget: const SamplePage008()),
   SamplePageData(name: '#7 FadeTransition', widget: const SamplePage007()),
   SamplePageData(name: '#6 FutureBuilder', widget: const SamplePage006()),
   SamplePageData(name: '#5 Opacity', widget: const SamplePage005()),
