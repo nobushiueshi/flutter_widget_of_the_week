@@ -4,8 +4,9 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 ## Flutter Widget of the Week
 
-|#|ウィジット名|動画|リファレンス|
+|#|ウィジェット名|動画|リファレンス|
 |:---:|:---:|:---:|:---:|
+|#9|PageView|[リンク](https://www.youtube.com/watch?v=J1gE9xvph-A)|[リンク](https://api.flutter.dev/flutter/widgets/PageView-class.html)|
 |#8|FloatingActionButton|[リンク](https://www.youtube.com/watch?v=2uaoEDOgk_I)|[リンク](https://api.flutter.dev/flutter/material/FloatingActionButton-class.html)|
 |#7|FadeTransition|[リンク](https://www.youtube.com/watch?v=rLwWVbv3xDQ)|[リンク](https://api.flutter.dev/flutter/widgets/FadeTransition-class.html)|
 |#6|FutureBuilder|[リンク](https://www.youtube.com/watch?v=ek8ZPdWj4Qo)|[リンク](https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html)|
@@ -14,6 +15,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 |#3|Wrap|[リンク](https://www.youtube.com/watch?v=z5iw2SeFx2M)|[リンク](https://api.flutter.dev/flutter/widgets/Wrap-class.html)|
 |#2|Expanded|[リンク](https://www.youtube.com/watch?v=_rnZaagadyo)|[リンク](https://api.flutter.dev/flutter/widgets/Expanded-class.html)|
 |#1|SafeArea|[リンク](https://www.youtube.com/watch?v=lkF0TQJO0bA)|[リンク](https://api.flutter.dev/flutter/widgets/SafeArea-class.html)|
+
 ## 紹介記事
 
 |内容|記事|
