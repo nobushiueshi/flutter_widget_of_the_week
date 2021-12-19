@@ -6,6 +6,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---:|:---:|:---:|
+|#10|Table|[リンク](https://www.youtube.com/watch?v=_lbE0wsVZSw)|[リンク](https://api.flutter.dev/flutter/widgets/Table-class.html)|
 |#9|PageView|[リンク](https://www.youtube.com/watch?v=J1gE9xvph-A)|[リンク](https://api.flutter.dev/flutter/widgets/PageView-class.html)|
 |#8|FloatingActionButton|[リンク](https://www.youtube.com/watch?v=2uaoEDOgk_I)|[リンク](https://api.flutter.dev/flutter/material/FloatingActionButton-class.html)|
 |#7|FadeTransition|[リンク](https://www.youtube.com/watch?v=rLwWVbv3xDQ)|[リンク](https://api.flutter.dev/flutter/widgets/FadeTransition-class.html)|
