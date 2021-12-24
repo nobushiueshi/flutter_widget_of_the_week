@@ -6,6 +6,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---:|:---:|:---:|
+|#11|SliverAppBar|[リンク](https://www.youtube.com/watch?v=R9C5KMJKluE)|[リンク](https://api.flutter.dev/flutter/material/SliverAppBar-class.html)|
 |#10|Table|[リンク](https://www.youtube.com/watch?v=_lbE0wsVZSw)|[リンク](https://api.flutter.dev/flutter/widgets/Table-class.html)|
 |#9|PageView|[リンク](https://www.youtube.com/watch?v=J1gE9xvph-A)|[リンク](https://api.flutter.dev/flutter/widgets/PageView-class.html)|
 |#8|FloatingActionButton|[リンク](https://www.youtube.com/watch?v=2uaoEDOgk_I)|[リンク](https://api.flutter.dev/flutter/material/FloatingActionButton-class.html)|

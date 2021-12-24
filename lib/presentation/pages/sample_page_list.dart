@@ -9,6 +9,7 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample000/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample000/sample_page_008.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample000/sample_page_009.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample010/sample_page_010.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample010/sample_page_011.dart';
 
 class SamplePageData {
   SamplePageData({
@@ -21,6 +22,7 @@ class SamplePageData {
 }
 
 final samplePageDataList = <SamplePageData>[
+  SamplePageData(name: '#11 SliverAppBar', widget: const SamplePage011()),
   SamplePageData(name: '#10 Table', widget: const SamplePage010()),
   SamplePageData(name: '#9 PageView', widget: const SamplePage009()),
   SamplePageData(
