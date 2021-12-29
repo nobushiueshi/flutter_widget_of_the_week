@@ -1,16 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widget_of_the_week/presentation/pages/sample000/sample_page_001.dart';
-import 'package:flutter_widget_of_the_week/presentation/pages/sample000/sample_page_002.dart';
-import 'package:flutter_widget_of_the_week/presentation/pages/sample000/sample_page_003.dart';
-import 'package:flutter_widget_of_the_week/presentation/pages/sample000/sample_page_004.dart';
-import 'package:flutter_widget_of_the_week/presentation/pages/sample000/sample_page_005.dart';
-import 'package:flutter_widget_of_the_week/presentation/pages/sample000/sample_page_006.dart';
-import 'package:flutter_widget_of_the_week/presentation/pages/sample000/sample_page_007.dart';
-import 'package:flutter_widget_of_the_week/presentation/pages/sample000/sample_page_008.dart';
-import 'package:flutter_widget_of_the_week/presentation/pages/sample000/sample_page_009.dart';
-import 'package:flutter_widget_of_the_week/presentation/pages/sample010/sample_page_010.dart';
-import 'package:flutter_widget_of_the_week/presentation/pages/sample010/sample_page_011.dart';
-import 'package:flutter_widget_of_the_week/presentation/pages/sample010/sample_page_012.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample000/sample000_importer.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample010/sample010_importer.dart';
 
 class SamplePageData {
   SamplePageData({
@@ -23,6 +13,7 @@ class SamplePageData {
 }
 
 final samplePageDataList = <SamplePageData>[
+  SamplePageData(name: '#13 FadeInImage', widget: const SamplePage013()),
   SamplePageData(
       name: '#12 SliverList & SliverGrid', widget: const SamplePage012()),
   SamplePageData(name: '#11 SliverAppBar', widget: const SamplePage011()),
