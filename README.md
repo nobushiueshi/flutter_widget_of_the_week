@@ -6,10 +6,8 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---:|:---:|:---:|
-
-|#13|SliverList,SliverGrid|[リンク](https://www.youtube.com/watch?v=ORiTTaVY6mM)|[リンク](https://api.flutter.dev/flutter/widgets/SliverList-class.html) [リンク](https://api.flutter.dev/flutter/widgets/SliverGrid-class.html)|
-
-
+|#14|SteamBuilder|[リンク](https://www.youtube.com/watch?v=MkKEWHfy99Y)|[リンク](https://api.flutter.dev/flutter/widgets/StreamBuilder-class.html)|
+|#13|FadeInImage|[リンク](https://www.youtube.com/watch?v=pK738Pg9cxc)|[リンク](https://api.flutter.dev/flutter/widgets/FadeInImage-class.html)|
 |#12|SliverList,SliverGrid|[リンク](https://www.youtube.com/watch?v=ORiTTaVY6mM)|[リンク](https://api.flutter.dev/flutter/widgets/SliverList-class.html) [リンク](https://api.flutter.dev/flutter/widgets/SliverGrid-class.html)|
 |#11|SliverAppBar|[リンク](https://www.youtube.com/watch?v=R9C5KMJKluE)|[リンク](https://api.flutter.dev/flutter/material/SliverAppBar-class.html)|
 |#10|Table|[リンク](https://www.youtube.com/watch?v=_lbE0wsVZSw)|[リンク](https://api.flutter.dev/flutter/widgets/Table-class.html)|
