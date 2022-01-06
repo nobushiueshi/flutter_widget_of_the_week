@@ -13,6 +13,7 @@ class SamplePageData {
 }
 
 final samplePageDataList = <SamplePageData>[
+  SamplePageData(name: '#15 InheritedModel', widget: const SamplePage015()),
   SamplePageData(name: '#14 SteamBuilder', widget: const SamplePage014()),
   SamplePageData(name: '#13 FadeInImage', widget: const SamplePage013()),
   SamplePageData(

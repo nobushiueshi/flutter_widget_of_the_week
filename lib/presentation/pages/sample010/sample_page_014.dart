@@ -19,6 +19,7 @@ class _SamplePage014State extends State<SamplePage014> {
   final Stream<String> _errorStream = (() async* {
     await Future<void>.delayed(const Duration(seconds: 1));
     throw Exception('Error');
+    // ignore: dead_code
     yield 'Success';
     await Future<void>.delayed(const Duration(seconds: 1));
   })();

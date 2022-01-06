@@ -6,6 +6,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---:|:---:|:---:|
+|#15|InheritedModel|[リンク](https://www.youtube.com/watch?v=ml5uefGgkaA)|[リンク](https://api.flutter.dev/flutter/widgets/InheritedModel-class.html)|
 |#14|SteamBuilder|[リンク](https://www.youtube.com/watch?v=MkKEWHfy99Y)|[リンク](https://api.flutter.dev/flutter/widgets/StreamBuilder-class.html)|
 |#13|FadeInImage|[リンク](https://www.youtube.com/watch?v=pK738Pg9cxc)|[リンク](https://api.flutter.dev/flutter/widgets/FadeInImage-class.html)|
 |#12|SliverList,SliverGrid|[リンク](https://www.youtube.com/watch?v=ORiTTaVY6mM)|[リンク](https://api.flutter.dev/flutter/widgets/SliverList-class.html) [リンク](https://api.flutter.dev/flutter/widgets/SliverGrid-class.html)|
