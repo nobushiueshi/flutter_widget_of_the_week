@@ -6,6 +6,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---:|:---:|:---:|
+|#16|ClipRRect|[リンク](https://www.youtube.com/watch?v=eI43jkQkrvs)|[リンク](https://api.flutter.dev/flutter/widgets/ClipRRect-class.html)|
 |#15|InheritedModel|[リンク](https://www.youtube.com/watch?v=ml5uefGgkaA)|[リンク](https://api.flutter.dev/flutter/widgets/InheritedModel-class.html)|
 |#14|SteamBuilder|[リンク](https://www.youtube.com/watch?v=MkKEWHfy99Y)|[リンク](https://api.flutter.dev/flutter/widgets/StreamBuilder-class.html)|
 |#13|FadeInImage|[リンク](https://www.youtube.com/watch?v=pK738Pg9cxc)|[リンク](https://api.flutter.dev/flutter/widgets/FadeInImage-class.html)|
@@ -26,6 +27,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |内容|記事|
 |:---:|:---:|
+|FadeInImage,SteamBuilder|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c13-fadeinimage%e3%80%8d%e3%80%81%e3%80%8c14-streambuilder%e3%80%8d/)|
 |SliverAppBar,SliverList,SliverGrid|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c11-sliverappbar%e3%80%8d%e3%80%81%e3%80%8c12-sliverlist-slivergrid%e3%80%8d/)|
 |PageView,Table|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c9-pageview%e3%80%8d%e3%80%81%e3%80%8c10-table%e3%80%8d/)|
 |FutureBuilder,FadeTransition,FloatingActionButton|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c6-futurebuilder%e3%80%8d%e3%80%81%e3%80%8c7-fadetransition%e3%80%8d%e3%80%81%e3%80%8c8-floatingactionbutton%e3%80%8d/)|
