@@ -6,6 +6,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---:|:---:|:---:|
+|#17|Hero|[リンク](https://www.youtube.com/watch?v=Be9UH1kXFDw)|[リンク](https://api.flutter.dev/flutter/widgets/Hero-class.html)|
 |#16|ClipRRect|[リンク](https://www.youtube.com/watch?v=eI43jkQkrvs)|[リンク](https://api.flutter.dev/flutter/widgets/ClipRRect-class.html)|
 |#15|InheritedModel|[リンク](https://www.youtube.com/watch?v=ml5uefGgkaA)|[リンク](https://api.flutter.dev/flutter/widgets/InheritedModel-class.html)|
 |#14|SteamBuilder|[リンク](https://www.youtube.com/watch?v=MkKEWHfy99Y)|[リンク](https://api.flutter.dev/flutter/widgets/StreamBuilder-class.html)|
