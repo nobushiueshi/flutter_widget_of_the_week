@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widget_of_the_week/presentation/pages/sample_page_list.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample_page_data_list.dart';
 
 void main() {
   runApp(const MyApp());
