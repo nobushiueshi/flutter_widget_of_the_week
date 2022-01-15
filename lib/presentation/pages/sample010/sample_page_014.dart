@@ -33,7 +33,7 @@ class _SamplePage014State extends State<SamplePage014> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('#14 SteamBuilder'),
+        title: const Text('#14 StreamBuilder'),
       ),
       body: SafeArea(
         child: Center(
