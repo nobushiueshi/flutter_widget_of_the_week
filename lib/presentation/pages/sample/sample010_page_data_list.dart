@@ -8,8 +8,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample010/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample010/sample_page_016.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample010/sample_page_017.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample010/sample_page_018.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample010/sample_page_019.dart';
 
 final sample010PageDataList = <SamplePageData>[
+  SamplePageData(name: '#19 Tooltip', widget: const SamplePage019()),
   SamplePageData(name: '#18 CustomPaint', widget: const SamplePage018()),
   SamplePageData(name: '#17 Hero', widget: const SamplePage017()),
   SamplePageData(name: '#16 ClipRRect', widget: const SamplePage016()),

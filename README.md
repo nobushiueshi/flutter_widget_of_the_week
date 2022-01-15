@@ -6,6 +6,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---:|:---:|:---:|
+|#19|Tooltip|[リンク](https://www.youtube.com/watch?v=EeEfD5fI-5Q)|[リンク](https://api.flutter.dev/flutter/material/Tooltip-class.html)|
 |#18|CustomPaint|[リンク](https://www.youtube.com/watch?v=kp14Y4uHpHs)|[リンク](https://api.flutter.dev/flutter/widgets/CustomPaint-class.html)|
 |#17|Hero|[リンク](https://www.youtube.com/watch?v=Be9UH1kXFDw)|[リンク](https://api.flutter.dev/flutter/widgets/Hero-class.html)|
 |#16|ClipRRect|[リンク](https://www.youtube.com/watch?v=eI43jkQkrvs)|[リンク](https://api.flutter.dev/flutter/widgets/ClipRRect-class.html)|
