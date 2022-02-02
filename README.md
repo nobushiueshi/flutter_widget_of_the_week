@@ -6,6 +6,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---:|:---:|:---:|
+|#22|AbsorbPointer|[リンク](https://www.youtube.com/watch?v=65HoWqBboI8&list)|[リンク](https://api.flutter.dev/flutter/widgets/AbsorbPointer-class.html)|
 |#21|LayoutBuilder|[リンク](https://www.youtube.com/watch?v=IYDVcriKjsw)|[リンク](https://api.flutter.dev/flutter/widgets/LayoutBuilder-class.html)|
 |#20|FittedBox|[リンク](https://www.youtube.com/watch?v=T4Uehk3_wlY)|[リンク](https://api.flutter.dev/flutter/widgets/FittedBox-class.html)|
 |#19|Tooltip|[リンク](https://www.youtube.com/watch?v=EeEfD5fI-5Q)|[リンク](https://api.flutter.dev/flutter/material/Tooltip-class.html)|
