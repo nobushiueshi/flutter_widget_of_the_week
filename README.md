@@ -6,6 +6,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---:|:---:|:---:|
+|#21|LayoutBuilder|[リンク](https://www.youtube.com/watch?v=IYDVcriKjsw)|[リンク](https://api.flutter.dev/flutter/widgets/LayoutBuilder-class.html)|
 |#20|FittedBox|[リンク](https://www.youtube.com/watch?v=T4Uehk3_wlY)|[リンク](https://api.flutter.dev/flutter/widgets/FittedBox-class.html)|
 |#19|Tooltip|[リンク](https://www.youtube.com/watch?v=EeEfD5fI-5Q)|[リンク](https://api.flutter.dev/flutter/material/Tooltip-class.html)|
 |#18|CustomPaint|[リンク](https://www.youtube.com/watch?v=kp14Y4uHpHs)|[リンク](https://api.flutter.dev/flutter/widgets/CustomPaint-class.html)|
