@@ -23,7 +23,7 @@ class SamplePage021 extends StatelessWidget {
           } else {
             return const Center(
               child: Text(
-                'maxWidth >= 400',
+                'maxWidth <= 400',
                 style: TextStyle(color: Colors.blue),
               ),
             );
