@@ -1,4 +1,3 @@
-import 'dart:math';
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
@@ -48,25 +47,6 @@ class _SamplePage024State extends State<SamplePage024> {
             ],
           ),
         ),
-      ),
-    );
-  }
-}
-
-class _SamplePage023Icon extends StatelessWidget {
-  const _SamplePage023Icon({
-    Key? key,
-  }) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      width: 64,
-      height: 64,
-      color: Colors.blue,
-      child: const Icon(
-        Icons.catching_pokemon,
-        color: Colors.white,
       ),
     );
   }

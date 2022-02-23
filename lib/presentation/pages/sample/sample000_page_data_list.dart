@@ -12,7 +12,9 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample000/sample_p
 final sample000PageDataList = <SamplePageData>[
   SamplePageData(name: '#9 PageView', widget: const SamplePage009()),
   SamplePageData(
-      name: '#8 FloatingActionButton', widget: const SamplePage008()),
+    name: '#8 FloatingActionButton',
+    widget: const SamplePage008(),
+  ),
   SamplePageData(name: '#7 FadeTransition', widget: const SamplePage007()),
   SamplePageData(name: '#6 FutureBuilder', widget: const SamplePage006()),
   SamplePageData(name: '#5 Opacity', widget: const SamplePage005()),

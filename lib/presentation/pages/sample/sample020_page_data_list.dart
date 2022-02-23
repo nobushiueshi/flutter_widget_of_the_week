@@ -4,8 +4,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample020/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample020/sample_page_022.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample020/sample_page_023.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample020/sample_page_024.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample020/sample_page_025.dart';
 
 final sample020PageDataList = <SamplePageData>[
+  SamplePageData(name: '#25 Align', widget: const SamplePage025()),
   SamplePageData(name: '#24 BackdropFilter', widget: const SamplePage024()),
   SamplePageData(name: '#23 Transform', widget: const SamplePage023()),
   SamplePageData(name: '#22 AbsorbPointer', widget: const SamplePage022()),

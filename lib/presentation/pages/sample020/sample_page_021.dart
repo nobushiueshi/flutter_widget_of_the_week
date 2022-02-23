@@ -12,23 +12,25 @@ class SamplePage021 extends StatelessWidget {
         title: const Text('LayoutBuilder'),
       ),
       body: SafeArea(
-        child: LayoutBuilder(builder: (context, constrains) {
-          if (constrains.maxWidth > 400) {
-            return const Center(
-              child: Text(
-                'maxWidth > 400',
-                style: TextStyle(color: Colors.red),
-              ),
-            );
-          } else {
-            return const Center(
-              child: Text(
-                'maxWidth <= 400',
-                style: TextStyle(color: Colors.blue),
-              ),
-            );
-          }
-        }),
+        child: LayoutBuilder(
+          builder: (context, constrains) {
+            if (constrains.maxWidth > 400) {
+              return const Center(
+                child: Text(
+                  'maxWidth > 400',
+                  style: TextStyle(color: Colors.red),
+                ),
+              );
+            } else {
+              return const Center(
+                child: Text(
+                  'maxWidth <= 400',
+                  style: TextStyle(color: Colors.blue),
+                ),
+              );
+            }
+          },
+        ),
       ),
     );
   }

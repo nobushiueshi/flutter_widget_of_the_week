@@ -21,14 +21,17 @@ class SamplePage012 extends StatelessWidget {
             ),
           ),
           SliverList(
-            delegate: SliverChildBuilderDelegate((context, index) {
-              return Container(
-                alignment: Alignment.center,
-                color: Colors.lightBlue[100 * (index % 9)],
-                height: 50,
-                child: Text('List Item $index'),
-              );
-            }, childCount: 20),
+            delegate: SliverChildBuilderDelegate(
+              (context, index) {
+                return Container(
+                  alignment: Alignment.center,
+                  color: Colors.lightBlue[100 * (index % 9)],
+                  height: 50,
+                  child: Text('List Item $index'),
+                );
+              },
+              childCount: 20,
+            ),
           ),
           SliverGrid(
             delegate: SliverChildBuilderDelegate(

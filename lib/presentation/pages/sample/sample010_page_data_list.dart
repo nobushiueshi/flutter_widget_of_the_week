@@ -19,7 +19,9 @@ final sample010PageDataList = <SamplePageData>[
   SamplePageData(name: '#14 SteamBuilder', widget: const SamplePage014()),
   SamplePageData(name: '#13 FadeInImage', widget: const SamplePage013()),
   SamplePageData(
-      name: '#12 SliverList & SliverGrid', widget: const SamplePage012()),
+    name: '#12 SliverList & SliverGrid',
+    widget: const SamplePage012(),
+  ),
   SamplePageData(name: '#11 SliverAppBar', widget: const SamplePage011()),
   SamplePageData(name: '#10 Table', widget: const SamplePage010()),
 ];
