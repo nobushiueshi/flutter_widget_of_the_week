@@ -2,6 +2,10 @@
 
 Flutter Widget of the Weekの勉強用リポジトリです。
 
+## 環境
+
+* Flutter 2.10.2
+
 ## Flutter Widget of the Week
 
 |#|ウィジェット名|動画|リファレンス|
