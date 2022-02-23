@@ -10,6 +10,8 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---|:---:|:---:|
+|#26|Positioned|[リンク](https://www.youtube.com/watch?v=EgtPleVwxBQ)|[リンク](https://api.flutter.dev/flutter/widgets/Positioned-class.html)|
+|#25|Align|[リンク](https://www.youtube.com/watch?v=g2E7yl3MwMk)|[リンク](https://api.flutter.dev/flutter/widgets/Align-class.html)|
 |#24|BackdropFilter|[リンク](https://www.youtube.com/watch?v=dYRs7Q1vfYI)|[リンク](https://api.flutter.dev/flutter/widgets/BackdropFilter-class.html)|
 |#23|Transform|[リンク](https://www.youtube.com/watch?v=9z_YNlRlWfA)|[リンク](https://api.flutter.dev/flutter/widgets/Transform-class.html)|
 |#22|AbsorbPointer|[リンク](https://www.youtube.com/watch?v=65HoWqBboI8)|[リンク](https://api.flutter.dev/flutter/widgets/AbsorbPointer-class.html)|
@@ -39,6 +41,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |内容|記事|
 |:---|:---:|
+|Transform<br>BackdropFilter|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c23-transform%e3%80%8d%e3%80%81%e3%80%8c24-backdropfilter%e3%80%8d/)|
 |LayoutBuilder<br>AbsorbPointer|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c21-layoutbuilder%e3%80%8d%e3%80%81%e3%80%8c22-absorbpointer%e3%80%8d/)|
 |CustomPaint<br>Tooltip<br>FittedBox|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c18-custompaint%e3%80%8d%e3%80%81%e3%80%8c19-tooltip%e3%80%8d%e3%80%81%e3%80%8c20-fittedbox%e3%80%8d/)|
 |InheritedModel<br>ClipRRect<br>Hero|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c15-inheritedmodel%e3%80%8d%e3%80%81%e3%80%8c16-cliprrect%e3%80%8d%e3%80%81%e3%80%8c17-hero%e3%80%8d/)|

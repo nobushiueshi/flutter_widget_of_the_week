@@ -5,8 +5,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample020/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample020/sample_page_023.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample020/sample_page_024.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample020/sample_page_025.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample020/sample_page_026.dart';
 
 final sample020PageDataList = <SamplePageData>[
+  SamplePageData(name: '#26 Positioned', widget: const SamplePage026()),
   SamplePageData(name: '#25 Align', widget: const SamplePage025()),
   SamplePageData(name: '#24 BackdropFilter', widget: const SamplePage024()),
   SamplePageData(name: '#23 Transform', widget: const SamplePage023()),
