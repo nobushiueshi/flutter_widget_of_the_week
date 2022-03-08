@@ -10,6 +10,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---|:---:|:---:|
+|#29|SizedBox|[リンク](https://www.youtube.com/watch?v=EHPu_DzRfqA)|[リンク](https://api.flutter.dev/flutter/widgets/SizedBox-class.html)|
 |#28|Dismissible|[リンク](https://www.youtube.com/watch?v=iEMgjrfuc58)|[リンク](https://api.flutter.dev/flutter/widgets/Dismissible-class.html)|
 |#27|AnimatedBuilder|[リンク](https://www.youtube.com/watch?v=N-RiyZlv8v8)|[リンク](https://api.flutter.dev/flutter/widgets/AnimatedBuilder-class.html)|
 |#26|Positioned|[リンク](https://www.youtube.com/watch?v=EgtPleVwxBQ)|[リンク](https://api.flutter.dev/flutter/widgets/Positioned-class.html)|

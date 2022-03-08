@@ -8,8 +8,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample020/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample020/sample_page_026.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample020/sample_page_027.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample020/sample_page_028.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample020/sample_page_029.dart';
 
 final sample020PageDataList = <SamplePageData>[
+  SamplePageData(name: '#29 SizedBox', widget: const SamplePage029()),
   SamplePageData(name: '#28 Dismissible', widget: const SamplePage028()),
   SamplePageData(name: '#27 AnimatedBuilder', widget: const SamplePage027()),
   SamplePageData(name: '#26 Positioned', widget: const SamplePage026()),
