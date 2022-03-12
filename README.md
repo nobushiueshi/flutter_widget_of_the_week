@@ -10,6 +10,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---|:---:|:---:|
+|#31|Draggable|[リンク](https://www.youtube.com/watch?v=QzA4c4QHZCY)|[リンク](https://api.flutter.dev/flutter/widgets/Draggable-class.html)|
 |#30|ValueListenableBuilder|[リンク](https://www.youtube.com/watch?v=s-ZG-jS5QHQ)|[リンク](https://api.flutter.dev/flutter/widgets/ValueListenableBuilder-class.html)|
 |#29|SizedBox|[リンク](https://www.youtube.com/watch?v=EHPu_DzRfqA)|[リンク](https://api.flutter.dev/flutter/widgets/SizedBox-class.html)|
 |#28|Dismissible|[リンク](https://www.youtube.com/watch?v=iEMgjrfuc58)|[リンク](https://api.flutter.dev/flutter/widgets/Dismissible-class.html)|
@@ -45,6 +46,8 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |内容|記事|
 |:---|:---:|
+|Dismissible<br>SizedBox<br>ValueListenableBuilder|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c28-dismissible%e3%80%8d%e3%80%81%e3%80%8c29-sizedbox%e3%80%8d%e3%80%81%e3%80%8c30-valuelistenablebuilder%e3%80%8d/)|
+|Align<br>Positioned<br>AnimatedBuilder|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c25-align%e3%80%8d%e3%80%81%e3%80%8c26-positioned%e3%80%8d%e3%80%81%e3%80%8c27-animatedbuilder%e3%80%8d/)|
 |Transform<br>BackdropFilter|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c23-transform%e3%80%8d%e3%80%81%e3%80%8c24-backdropfilter%e3%80%8d/)|
 |LayoutBuilder<br>AbsorbPointer|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c21-layoutbuilder%e3%80%8d%e3%80%81%e3%80%8c22-absorbpointer%e3%80%8d/)|
 |CustomPaint<br>Tooltip<br>FittedBox|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c18-custompaint%e3%80%8d%e3%80%81%e3%80%8c19-tooltip%e3%80%8d%e3%80%81%e3%80%8c20-fittedbox%e3%80%8d/)|
