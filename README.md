@@ -10,6 +10,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---|:---:|:---:|
+|#33|Flexible|[リンク](https://www.youtube.com/watch?v=CI7x0mAZiY0)|[リンク](https://api.flutter.dev/flutter/widgets/Flexible-class.html)|
 |#32|AnimatedList|[リンク](https://www.youtube.com/watch?v=ZtfItHwFlZ8)|[リンク](https://api.flutter.dev/flutter/widgets/AnimatedList-class.html)|
 |#31|Draggable|[リンク](https://www.youtube.com/watch?v=QzA4c4QHZCY)|[リンク](https://api.flutter.dev/flutter/widgets/Draggable-class.html)|
 |#30|ValueListenableBuilder|[リンク](https://www.youtube.com/watch?v=s-ZG-jS5QHQ)|[リンク](https://api.flutter.dev/flutter/widgets/ValueListenableBuilder-class.html)|
