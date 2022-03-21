@@ -10,6 +10,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---|:---:|:---:|
+|#36|InheritedWidget|[リンク](https://www.youtube.com/watch?v=1t-8rBCGBYw)|[リンク](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)|
 |#35|Spacer|[リンク](https://www.youtube.com/watch?v=7FJgd7QN1zI)|[リンク](https://api.flutter.dev/flutter/widgets/Spacer-class.html)|
 |#34|MediaQuery|[リンク](https://www.youtube.com/watch?v=A3WrA4zAaPw)|[リンク](https://api.flutter.dev/flutter/widgets/MediaQuery-class.html)|
 |#33|Flexible|[リンク](https://www.youtube.com/watch?v=CI7x0mAZiY0)|[リンク](https://api.flutter.dev/flutter/widgets/Flexible-class.html)|
