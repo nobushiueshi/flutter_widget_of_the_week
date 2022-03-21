@@ -4,8 +4,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample030/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample030/sample_page_032.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample030/sample_page_033.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample030/sample_page_034.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample030/sample_page_035.dart';
 
 final sample030PageDataList = <SamplePageData>[
+  SamplePageData(name: '#35 Spacer', widget: const SamplePage035()),
   SamplePageData(name: '#34 MediaQuery', widget: const SamplePage034()),
   SamplePageData(name: '#33 Flexible', widget: const SamplePage033()),
   SamplePageData(name: '#32 AnimatedList', widget: const SamplePage032()),

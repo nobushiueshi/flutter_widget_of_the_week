@@ -4,12 +4,13 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 ## 環境
 
-* Flutter 2.10.2
+* Flutter 2.10.3
 
 ## Flutter Widget of the Week
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---|:---:|:---:|
+|#35|Spacer|[リンク](https://www.youtube.com/watch?v=7FJgd7QN1zI)|[リンク](https://api.flutter.dev/flutter/widgets/Spacer-class.html)|
 |#34|MediaQuery|[リンク](https://www.youtube.com/watch?v=A3WrA4zAaPw)|[リンク](https://api.flutter.dev/flutter/widgets/MediaQuery-class.html)|
 |#33|Flexible|[リンク](https://www.youtube.com/watch?v=CI7x0mAZiY0)|[リンク](https://api.flutter.dev/flutter/widgets/Flexible-class.html)|
 |#32|AnimatedList|[リンク](https://www.youtube.com/watch?v=ZtfItHwFlZ8)|[リンク](https://api.flutter.dev/flutter/widgets/AnimatedList-class.html)|
