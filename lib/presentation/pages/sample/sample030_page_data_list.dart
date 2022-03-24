@@ -7,8 +7,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample030/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample030/sample_page_035.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample030/sample_page_036.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample030/sample_page_037.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample030/sample_page_038.dart';
 
 final sample030PageDataList = <SamplePageData>[
+  SamplePageData(name: '#38 AspectRatio', widget: const SamplePage038()),
   SamplePageData(name: '#37 AnimatedIcon', widget: const SamplePage037()),
   SamplePageData(name: '#36 InheritedWidget', widget: const SamplePage036()),
   SamplePageData(name: '#35 Spacer', widget: const SamplePage035()),
