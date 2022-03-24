@@ -63,7 +63,7 @@ class _SamplePage036State extends State<SamplePage036> {
                 ],
               ),
               const SizedBox(height: 100),
-              _SamplePage036Child(),
+              const _SamplePage036Child(),
             ],
           ),
         ),
@@ -97,6 +97,10 @@ class _SamplePage036Color extends InheritedWidget {
 }
 
 class _SamplePage036Child extends StatelessWidget {
+  const _SamplePage036Child({
+    Key? key,
+  }) : super(key: key);
+
   @override
   Widget build(BuildContext context) {
     final color = _SamplePage036Color.of(context).color;
