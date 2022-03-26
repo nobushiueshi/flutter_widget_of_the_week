@@ -10,6 +10,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---|:---:|:---:|
+|#39|LimitedBox|[リンク](https://www.youtube.com/watch?v=uVki2CIzBTs)|[リンク](https://api.flutter.dev/flutter/widgets/LimitedBox-class.html)|
 |#38|AspectRatio|[リンク](https://www.youtube.com/watch?v=XcnP3_mO_Ms)|[リンク](https://api.flutter.dev/flutter/widgets/AspectRatio-class.html)|
 |#37|AnimatedIcon|[リンク](https://www.youtube.com/watch?v=pJcbh8pbvJs)|[リンク](https://api.flutter.dev/flutter/material/AnimatedIcon-class.html)|
 |#36|InheritedWidget|[リンク](https://www.youtube.com/watch?v=1t-8rBCGBYw)|[リンク](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)|
