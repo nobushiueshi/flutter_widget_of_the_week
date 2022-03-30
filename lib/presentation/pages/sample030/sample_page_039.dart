@@ -23,7 +23,7 @@ class SamplePage039 extends StatelessWidget {
                 children: [
                   for (var i = 0; i < 10; i++)
                     Container(
-                      color: (i % 2).isEven ? Colors.blue : Colors.red,
+                      color: i.isEven ? Colors.blue : Colors.red,
                     ),
                 ],
               ),
@@ -37,7 +37,7 @@ class SamplePage039 extends StatelessWidget {
                     LimitedBox(
                       maxHeight: 100,
                       child: Container(
-                        color: (i % 2).isEven ? Colors.blue : Colors.red,
+                        color: i.isEven ? Colors.blue : Colors.red,
                       ),
                     ),
                 ],
