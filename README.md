@@ -4,12 +4,13 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 ## 環境
 
-* Flutter 2.10.3
+* Flutter 2.10.4
 
 ## Flutter Widget of the Week
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---|:---:|:---:|
+|#41|RichText|[リンク](https://www.youtube.com/watch?v=rykDVh-QFfw)|[リンク](https://api.flutter.dev/flutter/widgets/RichText-class.html)|
 |#40|Placeholder|[リンク](https://www.youtube.com/watch?v=LPe56fezmoo)|[リンク](https://api.flutter.dev/flutter/widgets/Placeholder-class.html)|
 |#39|LimitedBox|[リンク](https://www.youtube.com/watch?v=uVki2CIzBTs)|[リンク](https://api.flutter.dev/flutter/widgets/LimitedBox-class.html)|
 |#38|AspectRatio|[リンク](https://www.youtube.com/watch?v=XcnP3_mO_Ms)|[リンク](https://api.flutter.dev/flutter/widgets/AspectRatio-class.html)|
