@@ -10,6 +10,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---|:---:|:---:|
+|#45|AnimatedPadding|[リンク](https://www.youtube.com/watch?v=PY2m0fhGNz4)|[リンク](https://api.flutter.dev/flutter/widgets/AnimatedPadding-class.html)|
 |#44|AnimatedPositioned|[リンク](https://www.youtube.com/watch?v=hC3s2YdtWt8)|[リンク](https://api.flutter.dev/flutter/widgets/AnimatedPositioned-class.html)|
 |#43|AnimatedSwitcher|[リンク](https://www.youtube.com/watch?v=2W7POjFb88g)|[リンク](https://api.flutter.dev/flutter/widgets/AnimatedSwitcher-class.html)|
 |#42|ReorderableListView|[リンク](https://www.youtube.com/watch?v=3fB1mxOsqJE)|[リンク](https://api.flutter.dev/flutter/material/ReorderableListView-class.html)|
