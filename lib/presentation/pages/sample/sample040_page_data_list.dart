@@ -2,8 +2,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample_page
 import 'package:flutter_widget_of_the_week/presentation/pages/sample040/sample_page_040.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample040/sample_page_041.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample040/sample_page_042.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample040/sample_page_043.dart';
 
 final sample040PageDataList = <SamplePageData>[
+  SamplePageData(name: '#43 AnimatedSwitcher', widget: const SamplePage043()),
   SamplePageData(
     name: '#42 ReorderableListView',
     widget: const SamplePage042(),

@@ -10,6 +10,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---|:---:|:---:|
+|#43|AnimatedSwitcher|[リンク](https://www.youtube.com/watch?v=2W7POjFb88g)|[リンク](https://api.flutter.dev/flutter/widgets/AnimatedSwitcher-class.html)|
 |#42|ReorderableListView|[リンク](https://www.youtube.com/watch?v=3fB1mxOsqJE)|[リンク](https://api.flutter.dev/flutter/material/ReorderableListView-class.html)|
 |#41|RichText|[リンク](https://www.youtube.com/watch?v=rykDVh-QFfw)|[リンク](https://api.flutter.dev/flutter/widgets/RichText-class.html)|
 |#40|Placeholder|[リンク](https://www.youtube.com/watch?v=LPe56fezmoo)|[リンク](https://api.flutter.dev/flutter/widgets/Placeholder-class.html)|
