@@ -10,6 +10,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---|:---:|:---:|
+|#50|AnimatedOpacity|[リンク](https://www.youtube.com/watch?v=QZAvjqOqiLY)|[リンク](https://api.flutter.dev/flutter/widgets/AnimatedOpacity-class.html)|
 |#49|Stack|[リンク](https://www.youtube.com/watch?v=liEGSeD3Zt8)|[リンク](https://api.flutter.dev/flutter/widgets/Stack-class.html)|
 |#48|ConstrainedBox|[リンク](https://www.youtube.com/watch?v=o2KveVr7adg)|[リンク](https://api.flutter.dev/flutter/rendering/BoxConstraints-class.html)|
 |#47|Semantics|[リンク](https://www.youtube.com/watch?v=NvtMt_DtFrQ)|[リンク](https://api.flutter.dev/flutter/widgets/Semantics-class.html)|
