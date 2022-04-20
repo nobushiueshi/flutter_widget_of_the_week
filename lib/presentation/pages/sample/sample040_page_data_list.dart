@@ -8,8 +8,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample040/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample040/sample_page_046.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample040/sample_page_047.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample040/sample_page_048.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample040/sample_page_049.dart';
 
 final sample040PageDataList = <SamplePageData>[
+  SamplePageData(name: '#49 Stack', widget: const SamplePage049()),
   SamplePageData(name: '#48 ConstrainedBox', widget: const SamplePage048()),
   SamplePageData(name: '#47 Semantics', widget: const SamplePage047()),
   SamplePageData(name: '#46 IndexedStack', widget: const SamplePage046()),
