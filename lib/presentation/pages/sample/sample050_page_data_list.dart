@@ -3,8 +3,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample050/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample050/sample_page_051.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample050/sample_page_052.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample050/sample_page_053.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample050/sample_page_054.dart';
 
 final sample050PageDataList = <SamplePageData>[
+  SamplePageData(name: '#54 Container', widget: const SamplePage054()),
   SamplePageData(name: '#53 ListTile', widget: const SamplePage053()),
   SamplePageData(name: '#52 ListView', widget: const SamplePage052()),
   SamplePageData(

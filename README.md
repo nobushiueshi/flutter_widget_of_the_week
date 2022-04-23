@@ -4,12 +4,13 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 ## 環境
 
-* Flutter 2.10.4
+* Flutter 2.10.5
 
 ## Flutter Widget of the Week
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---|:---:|:---:|
+|#54|Container|[リンク](https://www.youtube.com/watch?v=c1xLMaTUWCY)|[リンク](https://api.flutter.dev/flutter/widgets/Container-class.html)|
 |#53|ListTile|[リンク](https://www.youtube.com/watch?v=l8dj0yPBvgQ)|[リンク](https://api.flutter.dev/flutter/material/ListTile-class.html)|
 |#52|ListView|[リンク](https://www.youtube.com/watch?v=KJpkjHGiI5A)|[リンク](https://api.flutter.dev/flutter/widgets/ListView-class.html)|
 |#51|FractionallySizedBox|[リンク](https://www.youtube.com/watch?v=PEsY654EGZ0)|[リンク](https://api.flutter.dev/flutter/widgets/FractionallySizedBox-class.html)|
