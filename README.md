@@ -10,6 +10,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---|:---:|:---:|
+|#53|ListTile|[リンク](https://www.youtube.com/watch?v=l8dj0yPBvgQ)|[リンク](https://api.flutter.dev/flutter/material/ListTile-class.html)|
 |#52|ListView|[リンク](https://www.youtube.com/watch?v=KJpkjHGiI5A)|[リンク](https://api.flutter.dev/flutter/widgets/ListView-class.html)|
 |#51|FractionallySizedBox|[リンク](https://www.youtube.com/watch?v=PEsY654EGZ0)|[リンク](https://api.flutter.dev/flutter/widgets/FractionallySizedBox-class.html)|
 |#50|AnimatedOpacity|[リンク](https://www.youtube.com/watch?v=QZAvjqOqiLY)|[リンク](https://api.flutter.dev/flutter/widgets/AnimatedOpacity-class.html)|
