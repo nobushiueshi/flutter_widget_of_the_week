@@ -10,6 +10,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---|:---:|:---:|
+|#55|SelectableText|[リンク](https://www.youtube.com/watch?v=ZSU3ZXOs6hc)|[リンク](https://api.flutter.dev/flutter/material/SelectableText-class.html)|
 |#54|Container|[リンク](https://www.youtube.com/watch?v=c1xLMaTUWCY)|[リンク](https://api.flutter.dev/flutter/widgets/Container-class.html)|
 |#53|ListTile|[リンク](https://www.youtube.com/watch?v=l8dj0yPBvgQ)|[リンク](https://api.flutter.dev/flutter/material/ListTile-class.html)|
 |#52|ListView|[リンク](https://www.youtube.com/watch?v=KJpkjHGiI5A)|[リンク](https://api.flutter.dev/flutter/widgets/ListView-class.html)|
