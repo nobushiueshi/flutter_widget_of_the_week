@@ -5,8 +5,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample050/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample050/sample_page_053.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample050/sample_page_054.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample050/sample_page_055.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample050/sample_page_056.dart';
 
 final sample050PageDataList = <SamplePageData>[
+  SamplePageData(name: '#56 DataTable', widget: const SamplePage056()),
   SamplePageData(name: '#55 SelectableText', widget: const SamplePage055()),
   SamplePageData(name: '#54 Container', widget: const SamplePage054()),
   SamplePageData(name: '#53 ListTile', widget: const SamplePage053()),
