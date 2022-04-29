@@ -10,6 +10,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---|:---:|:---:|
+|#57|Slider<br>RangeSlider<br>CupertinoSlider|[リンク](https://www.youtube.com/watch?v=ufb4gIPDmEs)|[リンク](https://api.flutter.dev/flutter/material/Slider-class.html)<br>[リンク](https://api.flutter.dev/flutter/material/RangeSlider-class.html)<br>[リンク](https://api.flutter.dev/flutter/cupertino/CupertinoSlider-class.html)|
 |#56|DataTable|[リンク](https://www.youtube.com/watch?v=ktTajqbhIcY)|[リンク](https://api.flutter.dev/flutter/material/DataTable-class.html)|
 |#55|SelectableText|[リンク](https://www.youtube.com/watch?v=ZSU3ZXOs6hc)|[リンク](https://api.flutter.dev/flutter/material/SelectableText-class.html)|
 |#54|Container|[リンク](https://www.youtube.com/watch?v=c1xLMaTUWCY)|[リンク](https://api.flutter.dev/flutter/widgets/Container-class.html)|
