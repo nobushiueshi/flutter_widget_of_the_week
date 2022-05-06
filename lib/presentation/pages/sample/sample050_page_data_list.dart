@@ -8,8 +8,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample050/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample050/sample_page_056.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample050/sample_page_057.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample050/sample_page_058.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample050/sample_page_059.dart';
 
 final sample050PageDataList = <SamplePageData>[
+  SamplePageData(name: '#59 AnimatedCrossFade', widget: const SamplePage059()),
   SamplePageData(name: '#58 AlertDialog', widget: const SamplePage058()),
   SamplePageData(
     name: '#57 Slider & RangeSlider & CupertinoSlider',
