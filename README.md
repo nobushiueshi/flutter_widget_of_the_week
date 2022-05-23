@@ -10,6 +10,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---|:---:|:---:|
+|#61|ColorFiltered|[リンク](https://www.youtube.com/watch?v=F7Cll22Dno8)|[リンク](https://api.flutter.dev/flutter/widgets/ColorFiltered-class.html)|
 |#60|DraggableScrollableSheet|[リンク](https://www.youtube.com/watch?v=Hgw819mL_78)|[リンク](https://api.flutter.dev/flutter/widgets/DraggableScrollableSheet-class.html)|
 |#59|AnimatedCrossFade|[リンク](https://www.youtube.com/watch?v=PGK2UUAyE54)|[リンク](https://api.flutter.dev/flutter/widgets/AnimatedCrossFade-class.html)|
 |#58|AlertDialog<br>CupertinoAlertDialog|[リンク](https://www.youtube.com/watch?v=75CsnyRXf5I)|[リンク](https://api.flutter.dev/flutter/material/AlertDialog-class.html)<br>[リンク](https://api.flutter.dev/flutter/cupertino/CupertinoAlertDialog-class.html)|
