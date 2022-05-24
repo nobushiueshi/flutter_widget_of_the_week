@@ -4,8 +4,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_page_062.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_page_063.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_page_064.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_page_065.dart';
 
 final sample060PageDataList = <SamplePageData>[
+  SamplePageData(name: '#65 Image', widget: const SamplePage065()),
   SamplePageData(
     name: '#64 TweenAnimationBuilder',
     widget: const SamplePage064(),
