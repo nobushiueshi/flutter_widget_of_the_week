@@ -3,8 +3,13 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_page_061.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_page_062.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_page_063.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_page_064.dart';
 
 final sample060PageDataList = <SamplePageData>[
+  SamplePageData(
+    name: '#64 TweenAnimationBuilder',
+    widget: const SamplePage064(),
+  ),
   SamplePageData(
     name: '#63 CupertinoActionSheet',
     widget: const SamplePage063(),

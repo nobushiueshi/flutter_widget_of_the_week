@@ -58,17 +58,13 @@ class SamplePage035 extends StatelessWidget {
 class _SamplePage035ColorBox extends StatelessWidget {
   const _SamplePage035ColorBox({
     Key? key,
-    this.color = Colors.blue,
   }) : super(key: key);
-
-  final Color color;
 
   @override
   Widget build(BuildContext context) {
-    return Container(
+    return const SizedBox(
       width: 64,
       height: 64,
-      color: color,
     );
   }
 }
