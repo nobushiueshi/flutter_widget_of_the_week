@@ -5,8 +5,13 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_page_063.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_page_064.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_page_065.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_page_066.dart';
 
 final sample060PageDataList = <SamplePageData>[
+  SamplePageData(
+    name: '#66 DefaultTabController & TabBar & TabBarView',
+    widget: const SamplePage066(),
+  ),
   SamplePageData(name: '#65 Image', widget: const SamplePage065()),
   SamplePageData(
     name: '#64 TweenAnimationBuilder',

@@ -10,6 +10,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---|:---:|:---:|
+|#66|DefaultTabController<br>TabBar<br>TabBarView|[リンク](https://www.youtube.com/watch?v=POtoEH-5l40)|[リンク](https://api.flutter.dev/flutter/material/DefaultTabController-class.html)<br>[リンク](https://api.flutter.dev/flutter/material/TabBar-class.html)<br>[リンク](https://api.flutter.dev/flutter/material/TabBarView-class.html)|
 |#65|Image|[リンク](https://www.youtube.com/watch?v=7oIAs-0G4mw)|[リンク](https://api.flutter.dev/flutter/widgets/Image-class.html)|
 |#64|TweenAnimationBuilder|[リンク](https://www.youtube.com/watch?v=l9uHB8VXZOg)|[リンク](https://api.flutter.dev/flutter/widgets/TweenAnimationBuilder-class.html)|
 |#63|CupertinoActionSheet|[リンク](https://www.youtube.com/watch?v=U-ao8p4A82k)|[リンク](https://api.flutter.dev/flutter/cupertino/CupertinoActionSheet-class.html)|
