@@ -6,8 +6,13 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_page_064.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_page_065.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_page_066.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_page_067.dart';
 
 final sample060PageDataList = <SamplePageData>[
+  SamplePageData(
+    name: '#67 Drawer',
+    widget: const SamplePage067(),
+  ),
   SamplePageData(
     name: '#66 DefaultTabController & TabBar & TabBarView',
     widget: const SamplePage066(),
