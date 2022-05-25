@@ -8,8 +8,13 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_page_066.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_page_067.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_page_068.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_page_069.dart';
 
 final sample060PageDataList = <SamplePageData>[
+  SamplePageData(
+    name: '#69 ListWheelScrollView',
+    widget: const SamplePage069(),
+  ),
   SamplePageData(name: '#68 SnackBar', widget: const SamplePage068()),
   SamplePageData(name: '#67 Drawer', widget: const SamplePage067()),
   SamplePageData(

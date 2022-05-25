@@ -10,6 +10,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---|:---:|:---:|
+|#69|ListWheelScrollView|[リンク](https://www.youtube.com/watch?v=dUhmWAz4C7Y)|[リンク](https://api.flutter.dev/flutter/widgets/ListWheelScrollView-class.html)|
 |#68|SnackBar|[リンク](https://www.youtube.com/watch?v=zpO6n_oZWw0)|[リンク](https://api.flutter.dev/flutter/material/SnackBar-class.html)|
 |#67|Drawer|[リンク](https://www.youtube.com/watch?v=WRj86iHihgY)|[リンク](https://api.flutter.dev/flutter/material/Drawer-class.html)|
 |#66|DefaultTabController<br>TabBar<br>TabBarView|[リンク](https://www.youtube.com/watch?v=POtoEH-5l40)|[リンク](https://api.flutter.dev/flutter/material/DefaultTabController-class.html)<br>[リンク](https://api.flutter.dev/flutter/material/TabBar-class.html)<br>[リンク](https://api.flutter.dev/flutter/material/TabBarView-class.html)|
