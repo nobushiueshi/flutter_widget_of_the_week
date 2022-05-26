@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 class SamplePage052 extends StatefulWidget {
   const SamplePage052({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   State<SamplePage052> createState() => _SamplePage052State();

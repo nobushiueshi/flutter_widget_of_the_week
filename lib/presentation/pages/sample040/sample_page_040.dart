@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 class SamplePage040 extends StatelessWidget {
   const SamplePage040({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -16,40 +16,40 @@ class SamplePage040 extends StatelessWidget {
         child: Center(
           child: Column(
             children: [
-              Flexible(
-                child: Container(
+              const Flexible(
+                child: ColoredBox(
                   color: Colors.purple,
                 ),
               ),
               Flexible(
                 child: Row(
-                  children: [
+                  children: const [
                     Flexible(
-                      child: Container(
+                      child: ColoredBox(
                         color: Colors.yellow,
                       ),
                     ),
-                    const Flexible(
+                    Flexible(
                       child: Placeholder(),
                     ),
                     Flexible(
-                      child: Container(
+                      child: ColoredBox(
                         color: Colors.yellow,
                       ),
                     ),
                   ],
                 ),
               ),
-              Flexible(
-                child: Container(
+              const Flexible(
+                child: ColoredBox(
                   color: Colors.cyan,
                 ),
               ),
               const Flexible(
                 child: Placeholder(),
               ),
-              Flexible(
-                child: Container(
+              const Flexible(
+                child: ColoredBox(
                   color: Colors.blue,
                 ),
               ),

@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 class SamplePage069 extends StatelessWidget {
   const SamplePage069({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -22,7 +22,7 @@ class SamplePage069 extends StatelessWidget {
                   offAxisFraction: -0.5,
                   children: List.generate(
                     30,
-                    (index) => Container(
+                    (index) => ColoredBox(
                       color: Colors.blue,
                       child: ListTile(
                         title: Text('index : $index'),

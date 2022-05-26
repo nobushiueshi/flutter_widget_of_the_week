@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 
 class SamplePage057 extends StatefulWidget {
   const SamplePage057({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   State<SamplePage057> createState() => _SamplePage057State();
@@ -29,7 +29,6 @@ class _SamplePage057State extends State<SamplePage057> {
             const Text('Slider'),
             Slider(
               value: _sliderValue,
-              min: 0,
               max: 100,
               onChanged: (value) {
                 setState(() {
@@ -43,7 +42,6 @@ class _SamplePage057State extends State<SamplePage057> {
             const Text('RangeSlider'),
             RangeSlider(
               values: _rangeValues,
-              min: 0,
               max: 100,
               onChanged: (values) {
                 setState(() {
@@ -60,7 +58,6 @@ class _SamplePage057State extends State<SamplePage057> {
             const Text('CupertinoSlider'),
             CupertinoSlider(
               value: _cupertinoSliderValue,
-              min: 0,
               max: 100,
               onChanged: (value) {
                 setState(() {

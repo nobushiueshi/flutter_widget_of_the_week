@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 class SamplePage045 extends StatefulWidget {
   const SamplePage045({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   State<SamplePage045> createState() => _SamplePage045State();
@@ -21,7 +21,7 @@ class _SamplePage045State extends State<SamplePage045> {
       ),
       body: SafeArea(
         child: Center(
-          child: Container(
+          child: ColoredBox(
             color: Colors.blue,
             child: AnimatedPadding(
               duration: const Duration(milliseconds: 300),

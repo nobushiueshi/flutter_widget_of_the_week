@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 class SamplePage056 extends StatelessWidget {
   const SamplePage056({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -17,7 +17,6 @@ class SamplePage056 extends StatelessWidget {
           scrollDirection: Axis.horizontal,
           child: DataTable(
             sortColumnIndex: 1,
-            sortAscending: true,
             columns: const [
               DataColumn(
                 label: Text('年'),
