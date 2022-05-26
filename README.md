@@ -4,7 +4,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 ## 環境
 
-* Flutter 2.10.5
+* Flutter 3.0.1
 
 ## Flutter Widget of the Week
 
