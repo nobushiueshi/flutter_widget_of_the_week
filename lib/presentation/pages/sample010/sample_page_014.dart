@@ -2,14 +2,14 @@ import 'package:flutter/material.dart';
 
 class SamplePage014 extends StatefulWidget {
   const SamplePage014({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
-  _SamplePage014State createState() => _SamplePage014State();
+  SamplePage014State createState() => SamplePage014State();
 }
 
-class _SamplePage014State extends State<SamplePage014> {
+class SamplePage014State extends State<SamplePage014> {
   final Stream<String> _successStream = (() async* {
     await Future<void>.delayed(const Duration(seconds: 1));
     yield 'Success';

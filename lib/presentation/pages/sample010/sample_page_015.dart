@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 class SamplePage015 extends StatelessWidget {
   const SamplePage015({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -27,9 +27,8 @@ class SamplePage015 extends StatelessWidget {
 
 class _SamplePage015Stateful extends StatefulWidget {
   const _SamplePage015Stateful({
-    Key? key,
     required this.child,
-  }) : super(key: key);
+  });
 
   final Widget child;
 
@@ -104,9 +103,7 @@ class _SamplePage015InheritedModel extends InheritedModel<String> {
 }
 
 class _SamplePage015ColorOneWidget extends StatelessWidget {
-  const _SamplePage015ColorOneWidget({
-    Key? key,
-  }) : super(key: key);
+  const _SamplePage015ColorOneWidget();
 
   @override
   Widget build(BuildContext context) {
@@ -125,9 +122,7 @@ class _SamplePage015ColorOneWidget extends StatelessWidget {
 }
 
 class _SamplePage015ColorTwoWidget extends StatelessWidget {
-  const _SamplePage015ColorTwoWidget({
-    Key? key,
-  }) : super(key: key);
+  const _SamplePage015ColorTwoWidget();
 
   @override
   Widget build(BuildContext context) {
@@ -146,9 +141,7 @@ class _SamplePage015ColorTwoWidget extends StatelessWidget {
 }
 
 class _SamplePage015ColorChangerWidget extends StatelessWidget {
-  const _SamplePage015ColorChangerWidget({
-    Key? key,
-  }) : super(key: key);
+  const _SamplePage015ColorChangerWidget();
 
   @override
   Widget build(BuildContext context) {

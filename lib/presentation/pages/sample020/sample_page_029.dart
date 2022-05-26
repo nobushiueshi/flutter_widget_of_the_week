@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 class SamplePage029 extends StatelessWidget {
   const SamplePage029({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -15,7 +15,6 @@ class SamplePage029 extends StatelessWidget {
       body: SafeArea(
         child: SingleChildScrollView(
           child: Column(
-            crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               SizedBox(
                 width: double.infinity,

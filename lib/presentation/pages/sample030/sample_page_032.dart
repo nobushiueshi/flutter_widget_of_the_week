@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 class SamplePage032 extends StatefulWidget {
   const SamplePage032({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   State<SamplePage032> createState() => _SamplePage032State();
@@ -71,11 +71,10 @@ class _SamplePage032State extends State<SamplePage032> {
 
 class _SamplePage032Item extends StatelessWidget {
   const _SamplePage032Item({
-    Key? key,
     required this.animation,
     this.title,
     this.onTap,
-  }) : super(key: key);
+  });
 
   final Animation<double> animation;
   final Widget? title;

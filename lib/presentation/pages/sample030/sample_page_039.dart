@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 class SamplePage039 extends StatelessWidget {
   const SamplePage039({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -22,7 +22,7 @@ class SamplePage039 extends StatelessWidget {
                 shrinkWrap: true,
                 children: [
                   for (var i = 0; i < 10; i++)
-                    Container(
+                    ColoredBox(
                       color: i.isEven ? Colors.blue : Colors.red,
                     ),
                 ],
@@ -36,7 +36,7 @@ class SamplePage039 extends StatelessWidget {
                   for (var i = 0; i < 10; i++)
                     LimitedBox(
                       maxHeight: 100,
-                      child: Container(
+                      child: ColoredBox(
                         color: i.isEven ? Colors.blue : Colors.red,
                       ),
                     ),

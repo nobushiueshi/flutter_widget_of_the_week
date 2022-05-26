@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 class SamplePage002 extends StatelessWidget {
   const SamplePage002({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -76,7 +76,6 @@ class SamplePage002 extends StatelessWidget {
                     ),
                     _SamplePage002Child(),
                     Expanded(
-                      flex: 1,
                       child: _SamplePage002Child(
                         color: Colors.purple,
                       ),
@@ -95,9 +94,8 @@ class SamplePage002 extends StatelessWidget {
 
 class _SamplePage002Child extends StatelessWidget {
   const _SamplePage002Child({
-    Key? key,
     this.color = Colors.yellow,
-  }) : super(key: key);
+  });
 
   final Color color;
 

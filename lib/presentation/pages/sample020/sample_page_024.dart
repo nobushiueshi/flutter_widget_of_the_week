@@ -4,14 +4,14 @@ import 'package:flutter/material.dart';
 
 class SamplePage024 extends StatefulWidget {
   const SamplePage024({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
-  _SamplePage024State createState() => _SamplePage024State();
+  SamplePage024State createState() => SamplePage024State();
 }
 
-class _SamplePage024State extends State<SamplePage024> {
+class SamplePage024State extends State<SamplePage024> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -36,7 +36,7 @@ class _SamplePage024State extends State<SamplePage024> {
                         sigmaX: 3,
                         sigmaY: 3,
                       ),
-                      child: Container(
+                      child: ColoredBox(
                         color: Colors.black.withOpacity(0),
                       ),
                     ),

@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 
 class SamplePage030 extends StatefulWidget {
   const SamplePage030({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   State<SamplePage030> createState() => _SamplePage030State();
@@ -49,7 +49,6 @@ class _SamplePage030State extends State<SamplePage030>
       body: SafeArea(
         child: Center(
           child: Column(
-            mainAxisSize: MainAxisSize.max,
             children: [
               ValueListenableBuilder<int>(
                 valueListenable: _notifier,

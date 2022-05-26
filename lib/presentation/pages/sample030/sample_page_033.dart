@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 class SamplePage033 extends StatefulWidget {
   const SamplePage033({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   State<SamplePage033> createState() => _SamplePage033State();
@@ -19,12 +19,12 @@ class _SamplePage033State extends State<SamplePage033> {
       ),
       body: SafeArea(
         child: Column(
-          children: [
+          children: const [
             Flexible(
               flex: 2,
-              child: Container(
+              child: ColoredBox(
                 color: Colors.cyan,
-                child: const Center(
+                child: Center(
                   child: Text(
                     '1/3\n(2 Flex / 6 Total)',
                     textAlign: TextAlign.center,
@@ -35,9 +35,9 @@ class _SamplePage033State extends State<SamplePage033> {
             ),
             Flexible(
               flex: 3,
-              child: Container(
+              child: ColoredBox(
                 color: Colors.teal,
-                child: const Center(
+                child: Center(
                   child: Text(
                     '1/2\n(3 Flex / 6 Total)',
                     textAlign: TextAlign.center,
@@ -47,10 +47,9 @@ class _SamplePage033State extends State<SamplePage033> {
               ),
             ),
             Flexible(
-              flex: 1,
-              child: Container(
+              child: ColoredBox(
                 color: Colors.indigo,
-                child: const Center(
+                child: Center(
                   child: Text(
                     '1/6\n(1 Flex / 6 Total)',
                     textAlign: TextAlign.center,

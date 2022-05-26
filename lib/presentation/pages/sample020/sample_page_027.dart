@@ -4,14 +4,14 @@ import 'package:flutter/material.dart';
 
 class SamplePage027 extends StatefulWidget {
   const SamplePage027({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
-  _SamplePage027State createState() => _SamplePage027State();
+  SamplePage027State createState() => SamplePage027State();
 }
 
-class _SamplePage027State extends State<SamplePage027>
+class SamplePage027State extends State<SamplePage027>
     with SingleTickerProviderStateMixin {
   late final AnimationController _controller;
 

@@ -2,14 +2,14 @@ import 'package:flutter/material.dart';
 
 class SamplePage022 extends StatefulWidget {
   const SamplePage022({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
-  _SamplePage022State createState() => _SamplePage022State();
+  SamplePage022State createState() => SamplePage022State();
 }
 
-class _SamplePage022State extends State<SamplePage022> {
+class SamplePage022State extends State<SamplePage022> {
   bool _absorbing = false;
 
   @override
@@ -68,10 +68,9 @@ class _SamplePage022State extends State<SamplePage022> {
 
 class _SamplePage022IconButton extends StatelessWidget {
   const _SamplePage022IconButton({
-    Key? key,
     required this.onPressed,
     this.color = Colors.blue,
-  }) : super(key: key);
+  });
 
   final void Function()? onPressed;
   final Color color;

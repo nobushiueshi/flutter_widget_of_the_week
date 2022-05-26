@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 class SamplePage035 extends StatelessWidget {
   const SamplePage035({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -56,9 +56,7 @@ class SamplePage035 extends StatelessWidget {
 }
 
 class _SamplePage035ColorBox extends StatelessWidget {
-  const _SamplePage035ColorBox({
-    Key? key,
-  }) : super(key: key);
+  const _SamplePage035ColorBox();
 
   @override
   Widget build(BuildContext context) {

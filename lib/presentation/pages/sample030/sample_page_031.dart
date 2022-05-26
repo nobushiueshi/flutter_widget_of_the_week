@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 class SamplePage031 extends StatefulWidget {
   const SamplePage031({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   State<SamplePage031> createState() => _SamplePage031State();
@@ -21,7 +21,6 @@ class _SamplePage031State extends State<SamplePage031> {
       ),
       body: SafeArea(
         child: Column(
-          mainAxisSize: MainAxisSize.max,
           children: [
             Container(
               width: double.infinity,
@@ -43,7 +42,7 @@ class _SamplePage031State extends State<SamplePage031> {
               ),
             ),
             Expanded(
-              child: Container(
+              child: ColoredBox(
                 color: _selectedColor,
                 child: Center(
                   child: DragTarget<Color>(
@@ -58,7 +57,7 @@ class _SamplePage031State extends State<SamplePage031> {
                         width: 100,
                         height: 100,
                         decoration: BoxDecoration(
-                          border: Border.all(color: Colors.black),
+                          border: Border.all(),
                           color: Colors.white,
                         ),
                         child: const Center(
@@ -79,9 +78,8 @@ class _SamplePage031State extends State<SamplePage031> {
 
 class _SamplePage031Draggable extends StatelessWidget {
   const _SamplePage031Draggable({
-    Key? key,
     this.color,
-  }) : super(key: key);
+  });
 
   final Color? color;
 
@@ -107,10 +105,9 @@ class _SamplePage031Draggable extends StatelessWidget {
 
 class _SamplePage031Child extends StatelessWidget {
   const _SamplePage031Child({
-    Key? key,
     this.color,
     this.child,
-  }) : super(key: key);
+  });
 
   final Color? color;
   final Widget? child;

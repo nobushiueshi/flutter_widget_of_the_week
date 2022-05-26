@@ -4,14 +4,14 @@ import 'package:flutter/material.dart';
 
 class SamplePage023 extends StatefulWidget {
   const SamplePage023({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
-  _SamplePage023State createState() => _SamplePage023State();
+  SamplePage023State createState() => SamplePage023State();
 }
 
-class _SamplePage023State extends State<SamplePage023> {
+class SamplePage023State extends State<SamplePage023> {
   var _offset = Offset.zero;
 
   @override
@@ -34,7 +34,6 @@ class _SamplePage023State extends State<SamplePage023> {
               width: double.infinity,
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -100,9 +99,7 @@ class _SamplePage023State extends State<SamplePage023> {
 }
 
 class _SamplePage023Icon extends StatelessWidget {
-  const _SamplePage023Icon({
-    Key? key,
-  }) : super(key: key);
+  const _SamplePage023Icon();
 
   @override
   Widget build(BuildContext context) {

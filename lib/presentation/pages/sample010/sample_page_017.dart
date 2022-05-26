@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 class SamplePage017 extends StatelessWidget {
   const SamplePage017({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {

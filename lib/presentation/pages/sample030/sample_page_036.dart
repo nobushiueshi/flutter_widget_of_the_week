@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 class SamplePage036 extends StatefulWidget {
   const SamplePage036({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   State<SamplePage036> createState() => _SamplePage036State();
@@ -74,13 +74,9 @@ class _SamplePage036State extends State<SamplePage036> {
 
 class _SamplePage036Color extends InheritedWidget {
   const _SamplePage036Color({
-    Key? key,
     required this.color,
-    required Widget child,
-  }) : super(
-          key: key,
-          child: child,
-        );
+    required super.child,
+  });
 
   final Color color;
 
@@ -97,9 +93,7 @@ class _SamplePage036Color extends InheritedWidget {
 }
 
 class _SamplePage036Child extends StatelessWidget {
-  const _SamplePage036Child({
-    Key? key,
-  }) : super(key: key);
+  const _SamplePage036Child();
 
   @override
   Widget build(BuildContext context) {

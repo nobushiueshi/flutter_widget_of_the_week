@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 class SamplePage001 extends StatelessWidget {
   const SamplePage001({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -48,9 +48,7 @@ class SamplePage001 extends StatelessWidget {
 }
 
 class _SamplePage001SubPage1 extends StatelessWidget {
-  const _SamplePage001SubPage1({
-    Key? key,
-  }) : super(key: key);
+  const _SamplePage001SubPage1();
 
   @override
   Widget build(BuildContext context) {
@@ -71,9 +69,7 @@ class _SamplePage001SubPage1 extends StatelessWidget {
 }
 
 class _SamplePage001SubPage2 extends StatelessWidget {
-  const _SamplePage001SubPage2({
-    Key? key,
-  }) : super(key: key);
+  const _SamplePage001SubPage2();
 
   @override
   Widget build(BuildContext context) {

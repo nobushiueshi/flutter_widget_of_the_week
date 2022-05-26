@@ -2,15 +2,15 @@ import 'package:flutter/material.dart';
 
 class SamplePage009 extends StatefulWidget {
   const SamplePage009({
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
-  _SamplePage009State createState() => _SamplePage009State();
+  SamplePage009State createState() => SamplePage009State();
 }
 
-class _SamplePage009State extends State<SamplePage009> {
-  final _pageController = PageController(initialPage: 0);
+class SamplePage009State extends State<SamplePage009> {
+  final _pageController = PageController();
 
   bool _toggle = false;
 
@@ -30,22 +30,22 @@ class _SamplePage009State extends State<SamplePage009> {
               child: PageView(
                 controller: _pageController,
                 scrollDirection: _toggle ? Axis.vertical : Axis.horizontal,
-                children: [
-                  Container(
+                children: const [
+                  ColoredBox(
                     color: Colors.red,
-                    child: const Center(
+                    child: Center(
                       child: Text('Page 1'),
                     ),
                   ),
-                  Container(
+                  ColoredBox(
                     color: Colors.blue,
-                    child: const Center(
+                    child: Center(
                       child: Text('Page 2'),
                     ),
                   ),
-                  Container(
+                  ColoredBox(
                     color: Colors.green,
-                    child: const Center(
+                    child: Center(
                       child: Text('Page 3'),
                     ),
                   ),
