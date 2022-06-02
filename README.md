@@ -10,6 +10,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|
 |:---:|:---|:---:|:---:|
+|#71|NotificationListener|[リンク](https://www.youtube.com/watch?v=cAnFbFoGM50)|[リンク](https://api.flutter.dev/flutter/widgets/NotificationListener-class.html)|
 |#70|ShaderMask|[リンク](https://www.youtube.com/watch?v=7sUL66pTQ7Q)|[リンク](https://api.flutter.dev/flutter/widgets/ShaderMask-class.html)|
 |#69|ListWheelScrollView|[リンク](https://www.youtube.com/watch?v=dUhmWAz4C7Y)|[リンク](https://api.flutter.dev/flutter/widgets/ListWheelScrollView-class.html)|
 |#68|SnackBar|[リンク](https://www.youtube.com/watch?v=zpO6n_oZWw0)|[リンク](https://api.flutter.dev/flutter/material/SnackBar-class.html)|
