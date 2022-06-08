@@ -10,6 +10,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#75|ClipPath|[リンク](https://www.youtube.com/watch?v=_liUC641Nmk)|[リンク](https://api.flutter.dev/flutter/material/Divider-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_075.dart)|
 |#74|CircularProgressIndicator<br>LinearProgressIndicator|[リンク](https://www.youtube.com/watch?v=O-rhXZLtpv0)|[リンク](https://api.flutter.dev/flutter/material/CircularProgressIndicator-class.html)<br>[リンク](https://api.flutter.dev/flutter/material/LinearProgressIndicator-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_074.dart)|
 |#73|ClipPath|[リンク](https://www.youtube.com/watch?v=oAUebVIb-7s)|[リンク](https://api.flutter.dev/flutter/widgets/ClipPath-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_073.dart)|
 |#72|Builder|[リンク](https://www.youtube.com/watch?v=xXNOkIuSYuA)|[リンク](https://api.flutter.dev/flutter/widgets/Builder-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_072.dart)|

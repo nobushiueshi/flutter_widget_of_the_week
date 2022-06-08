@@ -4,8 +4,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample070/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample070/sample_page_072.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample070/sample_page_073.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample070/sample_page_074.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample070/sample_page_075.dart';
 
 final sample070PageDataList = <SamplePageData>[
+  SamplePageData(name: '#75 Divider', widget: const SamplePage075()),
   SamplePageData(
     name: '#74 CircularProgressIndicator & LinearProgressIndicator',
     widget: const SamplePage074(),
