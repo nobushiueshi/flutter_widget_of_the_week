@@ -10,6 +10,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#73|ClipPath|[リンク](https://www.youtube.com/watch?v=oAUebVIb-7s)|[リンク](https://api.flutter.dev/flutter/widgets/ClipPath-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_073.dart)|
 |#72|Builder|[リンク](https://www.youtube.com/watch?v=xXNOkIuSYuA)|[リンク](https://api.flutter.dev/flutter/widgets/Builder-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_072.dart)|
 |#71|NotificationListener|[リンク](https://www.youtube.com/watch?v=cAnFbFoGM50)|[リンク](https://api.flutter.dev/flutter/widgets/NotificationListener-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_071.dart)|
 |#70|ShaderMask|[リンク](https://www.youtube.com/watch?v=7sUL66pTQ7Q)|[リンク](https://api.flutter.dev/flutter/widgets/ShaderMask-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_070.dart)|

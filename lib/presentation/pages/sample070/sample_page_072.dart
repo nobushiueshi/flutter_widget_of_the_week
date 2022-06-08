@@ -19,6 +19,7 @@ class SamplePage072 extends StatelessWidget {
             children: [
               ElevatedButton(
                 onPressed: () {
+                  // ignore: deprecated_member_use
                   Scaffold.of(context).showSnackBar(
                     const SnackBar(
                       content: Text('通知されない'),
@@ -32,6 +33,7 @@ class SamplePage072 extends StatelessWidget {
                 builder: (context) {
                   return ElevatedButton(
                     onPressed: () async {
+                      // ignore: deprecated_member_use
                       Scaffold.of(context).showSnackBar(
                         const SnackBar(
                           content: Text('通知される'),
