@@ -4,12 +4,13 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 ## 環境
 
-* Flutter 3.0.1
+* Flutter 3.0.2
 
 ## Flutter Widget of the Week
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#76|IgnorePointer|[リンク](https://www.youtube.com/watch?v=qV9pqHWxYgI)|[リンク](https://api.flutter.dev/flutter/widgets/IgnorePointer-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_076.dart)|
 |#75|ClipPath|[リンク](https://www.youtube.com/watch?v=_liUC641Nmk)|[リンク](https://api.flutter.dev/flutter/material/Divider-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_075.dart)|
 |#74|CircularProgressIndicator<br>LinearProgressIndicator|[リンク](https://www.youtube.com/watch?v=O-rhXZLtpv0)|[リンク](https://api.flutter.dev/flutter/material/CircularProgressIndicator-class.html)<br>[リンク](https://api.flutter.dev/flutter/material/LinearProgressIndicator-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_074.dart)|
 |#73|ClipPath|[リンク](https://www.youtube.com/watch?v=oAUebVIb-7s)|[リンク](https://api.flutter.dev/flutter/widgets/ClipPath-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_073.dart)|
