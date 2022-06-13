@@ -6,8 +6,13 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample070/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample070/sample_page_074.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample070/sample_page_075.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample070/sample_page_076.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample070/sample_page_077.dart';
 
 final sample070PageDataList = <SamplePageData>[
+  SamplePageData(
+    name: '#77 CupertinoActivityIndicator',
+    widget: const SamplePage077(),
+  ),
   SamplePageData(name: '#76 IgnorePointer', widget: const SamplePage076()),
   SamplePageData(name: '#75 Divider', widget: const SamplePage075()),
   SamplePageData(

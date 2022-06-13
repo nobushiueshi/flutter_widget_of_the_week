@@ -10,6 +10,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#77|CupertinoActivityIndicator|[リンク](https://www.youtube.com/watch?v=AENVH-ZqKDQ)|[リンク](https://api.flutter.dev/flutter/cupertino/CupertinoActivityIndicator-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_077.dart)|
 |#76|IgnorePointer|[リンク](https://www.youtube.com/watch?v=qV9pqHWxYgI)|[リンク](https://api.flutter.dev/flutter/widgets/IgnorePointer-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_076.dart)|
 |#75|ClipPath|[リンク](https://www.youtube.com/watch?v=_liUC641Nmk)|[リンク](https://api.flutter.dev/flutter/material/Divider-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_075.dart)|
 |#74|CircularProgressIndicator<br>LinearProgressIndicator|[リンク](https://www.youtube.com/watch?v=O-rhXZLtpv0)|[リンク](https://api.flutter.dev/flutter/material/CircularProgressIndicator-class.html)<br>[リンク](https://api.flutter.dev/flutter/material/LinearProgressIndicator-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_074.dart)|
