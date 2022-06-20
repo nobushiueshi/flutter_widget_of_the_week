@@ -8,8 +8,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample070/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample070/sample_page_076.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample070/sample_page_077.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample070/sample_page_078.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample070/sample_page_079.dart';
 
 final sample070PageDataList = <SamplePageData>[
+  SamplePageData(name: '#79 AnimatedWidget', widget: const SamplePage079()),
   SamplePageData(name: '#78 ClipOval', widget: const SamplePage078()),
   SamplePageData(
     name: '#77 CupertinoActivityIndicator',
