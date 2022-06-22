@@ -10,6 +10,7 @@ Flutter Widget of the Weekの勉強用リポジトリです。
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#80|Padding|[リンク](https://www.youtube.com/watch?v=oD5RtLhhubg)|[リンク](https://api.flutter.dev/flutter/widgets/Padding-class.html)|[リンク](lib/presentation/pages/sample080/sample_page_080.dart)|
 |#79|AnimatedWidget|[リンク](https://www.youtube.com/watch?v=LKKgYpC-EPQ)|[リンク](https://api.flutter.dev/flutter/widgets/AnimatedWidget-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_079.dart)|
 |#78|ClipOval|[リンク](https://www.youtube.com/watch?v=vzWWDO6whIM)|[リンク](https://api.flutter.dev/flutter/widgets/ClipOval-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_078.dart)|
 |#77|CupertinoActivityIndicator|[リンク](https://www.youtube.com/watch?v=AENVH-ZqKDQ)|[リンク](https://api.flutter.dev/flutter/cupertino/CupertinoActivityIndicator-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_077.dart)|
