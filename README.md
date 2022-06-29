@@ -1,15 +1,17 @@
 # Flutter Widget of the Week勉強用リポジトリ
 
 Flutter Widget of the Weekの勉強用リポジトリです。
+Widgetを使うことが目的なので、サンプルコードは結構適当です。
 
 ## 環境
 
-* Flutter 3.0.2
+* Flutter 3.0.3
 
 ## Flutter Widget of the Week
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#82|AboutDialog|[リンク](https://www.youtube.com/watch?v=YFCSODyFxbE)|[リンク](https://api.flutter.dev/flutter/material/AboutDialog-class.html)|[リンク](lib/presentation/pages/sample080/sample_page_082.dart)|
 |#81|CheckboxListTile|[リンク](https://www.youtube.com/watch?v=RkSqPAn9szs)|[リンク](https://api.flutter.dev/flutter/material/CheckboxListTile-class.html)|[リンク](lib/presentation/pages/sample080/sample_page_081.dart)|
 |#80|Padding|[リンク](https://www.youtube.com/watch?v=oD5RtLhhubg)|[リンク](https://api.flutter.dev/flutter/widgets/Padding-class.html)|[リンク](lib/presentation/pages/sample080/sample_page_080.dart)|
 |#79|AnimatedWidget|[リンク](https://www.youtube.com/watch?v=LKKgYpC-EPQ)|[リンク](https://api.flutter.dev/flutter/widgets/AnimatedWidget-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_079.dart)|
