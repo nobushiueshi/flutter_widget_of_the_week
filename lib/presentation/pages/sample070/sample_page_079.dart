@@ -12,7 +12,6 @@ class SamplePage079 extends StatefulWidget {
 class _SamplePage079State extends State<SamplePage079>
     with SingleTickerProviderStateMixin {
   late final AnimationController _animationController;
-  late Animation<double> _animation;
 
   @override
   void initState() {
@@ -21,7 +20,7 @@ class _SamplePage079State extends State<SamplePage079>
       vsync: this,
       duration: const Duration(seconds: 5),
     )..repeat();
-    _animation = Tween<double>(
+    Tween<double>(
       begin: 1,
       end: 100,
     ).animate(_animationController);

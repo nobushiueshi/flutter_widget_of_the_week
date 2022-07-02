@@ -5,6 +5,7 @@ class SamplePage078 extends StatelessWidget {
     super.key,
   });
 
+  @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
