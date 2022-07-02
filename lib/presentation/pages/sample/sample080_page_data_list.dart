@@ -3,8 +3,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample080/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample080/sample_page_081.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample080/sample_page_082.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample080/sample_page_083.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample080/sample_page_084.dart';
 
 final sample080PageDataList = <SamplePageData>[
+  SamplePageData(name: '#84 url_launcher', widget: const SamplePage084()),
   SamplePageData(name: '#83 async', widget: const SamplePage083()),
   SamplePageData(name: '#82 AboutDialog', widget: const SamplePage082()),
   SamplePageData(name: '#81 CheckboxListTile', widget: const SamplePage081()),

@@ -11,6 +11,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#84|url_launcher|[リンク](https://www.youtube.com/watch?v=qYxRYB1oszw)|[リンク](https://pub.dev/packages/url_launcher)|[リンク](lib/presentation/pages/sample080/sample_page_084.dart)|
 |#83|async|[リンク](https://www.youtube.com/watch?v=r0tHiCjW2w0)|[リンク](https://pub.dev/packages/async)|[リンク](lib/presentation/pages/sample080/sample_page_083.dart)|
 |#82|AboutDialog|[リンク](https://www.youtube.com/watch?v=YFCSODyFxbE)|[リンク](https://api.flutter.dev/flutter/material/AboutDialog-class.html)|[リンク](lib/presentation/pages/sample080/sample_page_082.dart)|
 |#81|CheckboxListTile|[リンク](https://www.youtube.com/watch?v=RkSqPAn9szs)|[リンク](https://api.flutter.dev/flutter/material/CheckboxListTile-class.html)|[リンク](lib/presentation/pages/sample080/sample_page_081.dart)|
