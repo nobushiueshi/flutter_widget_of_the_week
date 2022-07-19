@@ -16,7 +16,7 @@ class _SamplePage050State extends State<SamplePage050> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Stack'),
+        title: const Text('AnimatedOpacity'),
         centerTitle: true,
       ),
       body: SafeArea(
