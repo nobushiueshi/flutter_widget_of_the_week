@@ -11,6 +11,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#87|InteractiveViewer|[リンク](https://www.youtube.com/watch?v=zrn7V3bMJvg)|[リンク](https://api.flutter.dev/flutter/widgets/InteractiveViewer-class.html)|[リンク](lib/presentation/pages/sample080/sample_page_087.dart)|
 |#86|SliverAppBar|[リンク](https://www.youtube.com/watch?v=mSc7qFzxHDw)|[リンク](https://api.flutter.dev/flutter/material/SliverAppBar-class.html)|[リンク](lib/presentation/pages/sample080/sample_page_086.dart)|
 |#85|sqflite|[リンク](https://www.youtube.com/watch?v=HefHf5B1YM0)|[リンク](https://pub.dev/packages/sqflite)|[リンク](lib/presentation/pages/sample080/sample_page_085.dart)|
 |#84|url_launcher|[リンク](https://www.youtube.com/watch?v=qYxRYB1oszw)|[リンク](https://pub.dev/packages/url_launcher)|[リンク](lib/presentation/pages/sample080/sample_page_084.dart)|
