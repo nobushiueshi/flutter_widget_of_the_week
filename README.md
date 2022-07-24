@@ -5,12 +5,13 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 ## 環境
 
-* Flutter 3.0.4
+* Flutter 3.0.5
 
 ## Flutter Widget of the Week
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#86|SliverAppBar|[リンク](https://www.youtube.com/watch?v=mSc7qFzxHDw)|[リンク](https://api.flutter.dev/flutter/material/SliverAppBar-class.html)|[リンク](lib/presentation/pages/sample080/sample_page_086.dart)|
 |#85|sqflite|[リンク](https://www.youtube.com/watch?v=HefHf5B1YM0)|[リンク](https://pub.dev/packages/sqflite)|[リンク](lib/presentation/pages/sample080/sample_page_085.dart)|
 |#84|url_launcher|[リンク](https://www.youtube.com/watch?v=qYxRYB1oszw)|[リンク](https://pub.dev/packages/url_launcher)|[リンク](lib/presentation/pages/sample080/sample_page_084.dart)|
 |#83|async|[リンク](https://www.youtube.com/watch?v=r0tHiCjW2w0)|[リンク](https://pub.dev/packages/async)|[リンク](lib/presentation/pages/sample080/sample_page_083.dart)|
