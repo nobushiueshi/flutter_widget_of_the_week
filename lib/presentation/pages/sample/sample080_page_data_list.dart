@@ -7,8 +7,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample080/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample080/sample_page_085.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample080/sample_page_086.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample080/sample_page_087.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample080/sample_page_088.dart';
 
 final sample080PageDataList = <SamplePageData>[
+  SamplePageData(name: '#88 GridView', widget: const SamplePage088()),
   SamplePageData(name: '#87 InteractiveViewer', widget: const SamplePage087()),
   SamplePageData(name: '#86 SliverAppBar', widget: const SamplePage086()),
   SamplePageData(name: '#85 sqflite', widget: const SamplePage085()),
