@@ -8,8 +8,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample080/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample080/sample_page_086.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample080/sample_page_087.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample080/sample_page_088.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample080/sample_page_089.dart';
 
 final sample080PageDataList = <SamplePageData>[
+  SamplePageData(name: '#89 SwitchListTile', widget: const SamplePage089()),
   SamplePageData(name: '#88 GridView', widget: const SamplePage088()),
   SamplePageData(name: '#87 InteractiveViewer', widget: const SamplePage087()),
   SamplePageData(name: '#86 SliverAppBar', widget: const SamplePage086()),

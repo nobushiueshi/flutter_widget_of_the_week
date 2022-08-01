@@ -11,6 +11,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#89|SwitchListTile|[リンク](https://www.youtube.com/watch?v=0igIjvtEWNU)|[リンク](https://api.flutter.dev/flutter/material/SwitchListTile-class.html)|[リンク](lib/presentation/pages/sample080/sample_page_089.dart)|
 |#88|GridView|[リンク](https://www.youtube.com/watch?v=bLOtZDTm4H8)|[リンク](https://api.flutter.dev/flutter/widgets/GridView-class.html)|[リンク](lib/presentation/pages/sample080/sample_page_088.dart)|
 |#87|InteractiveViewer|[リンク](https://www.youtube.com/watch?v=zrn7V3bMJvg)|[リンク](https://api.flutter.dev/flutter/widgets/InteractiveViewer-class.html)|[リンク](lib/presentation/pages/sample080/sample_page_087.dart)|
 |#86|SliverAppBar|[リンク](https://www.youtube.com/watch?v=mSc7qFzxHDw)|[リンク](https://api.flutter.dev/flutter/material/SliverAppBar-class.html)|[リンク](lib/presentation/pages/sample080/sample_page_086.dart)|
