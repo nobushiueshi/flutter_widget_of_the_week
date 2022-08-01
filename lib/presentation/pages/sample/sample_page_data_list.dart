@@ -7,9 +7,11 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample050_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample060_page_data_list.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample070_page_data_list.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample080_page_data_list.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample090_page_data_list.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample_page_data.dart';
 
 final samplePageDataList = <SamplePageData>[
+  ...sample090PageDataList,
   ...sample080PageDataList,
   ...sample070PageDataList,
   ...sample060PageDataList,
