@@ -11,6 +11,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#92|ImageFiltered|[リンク](https://www.youtube.com/watch?v=7Lftorq4i2o)|[リンク](https://api.flutter.dev/flutter/widgets/ImageFiltered-class.html)|[リンク](lib/presentation/pages/sample090/sample_page_092.dart)|
 |#91|device_info_plus|[リンク](https://www.youtube.com/watch?v=8T3g6HU5Odo)|[リンク](https://pub.dev/packages/device_info_plus)|[リンク](lib/presentation/pages/sample090/sample_page_091.dart)|
 |#90|Location|[リンク](https://www.youtube.com/watch?v=65qbtJMltVk)|[リンク](https://pub.dev/packages/location)|[リンク](lib/presentation/pages/sample090/sample_page_090.dart)|
 |#89|SwitchListTile|[リンク](https://www.youtube.com/watch?v=0igIjvtEWNU)|[リンク](https://api.flutter.dev/flutter/material/SwitchListTile-class.html)|[リンク](lib/presentation/pages/sample080/sample_page_089.dart)|
