@@ -11,6 +11,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#91|device_info_plus|[リンク](https://www.youtube.com/watch?v=8T3g6HU5Odo)|[リンク](https://pub.dev/packages/device_info_plus)|[リンク](lib/presentation/pages/sample090/sample_page_091.dart)|
 |#90|Location|[リンク](https://www.youtube.com/watch?v=65qbtJMltVk)|[リンク](https://pub.dev/packages/location)|[リンク](lib/presentation/pages/sample090/sample_page_090.dart)|
 |#89|SwitchListTile|[リンク](https://www.youtube.com/watch?v=0igIjvtEWNU)|[リンク](https://api.flutter.dev/flutter/material/SwitchListTile-class.html)|[リンク](lib/presentation/pages/sample080/sample_page_089.dart)|
 |#88|GridView|[リンク](https://www.youtube.com/watch?v=bLOtZDTm4H8)|[リンク](https://api.flutter.dev/flutter/widgets/GridView-class.html)|[リンク](lib/presentation/pages/sample080/sample_page_088.dart)|
@@ -106,6 +107,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |内容|記事|
 |:---|:---:|
+|AlertDialog<br>CupertinoAlertDialog<br>AnimatedCrossFade<br>DraggableScrollableSheet|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c58-alertdialogcupertinoalertdialog%e3%80%8d%e3%80%81%e3%80%8c59-animatedcrossfade%e3%80%8d%e3%80%81%e3%80%8c60-draggablescrollablesheet%e3%80%8d/)|
 |SelectableText<br>DataTable<br>Slider,RangeSlider,CupertinoSlider|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c55-selectabletext%e3%80%8d%e3%80%81%e3%80%8c56-datatable%e3%80%8d%e3%80%81%e3%80%8c57-sliderrangeslidercupertinoslider%e3%80%8d/)|
 |ListView<br>ListTile<br>Container|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c52-listview%e3%80%8d%e3%80%81%e3%80%8c53-listtile%e3%80%8d%e3%80%81%e3%80%8c54-container%e3%80%8d/)|
 |Stack<br>AnimatedOpacity<br>FractionallySizedBox|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c49-stack%e3%80%8d%e3%80%81%e3%80%8c50-animatedopacity%e3%80%8d%e3%80%81%e3%80%8c51-fractionallysizedbox%e3%80%8d/)|
