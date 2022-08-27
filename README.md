@@ -11,6 +11,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#96|RotatedBox|[リンク](https://www.youtube.com/watch?v=BFE6_UglLfQ)|[リンク](https://api.flutter.dev/flutter/widgets/RotatedBox-class.html)|[リンク](lib/presentation/pages/sample090/sample_page_096.dart)|
 |#95|flutter_slidable|[リンク](https://www.youtube.com/watch?v=HHzAJdlEj1c)|[リンク](https://pub.dev/packages/flutter_slidable)|[リンク](lib/presentation/pages/sample090/sample_page_095.dart)|
 |#94|animations|[リンク](https://www.youtube.com/watch?v=HHzAJdlEj1c)|[リンク](https://pub.dev/packages/animations)|[リンク](lib/presentation/pages/sample090/sample_page_094.dart)|
 |#93|PhysicalModel|[リンク](https://www.youtube.com/watch?v=XgUOSS30OQk)|[リンク](https://api.flutter.dev/flutter/widgets/PhysicalModel-class.html)|[リンク](lib/presentation/pages/sample090/sample_page_093.dart)|

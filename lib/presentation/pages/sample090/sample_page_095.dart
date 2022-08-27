@@ -10,7 +10,7 @@ class SamplePage095 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('animations'),
+        title: const Text('flutter_slidable'),
         centerTitle: true,
       ),
       body: SafeArea(
