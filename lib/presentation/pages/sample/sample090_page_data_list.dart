@@ -4,8 +4,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample090/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample090/sample_page_092.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample090/sample_page_093.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample090/sample_page_094.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample090/sample_page_095.dart';
 
 final sample090PageDataList = <SamplePageData>[
+  SamplePageData(name: '#95 flutter_slidable', widget: const SamplePage095()),
   SamplePageData(name: '#94 animations', widget: const SamplePage094()),
   SamplePageData(name: '#93 PhysicalModel', widget: const SamplePage093()),
   SamplePageData(name: '#92 ImageFiltered', widget: const SamplePage092()),
