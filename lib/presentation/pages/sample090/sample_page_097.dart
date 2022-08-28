@@ -22,7 +22,7 @@ class _SamplePage097State extends State<SamplePage097> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('RotatedBox'),
+        title: const Text('ExpansionPanel'),
         centerTitle: true,
       ),
       body: SafeArea(
