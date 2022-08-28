@@ -6,8 +6,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample090/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample090/sample_page_094.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample090/sample_page_095.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample090/sample_page_096.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample090/sample_page_097.dart';
 
 final sample090PageDataList = <SamplePageData>[
+  SamplePageData(name: '#97 ExpansionPanel', widget: const SamplePage097()),
   SamplePageData(name: '#96 RotatedBox', widget: const SamplePage096()),
   SamplePageData(name: '#95 flutter_slidable', widget: const SamplePage095()),
   SamplePageData(name: '#94 animations', widget: const SamplePage094()),
