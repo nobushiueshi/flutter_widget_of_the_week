@@ -77,7 +77,6 @@ class _SamplePage058State extends State<SamplePage058> {
                         ],
                       );
                     },
-                    barrierDismissible: false,
                   );
                 },
                 child: const Text('CupertinoAlertDialog'),

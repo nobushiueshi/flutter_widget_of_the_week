@@ -19,12 +19,12 @@ class SamplePage072 extends StatelessWidget {
             children: [
               ElevatedButton(
                 onPressed: () {
-                  // ignore: deprecated_member_use
-                  Scaffold.of(context).showSnackBar(
-                    const SnackBar(
-                      content: Text('通知されない'),
-                    ),
-                  );
+                  // Flutter 3.3.0より使えなくなった.
+                  // Scaffold.of(context).showSnackBar(
+                  //   const SnackBar(
+                  //     content: Text('通知されない'),
+                  //   ),
+                  // );
                 },
                 child: const Text('エラーが発生するボタン'),
               ),
@@ -33,12 +33,12 @@ class SamplePage072 extends StatelessWidget {
                 builder: (context) {
                   return ElevatedButton(
                     onPressed: () async {
-                      // ignore: deprecated_member_use
-                      Scaffold.of(context).showSnackBar(
-                        const SnackBar(
-                          content: Text('通知される'),
-                        ),
-                      );
+                      // Flutter 3.3.0より使えなくなった.
+                      // Scaffold.of(context).showSnackBar(
+                      //   const SnackBar(
+                      //     content: Text('通知される'),
+                      //   ),
+                      // );
                     },
                     child: const Text('普通のボタン'),
                   );

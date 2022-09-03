@@ -34,7 +34,7 @@ class _SamplePage036State extends State<SamplePage036> {
                       });
                     },
                     style: ElevatedButton.styleFrom(
-                      primary: Colors.blue,
+                      backgroundColor: Colors.blue,
                     ),
                     child: const Text('Blue'),
                   ),
@@ -45,7 +45,7 @@ class _SamplePage036State extends State<SamplePage036> {
                       });
                     },
                     style: ElevatedButton.styleFrom(
-                      primary: Colors.yellow,
+                      backgroundColor: Colors.yellow,
                     ),
                     child: const Text('Yellow'),
                   ),
@@ -56,7 +56,7 @@ class _SamplePage036State extends State<SamplePage036> {
                       });
                     },
                     style: ElevatedButton.styleFrom(
-                      primary: Colors.red,
+                      backgroundColor: Colors.red,
                     ),
                     child: const Text('Red'),
                   ),
