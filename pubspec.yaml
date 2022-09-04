@@ -38,6 +38,7 @@ dependencies:
   cupertino_icons: ^1.0.5
   animations: ^2.0.4
   async: ^2.8.2
+  connectivity_plus: ^2.3.6+1
   device_info_plus: ^4.1.2
   flutter_slidable: ^2.0.0
   location: ^4.4.0

@@ -11,6 +11,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#99|connectivity_plus|[リンク](https://www.youtube.com/watch?v=P2vaBZDSqzg)|[リンク](https://pub.dev/packages/connectivity_plus)|[リンク](lib/presentation/pages/sample090/sample_page_099.dart)|
 |#98|Scrollbar|[リンク](https://www.youtube.com/watch?v=DbkIQSvwnZc)|[リンク](https://api.flutter.dev/flutter/material/Scrollbar-class.html)|[リンク](lib/presentation/pages/sample090/sample_page_098.dart)|
 |#97|ExpansionPanel|[リンク](https://www.youtube.com/watch?v=2aJZzRMziJc)|[リンク](https://api.flutter.dev/flutter/material/ExpansionPanel-class.html)|[リンク](lib/presentation/pages/sample090/sample_page_097.dart)|
 |#96|RotatedBox|[リンク](https://www.youtube.com/watch?v=BFE6_UglLfQ)|[リンク](https://api.flutter.dev/flutter/widgets/RotatedBox-class.html)|[リンク](lib/presentation/pages/sample090/sample_page_096.dart)|
@@ -34,7 +35,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 |#78|ClipOval|[リンク](https://www.youtube.com/watch?v=vzWWDO6whIM)|[リンク](https://api.flutter.dev/flutter/widgets/ClipOval-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_078.dart)|
 |#77|CupertinoActivityIndicator|[リンク](https://www.youtube.com/watch?v=AENVH-ZqKDQ)|[リンク](https://api.flutter.dev/flutter/cupertino/CupertinoActivityIndicator-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_077.dart)|
 |#76|IgnorePointer|[リンク](https://www.youtube.com/watch?v=qV9pqHWxYgI)|[リンク](https://api.flutter.dev/flutter/widgets/IgnorePointer-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_076.dart)|
-|#75|ClipPath|[リンク](https://www.youtube.com/watch?v=_liUC641Nmk)|[リンク](https://api.flutter.dev/flutter/material/Divider-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_075.dart)|
+|#75|Divider|[リンク](https://www.youtube.com/watch?v=_liUC641Nmk)|[リンク](https://api.flutter.dev/flutter/material/Divider-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_075.dart)|
 |#74|CircularProgressIndicator<br>LinearProgressIndicator|[リンク](https://www.youtube.com/watch?v=O-rhXZLtpv0)|[リンク](https://api.flutter.dev/flutter/material/CircularProgressIndicator-class.html)<br>[リンク](https://api.flutter.dev/flutter/material/LinearProgressIndicator-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_074.dart)|
 |#73|ClipPath|[リンク](https://www.youtube.com/watch?v=oAUebVIb-7s)|[リンク](https://api.flutter.dev/flutter/widgets/ClipPath-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_073.dart)|
 |#72|Builder|[リンク](https://www.youtube.com/watch?v=xXNOkIuSYuA)|[リンク](https://api.flutter.dev/flutter/widgets/Builder-class.html)|[リンク](lib/presentation/pages/sample070/sample_page_072.dart)|
@@ -114,6 +115,8 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |内容|記事|
 |:---|:---:|
+|ClipPath<br>CircularProgressIndicator,LinearProgressIndicator<br>Divider|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c73-clippath%e3%80%8d%e3%80%81%e3%80%8c74-circularprogressindicatorlinearprogressindicator%e3%80%8d%e3%80%81%e3%80%8c75-divider%e3%80%8d/)|
+|ShaderMask<br>NotificationListener<br>Builder|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c70-shadermask%e3%80%8d%e3%80%81%e3%80%8c71-notificationlistener%e3%80%8d%e3%80%81%e3%80%8c72-builder%e3%80%8d/)|
 |Drawer<br>SnackBar<br>ListWheelScrollView|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c67-drawer%e3%80%8d%e3%80%81%e3%80%8c68-snackbar%e3%80%8d%e3%80%81%e3%80%8c69-listwheelscrollview%e3%80%8d/)|
 |TweenAnimationBuilder<br>Image<br>DefaultTabController,TabBar,TabBarView|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c64-tweenanimationbuilder%e3%80%8d%e3%80%81%e3%80%8c65-image%e3%80%8d%e3%80%81%e3%80%8c66-defaulttabcontrollertabbartabbarview%e3%80%8d/)|
 |ColorFiltered<br>ToggleButtons<br>CupertinoActionSheet|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c61-colorfiltered%e3%80%8d%e3%80%81%e3%80%8c62-togglebuttons%e3%80%8d%e3%80%81%e3%80%8c63-cupertinoactionsheet%e3%80%8d/)|

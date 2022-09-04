@@ -1,4 +1,7 @@
 PODS:
+  - connectivity_plus (0.0.1):
+    - Flutter
+    - ReachabilitySwift
   - device_info_plus (0.0.1):
     - Flutter
   - Flutter (1.0.0)
@@ -7,6 +10,7 @@ PODS:
   - FMDB/standard (2.7.5)
   - location (0.0.1):
     - Flutter
+  - ReachabilitySwift (5.0.0)
   - sqflite (0.0.2):
     - Flutter
     - FMDB (>= 2.7.5)
@@ -14,6 +18,7 @@ PODS:
     - Flutter
 
 DEPENDENCIES:
+  - connectivity_plus (from `.symlinks/plugins/connectivity_plus/ios`)
   - device_info_plus (from `.symlinks/plugins/device_info_plus/ios`)
   - Flutter (from `Flutter`)
   - location (from `.symlinks/plugins/location/ios`)
@@ -23,8 +28,11 @@ DEPENDENCIES:
 SPEC REPOS:
   trunk:
     - FMDB
+    - ReachabilitySwift
 
 EXTERNAL SOURCES:
+  connectivity_plus:
+    :path: ".symlinks/plugins/connectivity_plus/ios"
   device_info_plus:
     :path: ".symlinks/plugins/device_info_plus/ios"
   Flutter:
@@ -37,10 +45,12 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/url_launcher_ios/ios"
 
 SPEC CHECKSUMS:
+  connectivity_plus: 413a8857dd5d9f1c399a39130850d02fe0feaf7e
   device_info_plus: e5c5da33f982a436e103237c0c85f9031142abed
   Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
   FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
   location: 3a2eed4dd2fab25e7b7baf2a9efefe82b512d740
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
   sqflite: 6d358c025f5b867b29ed92fc697fd34924e11904
   url_launcher_ios: 839c58cdb4279282219f5e248c3321761ff3c4de
 
