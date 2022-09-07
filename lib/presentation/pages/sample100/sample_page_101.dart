@@ -1,17 +1,10 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:flutter/material.dart';
 
-class SamplePage101 extends StatefulWidget {
+class SamplePage101 extends StatelessWidget {
   const SamplePage101({
     super.key,
   });
-
-  @override
-  State<SamplePage101> createState() => _SamplePage101State();
-}
-
-class _SamplePage101State extends State<SamplePage101> {
-  bool isStacked = true;
 
   @override
   Widget build(BuildContext context) {
@@ -50,14 +43,6 @@ class _SamplePage101State extends State<SamplePage101> {
             ],
           ),
         ),
-      ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: () {
-          setState(() {
-            isStacked = !isStacked;
-          });
-        },
-        child: const Icon(Icons.replay_outlined),
       ),
     );
   }
