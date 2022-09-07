@@ -11,6 +11,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#101|animated_text_kit|[リンク](https://www.youtube.com/watch?v=foQTKCQqVWk)|[リンク](https://pub.dev/packages/animated_text_kit)|[リンク](lib/presentation/pages/sample100/sample_page_101.dart)|
 |#100|FlutterLogo|[リンク](https://www.youtube.com/watch?v=aAmP-WcI6dg)|[リンク](https://api.flutter.dev/flutter/material/FlutterLogo-class.html)|[リンク](lib/presentation/pages/sample100/sample_page_100.dart)|
 |#99|connectivity_plus|[リンク](https://www.youtube.com/watch?v=P2vaBZDSqzg)|[リンク](https://pub.dev/packages/connectivity_plus)|[リンク](lib/presentation/pages/sample090/sample_page_099.dart)|
 |#98|Scrollbar|[リンク](https://www.youtube.com/watch?v=DbkIQSvwnZc)|[リンク](https://api.flutter.dev/flutter/material/Scrollbar-class.html)|[リンク](lib/presentation/pages/sample090/sample_page_098.dart)|
