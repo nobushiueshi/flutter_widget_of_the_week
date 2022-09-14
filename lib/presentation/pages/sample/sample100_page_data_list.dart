@@ -4,8 +4,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample100/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample100/sample_page_102.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample100/sample_page_103.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample100/sample_page_104.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample100/sample_page_105.dart';
 
 final sample100PageDataList = <SamplePageData>[
+  SamplePageData(name: '#105 HeroMode', widget: const SamplePage105()),
   SamplePageData(name: '#104 collection', widget: const SamplePage104()),
   SamplePageData(name: '#103 sensors_plus', widget: const SamplePage103()),
   SamplePageData(name: '#102 MouseRegion', widget: const SamplePage102()),

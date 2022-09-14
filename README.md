@@ -11,6 +11,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#105|HeroMode|[リンク](https://www.youtube.com/watch?v=AaIASk2u1C0)|[リンク](https://api.flutter.dev/flutter/widgets/HeroMode-class.html)|[リンク](lib/presentation/pages/sample100/sample_page_105.dart)|
 |#104|collection|[リンク](https://www.youtube.com/watch?v=Ymw9xfRucK0)|[リンク](https://pub.dev/packages/collection)|[リンク](lib/presentation/pages/sample100/sample_page_104.dart)|
 |#103|sensors_plus|[リンク](https://www.youtube.com/watch?v=Fq5zNPJufD0)|[リンク](https://pub.dev/packages/sensors_plus)|[リンク](lib/presentation/pages/sample100/sample_page_103.dart)|
 |#102|MouseRegion|[リンク](https://www.youtube.com/watch?v=1oF3pI5umck)|[リンク](https://api.flutter.dev/flutter/widgets/MouseRegion-class.html)|[リンク](lib/presentation/pages/sample100/sample_page_102.dart)|
