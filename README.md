@@ -5,12 +5,13 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 ## 環境
 
-* Flutter 3.3.0
+* Flutter 3.3.1
 
 ## Flutter Widget of the Week
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#104|collection|[リンク](https://www.youtube.com/watch?v=Ymw9xfRucK0)|[リンク](https://pub.dev/packages/collection)|[リンク](lib/presentation/pages/sample100/sample_page_104.dart)|
 |#103|sensors_plus|[リンク](https://www.youtube.com/watch?v=Fq5zNPJufD0)|[リンク](https://pub.dev/packages/sensors_plus)|[リンク](lib/presentation/pages/sample100/sample_page_103.dart)|
 |#102|MouseRegion|[リンク](https://www.youtube.com/watch?v=1oF3pI5umck)|[リンク](https://api.flutter.dev/flutter/widgets/MouseRegion-class.html)|[リンク](lib/presentation/pages/sample100/sample_page_102.dart)|
 |#101|animated_text_kit|[リンク](https://www.youtube.com/watch?v=foQTKCQqVWk)|[リンク](https://pub.dev/packages/animated_text_kit)|[リンク](lib/presentation/pages/sample100/sample_page_101.dart)|

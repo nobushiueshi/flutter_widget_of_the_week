@@ -3,8 +3,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample100/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample100/sample_page_101.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample100/sample_page_102.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample100/sample_page_103.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample100/sample_page_104.dart';
 
 final sample100PageDataList = <SamplePageData>[
+  SamplePageData(name: '#104 collection', widget: const SamplePage104()),
   SamplePageData(name: '#103 sensors_plus', widget: const SamplePage103()),
   SamplePageData(name: '#102 MouseRegion', widget: const SamplePage102()),
   SamplePageData(name: '#101 animated_text_kit', widget: const SamplePage101()),
