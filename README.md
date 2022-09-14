@@ -11,6 +11,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#103|sensors_plus|[リンク](https://www.youtube.com/watch?v=Fq5zNPJufD0)|[リンク](https://pub.dev/packages/sensors_plus)|[リンク](lib/presentation/pages/sample100/sample_page_103.dart)|
 |#102|MouseRegion|[リンク](https://www.youtube.com/watch?v=1oF3pI5umck)|[リンク](https://api.flutter.dev/flutter/widgets/MouseRegion-class.html)|[リンク](lib/presentation/pages/sample100/sample_page_102.dart)|
 |#101|animated_text_kit|[リンク](https://www.youtube.com/watch?v=foQTKCQqVWk)|[リンク](https://pub.dev/packages/animated_text_kit)|[リンク](lib/presentation/pages/sample100/sample_page_101.dart)|
 |#100|FlutterLogo|[リンク](https://www.youtube.com/watch?v=aAmP-WcI6dg)|[リンク](https://api.flutter.dev/flutter/material/FlutterLogo-class.html)|[リンク](lib/presentation/pages/sample100/sample_page_100.dart)|
@@ -118,6 +119,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |内容|記事|
 |:---|:---:|
+|IgnorePointer<br>CupertinoActivityIndicator<br>ClipOval|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c76-ignorepointer%e3%80%8d%e3%80%81%e3%80%8c77-cupertinoactivityindicator%e3%80%8d%e3%80%81%e3%80%8c78-clipoval%e3%80%8d/)|
 |ClipPath<br>CircularProgressIndicator,LinearProgressIndicator<br>Divider|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c73-clippath%e3%80%8d%e3%80%81%e3%80%8c74-circularprogressindicatorlinearprogressindicator%e3%80%8d%e3%80%81%e3%80%8c75-divider%e3%80%8d/)|
 |ShaderMask<br>NotificationListener<br>Builder|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c70-shadermask%e3%80%8d%e3%80%81%e3%80%8c71-notificationlistener%e3%80%8d%e3%80%81%e3%80%8c72-builder%e3%80%8d/)|
 |Drawer<br>SnackBar<br>ListWheelScrollView|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c67-drawer%e3%80%8d%e3%80%81%e3%80%8c68-snackbar%e3%80%8d%e3%80%81%e3%80%8c69-listwheelscrollview%e3%80%8d/)|
