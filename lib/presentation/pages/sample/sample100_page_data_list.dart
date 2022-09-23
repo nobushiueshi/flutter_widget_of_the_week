@@ -7,8 +7,13 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample100/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample100/sample_page_105.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample100/sample_page_106.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample100/sample_page_107.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample100/sample_page_108.dart';
 
 final sample100PageDataList = <SamplePageData>[
+  SamplePageData(
+    name: '#108 font_awesome_flutter',
+    widget: const SamplePage108(),
+  ),
   SamplePageData(name: '#107 RefreshIndicator', widget: const SamplePage107()),
   SamplePageData(name: '#106 html', widget: const SamplePage106()),
   SamplePageData(name: '#105 HeroMode', widget: const SamplePage105()),
