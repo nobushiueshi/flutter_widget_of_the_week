@@ -31,15 +31,3 @@ class SamplePage112 extends StatelessWidget {
     );
   }
 }
-/*
-
-        
-        
-        .network(
-          
-          width: 128,
-          loadingBuilder: (context, child, progress) {
-            return progress == null ? child : const CircularProgressIndicator();
-          },
-        ),
-        */

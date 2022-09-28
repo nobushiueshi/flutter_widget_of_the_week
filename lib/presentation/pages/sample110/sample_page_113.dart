@@ -47,15 +47,3 @@ class _SamplePage113State extends State<SamplePage113> {
     );
   }
 }
-/*
-
-        
-        
-        .network(
-          
-          width: 128,
-          loadingBuilder: (context, child, progress) {
-            return progress == null ? child : const CircularProgressIndicator();
-          },
-        ),
-        */

@@ -3,8 +3,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample110/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample110/sample_page_111.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample110/sample_page_112.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample110/sample_page_113.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample110/sample_page_114.dart';
 
 final sample110PageDataList = <SamplePageData>[
+  SamplePageData(name: '#114 freezed', widget: const SamplePage114()),
   SamplePageData(name: '#113 GestureDetector', widget: const SamplePage113()),
   SamplePageData(
     name: '#112 cached_network_image',
