@@ -2,8 +2,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample_page
 import 'package:flutter_widget_of_the_week/presentation/pages/sample110/sample_page_110.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample110/sample_page_111.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample110/sample_page_112.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample110/sample_page_113.dart';
 
 final sample110PageDataList = <SamplePageData>[
+  SamplePageData(name: '#113 GestureDetector', widget: const SamplePage113()),
   SamplePageData(
     name: '#112 cached_network_image',
     widget: const SamplePage112(),

@@ -11,6 +11,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#113|GestureDetector|[リンク](https://www.youtube.com/watch?v=WhVXkCFPmK4))|[リンク](https://api.flutter.dev/flutter/widgets/GestureDetector-class.html)|[リンク](lib/presentation/pages/sample110/sample_page_113.dart)|
 |#112|cached_network_image|[リンク](https://www.youtube.com/watch?v=fnHr_rsQwDA)|[リンク](https://pub.dev/packages/cached_network_image)|[リンク](lib/presentation/pages/sample110/sample_page_112.dart)|
 |#111|Theme|[リンク](https://www.youtube.com/watch?v=oTvQDJOBXmM)|[リンク](https://api.flutter.dev/flutter/material/Theme-class.html)|[リンク](lib/presentation/pages/sample110/sample_page_111.dart)|
 |#110|TabPageSelector|[リンク](https://www.youtube.com/watch?v=Q628ue9Cq7U)|[リンク](https://api.flutter.dev/flutter/material/TabPageSelector-class.html)|[リンク](lib/presentation/pages/sample110/sample_page_110.dart)|
