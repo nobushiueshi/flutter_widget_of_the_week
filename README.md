@@ -11,7 +11,8 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
-|#111|Theme|[リンク](https://www.youtube.com/watch?v=oTvQDJOBXmM)|[リンク](https://api.flutter.dev/flutter/material/Theme-class.html))|[リンク](lib/presentation/pages/sample110/sample_page_111.dart)|
+|#112|cached_network_image|[リンク](https://www.youtube.com/watch?v=fnHr_rsQwDA)|[リンク](https://pub.dev/packages/cached_network_image)|[リンク](lib/presentation/pages/sample110/sample_page_112.dart)|
+|#111|Theme|[リンク](https://www.youtube.com/watch?v=oTvQDJOBXmM)|[リンク](https://api.flutter.dev/flutter/material/Theme-class.html)|[リンク](lib/presentation/pages/sample110/sample_page_111.dart)|
 |#110|TabPageSelector|[リンク](https://www.youtube.com/watch?v=Q628ue9Cq7U)|[リンク](https://api.flutter.dev/flutter/material/TabPageSelector-class.html)|[リンク](lib/presentation/pages/sample110/sample_page_110.dart)|
 |#109|Flow|[リンク](https://www.youtube.com/watch?v=NG6pvXpnIso)|[リンク](https://api.flutter.dev/flutter/widgets/Flow-class.html)|[リンク](lib/presentation/pages/sample100/sample_page_109.dart)|
 |#108|font_awesome_flutter|[リンク](https://www.youtube.com/watch?v=TOAyjIAsT7o)|[リンク](https://pub.dev/packages/font_awesome_flutter)|[リンク](lib/presentation/pages/sample100/sample_page_108.dart)|
@@ -127,6 +128,8 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |内容|記事|
 |:---|:---:|
+|AboutDialog<br>async<br>url_launcher|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c82-aboutdialog%e3%80%8d%e3%80%81%e3%80%8c83-async%e3%80%8d%e3%80%81%e3%80%8c84-url_launcher%e3%80%8d/)|
+|AnimatedWidget<br>Padding<br>CheckboxListTile|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c79-animatedwidget%e3%80%8d%e3%80%81%e3%80%8c80-padding%e3%80%8d%e3%80%81%e3%80%8c81-checkboxlisttile%e3%80%8d/)|
 |IgnorePointer<br>CupertinoActivityIndicator<br>ClipOval|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c76-ignorepointer%e3%80%8d%e3%80%81%e3%80%8c77-cupertinoactivityindicator%e3%80%8d%e3%80%81%e3%80%8c78-clipoval%e3%80%8d/)|
 |ClipPath<br>CircularProgressIndicator,LinearProgressIndicator<br>Divider|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c73-clippath%e3%80%8d%e3%80%81%e3%80%8c74-circularprogressindicatorlinearprogressindicator%e3%80%8d%e3%80%81%e3%80%8c75-divider%e3%80%8d/)|
 |ShaderMask<br>NotificationListener<br>Builder|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c70-shadermask%e3%80%8d%e3%80%81%e3%80%8c71-notificationlistener%e3%80%8d%e3%80%81%e3%80%8c72-builder%e3%80%8d/)|
