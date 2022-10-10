@@ -5,12 +5,13 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 ## 環境
 
-* Flutter 3.3.2
+* Flutter 3.3.4
 
 ## Flutter Widget of the Week
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#116|get_it|[リンク](https://www.youtube.com/watch?v=f9XQD5mf6FY))|[リンク](https://pub.dev/packages/get_it)|[リンク](lib/presentation/pages/sample110/sample_page_116.dart)|
 |#115|path_provider|[リンク](https://www.youtube.com/watch?v=Ci4t-NkOY3I))|[リンク](https://pub.dev/packages/path_provider)|[リンク](lib/presentation/pages/sample110/sample_page_115.dart)|
 |#114|freezed|[リンク](https://www.youtube.com/watch?v=RaThk0fiphA))|[リンク](https://pub.dev/packages/freezed)|[リンク](lib/presentation/pages/sample110/sample_page_114.dart)|
 |#113|GestureDetector|[リンク](https://www.youtube.com/watch?v=WhVXkCFPmK4))|[リンク](https://api.flutter.dev/flutter/widgets/GestureDetector-class.html)|[リンク](lib/presentation/pages/sample110/sample_page_113.dart)|
