@@ -6,8 +6,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample110/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample110/sample_page_114.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample110/sample_page_115.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample110/sample_page_116.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample110/sample_page_117.dart';
 
 final sample110PageDataList = <SamplePageData>[
+  SamplePageData(name: '#117 Baseline', widget: const SamplePage117()),
   SamplePageData(name: '#116 get_it', widget: const SamplePage116()),
   SamplePageData(name: '#115 path_provider', widget: const SamplePage115()),
   SamplePageData(name: '#114 freezed', widget: const SamplePage114()),
