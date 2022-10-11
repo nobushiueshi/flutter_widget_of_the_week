@@ -11,6 +11,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#119|DropdownButton|[リンク](https://www.youtube.com/watch?v=ZzQ_PWrFihg))|[リンク](https://api.flutter.dev/flutter/material/DropdownButton-class.html)|[リンク](lib/presentation/pages/sample110/sample_page_119.dart)|
 |#118|badges|[リンク](https://www.youtube.com/watch?v=_CIHLJHVoN8))|[リンク](https://pub.dev/packages/badges)|[リンク](lib/presentation/pages/sample110/sample_page_118.dart)|
 |#117|Baseline|[リンク](https://www.youtube.com/watch?v=8ZaFk0yvNlI))|[リンク](https://api.flutter.dev/flutter/widgets/Baseline-class.html)|[リンク](lib/presentation/pages/sample110/sample_page_117.dart)|
 |#116|get_it|[リンク](https://www.youtube.com/watch?v=f9XQD5mf6FY))|[リンク](https://pub.dev/packages/get_it)|[リンク](lib/presentation/pages/sample110/sample_page_116.dart)|

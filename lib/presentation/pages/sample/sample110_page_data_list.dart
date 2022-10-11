@@ -8,8 +8,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample110/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample110/sample_page_116.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample110/sample_page_117.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample110/sample_page_118.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample110/sample_page_119.dart';
 
 final sample110PageDataList = <SamplePageData>[
+  SamplePageData(name: '#119 DropdownButton', widget: const SamplePage119()),
   SamplePageData(name: '#118 badges', widget: const SamplePage118()),
   SamplePageData(name: '#117 Baseline', widget: const SamplePage117()),
   SamplePageData(name: '#116 get_it', widget: const SamplePage116()),
