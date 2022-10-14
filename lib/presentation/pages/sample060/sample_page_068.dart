@@ -26,12 +26,20 @@ class _SamplePage068State extends State<SamplePage068> {
                 children: [
                   ElevatedButton(
                     onPressed: () {
-                      // このやり方は古い. Flutter 3.3.0より使えなくなった.
+                      // このやり方は古い. Flutter 3.3.0以降使えなくなった.
                       // Scaffold.of(context).showSnackBar(
                       //   const SnackBar(
                       //     content: Text('Hello World!'),
                       //   ),
                       // );
+                      showDialog<void>(
+                        context: context,
+                        builder: (context) {
+                          return const AlertDialog(
+                            title: Text('Flutter 3.3.0以降使えなくなった'),
+                          );
+                        },
+                      );
                     },
                     child: const Text('古いやり方でSnackBarを表示'),
                   ),

@@ -16,7 +16,7 @@ class _SamplePage119State extends State<SamplePage119> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('badges'),
+        title: const Text('DropdownButton'),
         centerTitle: true,
       ),
       body: Center(

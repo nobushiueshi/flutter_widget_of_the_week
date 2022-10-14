@@ -25,6 +25,7 @@ class SamplePage072 extends StatelessWidget {
                   //     content: Text('通知されない'),
                   //   ),
                   // );
+                  debugPrint(Scaffold.of(context).hasAppBar.toString());
                 },
                 child: const Text('エラーが発生するボタン'),
               ),
@@ -39,6 +40,7 @@ class SamplePage072 extends StatelessWidget {
                       //     content: Text('通知される'),
                       //   ),
                       // );
+                      debugPrint(Scaffold.of(context).hasAppBar.toString());
                     },
                     child: const Text('普通のボタン'),
                   );
