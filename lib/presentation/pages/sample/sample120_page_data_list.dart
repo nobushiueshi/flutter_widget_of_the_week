@@ -4,8 +4,13 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample120/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample120/sample_page_122.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample120/sample_page_123.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample120/sample_page_124.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample120/sample_page_125.dart';
 
 final sample120PageDataList = <SamplePageData>[
+  SamplePageData(
+    name: '#125 FocusableActionDetector',
+    widget: const SamplePage125(),
+  ),
   SamplePageData(
     name: '#124 shared_preferences',
     widget: const SamplePage124(),
