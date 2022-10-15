@@ -29,13 +29,8 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
-  flutter:
-    sdk: flutter
 
 
-  # The following adds the Cupertino Icons font to your application.
-  # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^1.0.5
   animated_text_kit: ^4.2.2
   animations: ^2.0.5
   async: ^2.8.2
@@ -43,7 +38,12 @@ dependencies:
   cached_network_image: ^3.2.2
   collection: ^1.16.0
   connectivity_plus: ^2.3.7
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.5
   device_info_plus: ^4.1.2
+  flutter:
+    sdk: flutter
   flutter_slidable: ^2.0.0
   font_awesome_flutter: ^10.2.1
   freezed_annotation: ^2.1.0
@@ -54,20 +54,21 @@ dependencies:
   path: ^1.8.1
   path_provider: ^2.0.11
   sensors_plus: ^1.4.0
+  shared_preferences: ^2.0.15
   sqflite: ^2.1.0
   url_launcher: ^6.1.4
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
 
+  build_runner: ^2.2.1
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
   # activated in the `analysis_options.yaml` file located at the root of your
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^2.0.0
-  build_runner: ^2.2.1
+  flutter_test:
+    sdk: flutter
   freezed: ^2.1.1
   json_serializable: ^6.4.0
   pedantic_mono: any

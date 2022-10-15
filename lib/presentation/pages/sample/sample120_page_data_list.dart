@@ -3,8 +3,13 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample120/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample120/sample_page_121.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample120/sample_page_122.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample120/sample_page_123.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample120/sample_page_124.dart';
 
 final sample120PageDataList = <SamplePageData>[
+  SamplePageData(
+    name: '#124 shared_preferences',
+    widget: const SamplePage124(),
+  ),
   SamplePageData(name: '#123 google_fonts', widget: const SamplePage123()),
   SamplePageData(name: '#122 RepaintBoundary', widget: const SamplePage122()),
   SamplePageData(name: '#121 StatefulBuilder', widget: const SamplePage121()),
