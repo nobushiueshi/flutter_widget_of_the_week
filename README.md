@@ -5,12 +5,13 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 ## 環境
 
-* Flutter 3.3.4
+* Flutter 3.3.5
 
 ## Flutter Widget of the Week
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#127|NavigationRail|[リンク](https://www.youtube.com/watch?v=y9xchtVTtqQ))|[リンク](https://api.flutter.dev/flutter/material/NavigationRail-class.html)|[リンク](lib/presentation/pages/sample120/sample_page_127.dart)|
 |#126|mason|[リンク](https://www.youtube.com/watch?v=qjA0JFiPMnQ))|[リンク](https://pub.dev/packages/mason)|[リンク](lib/presentation/pages/sample120/sample_page_126.dart)|
 |#125|FocusableActionDetector|[リンク](https://www.youtube.com/watch?v=R84AGg0lKs8))|[リンク](https://api.flutter.dev/flutter/widgets/FocusableActionDetector-class.html)|[リンク](lib/presentation/pages/sample120/sample_page_125.dart)|
 |#124|shared_preferences|[リンク](https://www.youtube.com/watch?v=sa_U0jffQII))|[リンク](https://pub.dev/packages/shared_preferences)|[リンク](lib/presentation/pages/sample120/sample_page_124.dart)|
