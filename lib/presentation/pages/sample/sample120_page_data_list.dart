@@ -7,8 +7,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample120/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample120/sample_page_125.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample120/sample_page_126.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample120/sample_page_127.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample120/sample_page_128.dart';
 
 final sample120PageDataList = <SamplePageData>[
+  SamplePageData(name: '#128 Autocomplete', widget: const SamplePage128()),
   SamplePageData(name: '#127 NavigationRail', widget: const SamplePage127()),
   SamplePageData(name: '#126 mason', widget: const SamplePage126()),
   SamplePageData(
