@@ -29,6 +29,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.5"
+  archive:
+    dependency: transitive
+    description:
+      name: archive
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "3.3.2"
   args:
     dependency: transitive
     description:
@@ -513,6 +520,20 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.2"
+  mason:
+    dependency: "direct main"
+    description:
+      name: mason
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.1.0-dev.34"
+  mason_logger:
+    dependency: transitive
+    description:
+      name: mason_logger
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.2.1"
   matcher:
     dependency: transitive
     description:
@@ -541,6 +562,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.2"
+  mustache_template:
+    dependency: transitive
+    description:
+      name: mustache_template
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.0"
   nm:
     dependency: transitive
     description:
@@ -681,6 +709,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.2.1"
+  recase:
+    dependency: transitive
+    description:
+      name: recase
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "4.1.0"
   rxdart:
     dependency: transitive
     description:

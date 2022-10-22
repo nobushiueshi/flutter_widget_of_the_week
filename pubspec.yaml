@@ -51,6 +51,7 @@ dependencies:
   google_fonts: ^3.0.1
   html: ^0.15.0
   location: ^4.4.0
+  mason: ^0.1.0-dev.34
   path: ^1.8.1
   path_provider: ^2.0.11
   sensors_plus: ^1.4.0
