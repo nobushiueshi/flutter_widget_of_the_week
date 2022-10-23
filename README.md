@@ -11,6 +11,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#130|flutter_rating_bar|[リンク](https://www.youtube.com/watch?v=VdkRy3yZiPo)|[リンク](https://pub.dev/packages/flutter_rating_bar)|[リンク](lib/presentation/pages/sample130/sample_page_130.dart)|
 |#129|LinearGradient|[リンク](https://www.youtube.com/watch?v=gYNTcgZVcWw)|[リンク](https://api.flutter.dev/flutter/painting/LinearGradient-class.html)|[リンク](lib/presentation/pages/sample120/sample_page_129.dart)|
 |#128|Autocomplete|[リンク](https://www.youtube.com/watch?v=-Nny8kzW380)|[リンク](https://api.flutter.dev/flutter/material/Autocomplete-class.html)|[リンク](lib/presentation/pages/sample120/sample_page_128.dart)|
 |#127|NavigationRail|[リンク](https://www.youtube.com/watch?v=y9xchtVTtqQ)|[リンク](https://api.flutter.dev/flutter/material/NavigationRail-class.html)|[リンク](lib/presentation/pages/sample120/sample_page_127.dart)|
