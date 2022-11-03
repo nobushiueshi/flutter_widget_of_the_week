@@ -11,6 +11,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#134|Actions|[リンク](https://www.youtube.com/watch?v=XawP1i314WM)|[リンク](https://api.flutter.dev/flutter/widgets/Actions-class.html)|[リンク](lib/presentation/pages/sample130/sample_page_134.dart)|
 |#133|Shortcuts|[リンク](https://www.youtube.com/watch?v=6ZcQmdoz9N8)|[リンク](https://api.flutter.dev/flutter/widgets/Shortcuts-class.html)|[リンク](lib/presentation/pages/sample130/sample_page_133.dart)|
 |#132|Focus|[リンク](https://www.youtube.com/watch?v=JCDfh5bs1xc)|[リンク](https://api.flutter.dev/flutter/widgets/Focus-class.html)|[リンク](lib/presentation/pages/sample130/sample_page_132.dart)|
 |#131|TextStyle|[リンク](https://www.youtube.com/watch?v=1z6YP7YmvwA)|[リンク](https://api.flutter.dev/flutter/painting/TextStyle-class.html)|[リンク](lib/presentation/pages/sample130/sample_page_131.dart)|
