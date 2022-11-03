@@ -2,8 +2,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample_page
 import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_page_130.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_page_131.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_page_132.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_page_133.dart';
 
 final sample130PageDataList = <SamplePageData>[
+  SamplePageData(name: '#133 Shortcuts', widget: const SamplePage133()),
   SamplePageData(name: '#132 Focus', widget: const SamplePage132()),
   SamplePageData(name: '#131 TextStyle', widget: const SamplePage131()),
   SamplePageData(

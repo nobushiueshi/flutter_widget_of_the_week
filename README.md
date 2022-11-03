@@ -5,12 +5,13 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 ## 環境
 
-* Flutter 3.3.5
+* Flutter 3.3.7
 
 ## Flutter Widget of the Week
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#133|Shortcuts|[リンク](https://www.youtube.com/watch?v=6ZcQmdoz9N8)|[リンク](https://api.flutter.dev/flutter/widgets/Shortcuts-class.html)|[リンク](lib/presentation/pages/sample130/sample_page_133.dart)|
 |#132|Focus|[リンク](https://www.youtube.com/watch?v=JCDfh5bs1xc)|[リンク](https://api.flutter.dev/flutter/widgets/Focus-class.html)|[リンク](lib/presentation/pages/sample130/sample_page_132.dart)|
 |#131|TextStyle|[リンク](https://www.youtube.com/watch?v=1z6YP7YmvwA)|[リンク](https://api.flutter.dev/flutter/painting/TextStyle-class.html)|[リンク](lib/presentation/pages/sample130/sample_page_131.dart)|
 |#130|flutter_rating_bar|[リンク](https://www.youtube.com/watch?v=VdkRy3yZiPo)|[リンク](https://pub.dev/packages/flutter_rating_bar)|[リンク](lib/presentation/pages/sample130/sample_page_130.dart)|
