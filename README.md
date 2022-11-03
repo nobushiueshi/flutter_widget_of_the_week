@@ -11,6 +11,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#132|Focus|[リンク](https://www.youtube.com/watch?v=JCDfh5bs1xc)|[リンク](https://api.flutter.dev/flutter/widgets/Focus-class.html)|[リンク](lib/presentation/pages/sample130/sample_page_132.dart)|
 |#131|TextStyle|[リンク](https://www.youtube.com/watch?v=1z6YP7YmvwA)|[リンク](https://api.flutter.dev/flutter/painting/TextStyle-class.html)|[リンク](lib/presentation/pages/sample130/sample_page_131.dart)|
 |#130|flutter_rating_bar|[リンク](https://www.youtube.com/watch?v=VdkRy3yZiPo)|[リンク](https://pub.dev/packages/flutter_rating_bar)|[リンク](lib/presentation/pages/sample130/sample_page_130.dart)|
 |#129|LinearGradient|[リンク](https://www.youtube.com/watch?v=gYNTcgZVcWw)|[リンク](https://api.flutter.dev/flutter/painting/LinearGradient-class.html)|[リンク](lib/presentation/pages/sample120/sample_page_129.dart)|
