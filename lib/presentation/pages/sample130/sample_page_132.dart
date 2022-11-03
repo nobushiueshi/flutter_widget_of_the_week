@@ -10,12 +10,12 @@ class SamplePage132 extends StatefulWidget {
 }
 
 class _SamplePage132State extends State<SamplePage132> {
-  List<Color> _colors = [
+  final List<Color> _colors = [
     Colors.white,
     Colors.white,
     Colors.white,
   ];
-  List<String> _labels = [
+  final List<String> _labels = [
     'Unfocused',
     'Unfocused',
     'Unfocused',

@@ -150,6 +150,8 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |内容|記事|
 |:---|:---:|
+|FlutterLogo<br>animated_text_kit<br>MouseRegion|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c100-flutterlogo%e3%80%8d%e3%80%81%e3%80%8c101-animated_text_kit%e3%80%8d%e3%80%81%e3%80%8c102-mouseregion%e3%80%8d/)|
+|ExpansionPanel<br>Scrollbar<br>connectivity_plus|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c97-expansionpanel%e3%80%8d%e3%80%81%e3%80%8c98-scrollbar%e3%80%8d%e3%80%81%e3%80%8c99-connectivity_plus%e3%80%8d/)|
 |animations<br>flutter_slidable<br>RotatedBox|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c94-animations%e3%80%8d%e3%80%81%e3%80%8c95-flutter_slidable%e3%80%8d%e3%80%81%e3%80%8c96-rotatedbox%e3%80%8d/)|
 |device_info_plus<br>ImageFiltered<br>PhysicalModel|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c91-device_info_plus%e3%80%8d%e3%80%81%e3%80%8c92-imagefiltered%e3%80%8d%e3%80%81%e3%80%8c93-physicalmodel%e3%80%8d/)|
 |GridView<br>SwitchListTile<br>Location|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c88-gridview%e3%80%8d%e3%80%81%e3%80%8c89-switchlisttile%e3%80%8d%e3%80%81%e3%80%8c90-location%e3%80%8d/)|
