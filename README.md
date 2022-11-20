@@ -150,6 +150,8 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |内容|記事|
 |:---|:---:|
+|html<br>RefreshIndicator<br>font_awesome_flutter|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c106-html%e3%80%8d%e3%80%81%e3%80%8c107-refreshindicator%e3%80%8d%e3%80%81%e3%80%8c108-font_awesome_flutter%e3%80%8d/)|
+|sensors_plus<br>collection<br>HeroMode|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c103-sensors_plus%e3%80%8d%e3%80%81%e3%80%8c104-collection%e3%80%8d%e3%80%81%e3%80%8c105-heromode%e3%80%8d/)|
 |FlutterLogo<br>animated_text_kit<br>MouseRegion|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c100-flutterlogo%e3%80%8d%e3%80%81%e3%80%8c101-animated_text_kit%e3%80%8d%e3%80%81%e3%80%8c102-mouseregion%e3%80%8d/)|
 |ExpansionPanel<br>Scrollbar<br>connectivity_plus|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c97-expansionpanel%e3%80%8d%e3%80%81%e3%80%8c98-scrollbar%e3%80%8d%e3%80%81%e3%80%8c99-connectivity_plus%e3%80%8d/)|
 |animations<br>flutter_slidable<br>RotatedBox|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c94-animations%e3%80%8d%e3%80%81%e3%80%8c95-flutter_slidable%e3%80%8d%e3%80%81%e3%80%8c96-rotatedbox%e3%80%8d/)|
