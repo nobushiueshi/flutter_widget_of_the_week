@@ -4,8 +4,13 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_page_132.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_page_133.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_page_134.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_page_136.dart';
 
 final sample130PageDataList = <SamplePageData>[
+  SamplePageData(
+    name: '#136 FutureBuilder(Take 2)',
+    widget: const SamplePage136(),
+  ),
   SamplePageData(name: '#134 Actions', widget: const SamplePage134()),
   SamplePageData(name: '#133 Shortcuts', widget: const SamplePage133()),
   SamplePageData(name: '#132 Focus', widget: const SamplePage132()),
