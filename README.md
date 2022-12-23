@@ -153,6 +153,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |内容|記事|
 |:---|:---:|
+|StatefulBuilder<br>RepaintBoundary<br>google_fonts|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c121-statefulbuilder%e3%80%8d%e3%80%81%e3%80%8c122-repaintboundary%e3%80%8d%e3%80%81%e3%80%8c123-google_fonts%e3%80%8d/)|
 |badges<br>DropdownButton<br>ScaffoldMessenger|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c118-badges%e3%80%8d%e3%80%81%e3%80%8c119-dropdownbutton%e3%80%8d%e3%80%81%e3%80%8c120-scaffoldmessenger%e3%80%8d/)|
 |path_provider<br>get_it<br>Baseline|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c115-path_provider%e3%80%8d%e3%80%81%e3%80%8c116-get_it%e3%80%8d%e3%80%81%e3%80%8c117-baseline%e3%80%8d/)|
 |cached_network_image<br>GestureDetector<br>freezed|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c112-cached_network_image%e3%80%8d%e3%80%81%e3%80%8c113-gesturedetector%e3%80%8d%e3%80%81%e3%80%8c114-freezed%e3%80%8d/)|
