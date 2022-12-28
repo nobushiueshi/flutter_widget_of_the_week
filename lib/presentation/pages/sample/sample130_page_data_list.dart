@@ -6,8 +6,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_page_134.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_page_136.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_page_137.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_page_138.dart';
 
 final sample130PageDataList = <SamplePageData>[
+  SamplePageData(name: '#138 go_router', widget: const SamplePage138()),
   SamplePageData(name: '#137 NavigationBar', widget: const SamplePage137()),
   SamplePageData(
     name: '#136 FutureBuilder(Take 2)',

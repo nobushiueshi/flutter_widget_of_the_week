@@ -5,12 +5,13 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 ## 環境
 
-* Flutter 3.3.9
+* Flutter 3.3.10
 
 ## Flutter Widget of the Week
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#138|go_router|[リンク](https://www.youtube.com/watch?v=b6Z885Z46cU)|[リンク](https://pub.dev/packages/go_router)|[リンク](lib/presentation/pages/sample130/sample_page_138.dart)|
 |#137|NavigationBar|[リンク](https://www.youtube.com/watch?v=DVGYddFaLv0)|[リンク](https://api.flutter.dev/flutter/material/NavigationBar-class.html)|[リンク](lib/presentation/pages/sample130/sample_page_137.dart)|
 |#136|FutureBuilder(Take 2)|[リンク](https://www.youtube.com/watch?v=zEdw_1B7JHY)|[リンク](https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html)|[リンク](lib/presentation/pages/sample130/sample_page_136.dart)|
 |#135|firebase_ui_auth|[リンク](https://www.youtube.com/watch?v=jtFaMv2vGF0)|[リンク](https://pub.dev/packages/firebase_ui_auth)|[リンク](#)|
@@ -153,6 +154,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |内容|記事|
 |:---|:---:|
+|shared_preferences<br>FocusableActionDetector<br>mason|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c124-shared_preferences%e3%80%8d%e3%80%81%e3%80%8c125-focusableactiondetector%e3%80%8d%e3%80%81%e3%80%8c126-mason%e3%80%8d/)|
 |StatefulBuilder<br>RepaintBoundary<br>google_fonts|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c121-statefulbuilder%e3%80%8d%e3%80%81%e3%80%8c122-repaintboundary%e3%80%8d%e3%80%81%e3%80%8c123-google_fonts%e3%80%8d/)|
 |badges<br>DropdownButton<br>ScaffoldMessenger|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c118-badges%e3%80%8d%e3%80%81%e3%80%8c119-dropdownbutton%e3%80%8d%e3%80%81%e3%80%8c120-scaffoldmessenger%e3%80%8d/)|
 |path_provider<br>get_it<br>Baseline|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c115-path_provider%e3%80%8d%e3%80%81%e3%80%8c116-get_it%e3%80%8d%e3%80%81%e3%80%8c117-baseline%e3%80%8d/)|
