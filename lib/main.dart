@@ -1,7 +1,14 @@
+// import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+// import 'package:flutter_widget_of_the_week/firebase_options.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample_page_data_list.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  // await Firebase.initializeApp(
+  //   options: DefaultFirebaseOptions.currentPlatform,
+  // );
+
   runApp(const MyApp());
 }
 

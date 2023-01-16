@@ -14,7 +14,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 |#138|go_router|[リンク](https://www.youtube.com/watch?v=b6Z885Z46cU)|[リンク](https://pub.dev/packages/go_router)|[リンク](lib/presentation/pages/sample130/sample_page_138.dart)|
 |#137|NavigationBar|[リンク](https://www.youtube.com/watch?v=DVGYddFaLv0)|[リンク](https://api.flutter.dev/flutter/material/NavigationBar-class.html)|[リンク](lib/presentation/pages/sample130/sample_page_137.dart)|
 |#136|FutureBuilder(Take 2)|[リンク](https://www.youtube.com/watch?v=zEdw_1B7JHY)|[リンク](https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html)|[リンク](lib/presentation/pages/sample130/sample_page_136.dart)|
-|#135|firebase_ui_auth|[リンク](https://www.youtube.com/watch?v=jtFaMv2vGF0)|[リンク](https://pub.dev/packages/firebase_ui_auth)|[リンク](#)|
+|#135|firebase_ui_auth|[リンク](https://www.youtube.com/watch?v=jtFaMv2vGF0)|[リンク](https://pub.dev/packages/firebase_ui_auth)|[リンク](lib/presentation/pages/sample130/sample_page_135.dart)|
 |#134|Actions|[リンク](https://www.youtube.com/watch?v=XawP1i314WM)|[リンク](https://api.flutter.dev/flutter/widgets/Actions-class.html)|[リンク](lib/presentation/pages/sample130/sample_page_134.dart)|
 |#133|Shortcuts|[リンク](https://www.youtube.com/watch?v=6ZcQmdoz9N8)|[リンク](https://api.flutter.dev/flutter/widgets/Shortcuts-class.html)|[リンク](lib/presentation/pages/sample130/sample_page_133.dart)|
 |#132|Focus|[リンク](https://www.youtube.com/watch?v=JCDfh5bs1xc)|[リンク](https://api.flutter.dev/flutter/widgets/Focus-class.html)|[リンク](lib/presentation/pages/sample130/sample_page_132.dart)|
