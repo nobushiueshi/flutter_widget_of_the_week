@@ -5,7 +5,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 ## 環境
 
-* Flutter 3.3.10
+* Flutter Version: [ここ](.fvm/fvm_config.json)を見てください
 
 ## Flutter Widget of the Week
 
@@ -154,6 +154,9 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |内容|記事|
 |:---|:---:|
+|Shortcuts<br>Actions<br>firebase_ui_auth|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c133-shortcuts%e3%80%8d%e3%80%81%e3%80%8c134-actions%e3%80%8d%e3%80%81%e3%80%8c135-firebase_ui_auth%e3%80%8d/)|
+|flutter_rating_bar<br>TextStyle<br>Focus|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c130-flutter_rating_bar%e3%80%8d%e3%80%81%e3%80%8c131-textstyle%e3%80%8d%e3%80%81%e3%80%8c132-focus%e3%80%8d/)|
+|NavigationRail<br>Autocomplete<br>LinearGradient|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c127-navigationrail%e3%80%8d%e3%80%81%e3%80%8c128-autocomplete%e3%80%8d%e3%80%81%e3%80%8c129-lineargradient%e3%80%8d/)|
 |shared_preferences<br>FocusableActionDetector<br>mason|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c124-shared_preferences%e3%80%8d%e3%80%81%e3%80%8c125-focusableactiondetector%e3%80%8d%e3%80%81%e3%80%8c126-mason%e3%80%8d/)|
 |StatefulBuilder<br>RepaintBoundary<br>google_fonts|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c121-statefulbuilder%e3%80%8d%e3%80%81%e3%80%8c122-repaintboundary%e3%80%8d%e3%80%81%e3%80%8c123-google_fonts%e3%80%8d/)|
 |badges<br>DropdownButton<br>ScaffoldMessenger|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c118-badges%e3%80%8d%e3%80%81%e3%80%8c119-dropdownbutton%e3%80%8d%e3%80%81%e3%80%8c120-scaffoldmessenger%e3%80%8d/)|

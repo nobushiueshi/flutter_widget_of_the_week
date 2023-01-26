@@ -1,4 +1,4 @@
-import 'package:badges/badges.dart';
+import 'package:badges/badges.dart' as pkg;
 import 'package:flutter/material.dart';
 
 class SamplePage118 extends StatefulWidget {
@@ -21,7 +21,7 @@ class _SamplePage118State extends State<SamplePage118> {
         centerTitle: true,
       ),
       body: Center(
-        child: Badge(
+        child: pkg.Badge(
           showBadge: counter > 0,
           badgeContent: Text(
             counter.toString(),
