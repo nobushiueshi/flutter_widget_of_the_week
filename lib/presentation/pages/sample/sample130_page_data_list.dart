@@ -8,8 +8,13 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_page_136.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_page_137.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_page_138.dart';
+// import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_page_139.dart';
 
 final sample130PageDataList = <SamplePageData>[
+  // SamplePageData(
+  //   name: '#139 firebase_remote_config',
+  //   widget: const SamplePage139(),
+  // ),
   SamplePageData(name: '#138 go_router', widget: const SamplePage138()),
   SamplePageData(name: '#137 NavigationBar', widget: const SamplePage137()),
   SamplePageData(
