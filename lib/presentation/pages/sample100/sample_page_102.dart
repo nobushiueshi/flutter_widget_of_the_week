@@ -22,13 +22,13 @@ class SamplePage102 extends StatelessWidget {
               color: Colors.blue,
             ),
             onEnter: (event) {
-              debugPrint('onEnter ${event.toString()}');
+              debugPrint('onEnter $event');
             },
             onHover: (event) {
-              debugPrint('onHover ${event.toString()}');
+              debugPrint('onHover $event');
             },
             onExit: (event) {
-              debugPrint('onExit ${event.toString()}');
+              debugPrint('onExit $event');
             },
           ),
         ),

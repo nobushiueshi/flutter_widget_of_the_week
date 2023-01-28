@@ -76,7 +76,7 @@ class _SamplePage083State extends State<SamplePage083> {
                   return 10;
                 });
                 debugPrint(
-                  'count: ${count.toString()}  ${DateTime.now().toLocal()}',
+                  'count: $count  ${DateTime.now().toLocal()}',
                 );
               },
             ),

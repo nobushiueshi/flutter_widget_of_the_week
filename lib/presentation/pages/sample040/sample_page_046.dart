@@ -81,7 +81,7 @@ class _SamplePage046ChildState extends State<_SamplePage046Child> {
               ),
               Text(
                 '$_counter',
-                style: Theme.of(context).textTheme.headline4,
+                style: Theme.of(context).textTheme.headlineMedium,
               ),
             ],
           ),

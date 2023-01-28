@@ -29,7 +29,7 @@ class SamplePage096 extends StatelessWidget {
                       style: TextStyle(
                         color: Colors.white,
                         fontSize:
-                            Theme.of(context).textTheme.headline3!.fontSize,
+                            Theme.of(context).textTheme.displaySmall!.fontSize,
                         fontWeight: FontWeight.bold,
                       ),
                     ),

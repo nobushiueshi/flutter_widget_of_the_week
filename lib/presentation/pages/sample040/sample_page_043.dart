@@ -29,7 +29,7 @@ class _SamplePage043State extends State<SamplePage043> {
             child: Text(
               _count.toString(),
               key: ValueKey<int>(_count),
-              style: Theme.of(context).textTheme.headline2,
+              style: Theme.of(context).textTheme.displayMedium,
             ),
           ),
         ),

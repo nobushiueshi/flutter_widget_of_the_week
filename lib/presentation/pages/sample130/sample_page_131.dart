@@ -31,12 +31,12 @@ class _SamplePage131State extends State<SamplePage131> {
               const SizedBox(height: 20),
               Text(
                 'Hello, Flutter!',
-                style: Theme.of(context).textTheme.bodyText1,
+                style: Theme.of(context).textTheme.bodyLarge,
               ),
               const SizedBox(height: 20),
               Text(
                 'Hello, Flutter!',
-                style: Theme.of(context).textTheme.bodyText1!.copyWith(
+                style: Theme.of(context).textTheme.bodyLarge!.copyWith(
                       color: Colors.red,
                     ),
               ),

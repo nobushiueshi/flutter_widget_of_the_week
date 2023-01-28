@@ -35,7 +35,8 @@ class _SamplePage050State extends State<SamplePage050> {
                   'Hello!',
                   style: TextStyle(
                     color: Colors.blue[900],
-                    fontSize: Theme.of(context).textTheme.headline2!.fontSize,
+                    fontSize:
+                        Theme.of(context).textTheme.displayMedium!.fontSize,
                   ),
                 ),
               ],

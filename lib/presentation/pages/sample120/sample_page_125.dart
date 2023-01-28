@@ -26,7 +26,7 @@ class _SamplePage125State extends State<SamplePage125> {
             children: [
               Text(
                 message,
-                style: Theme.of(context).textTheme.headline4,
+                style: Theme.of(context).textTheme.headlineMedium,
               ),
               const SizedBox(height: 20),
               GestureDetector(

@@ -17,7 +17,7 @@ class SamplePage041 extends StatelessWidget {
           child: RichText(
             text: TextSpan(
               text: 'Hello ',
-              style: Theme.of(context).textTheme.bodyText1,
+              style: Theme.of(context).textTheme.bodyLarge,
               children: const <TextSpan>[
                 TextSpan(
                   text: 'bold',

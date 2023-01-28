@@ -50,7 +50,7 @@ class _SamplePage124State extends State<SamplePage124> {
         child: Center(
           child: Text(
             count.toString(),
-            style: Theme.of(context).textTheme.headline4,
+            style: Theme.of(context).textTheme.headlineMedium,
           ),
         ),
       ),

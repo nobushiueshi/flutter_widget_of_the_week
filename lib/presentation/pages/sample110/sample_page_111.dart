@@ -37,7 +37,7 @@ class _SamplePage111State extends State<SamplePage111> {
               ),
               Text(
                 '$_counter',
-                style: Theme.of(context).textTheme.headline4,
+                style: Theme.of(context).textTheme.headlineMedium,
               ),
             ],
           ),

@@ -32,7 +32,8 @@ class SamplePage070 extends StatelessWidget {
                   'Burning Text!',
                   style: TextStyle(
                     color: Colors.white,
-                    fontSize: Theme.of(context).textTheme.headline4!.fontSize,
+                    fontSize:
+                        Theme.of(context).textTheme.headlineMedium!.fontSize,
                   ),
                 ),
               ),

@@ -57,15 +57,15 @@ class _SamplePage104State extends State<SamplePage104> {
           child: Column(
             mainAxisSize: MainAxisSize.min,
             children: [
-              Text('a : ${a.toString()}'),
-              Text('b : ${b.toString()}'),
+              Text('a : $a'),
+              Text('b : $b'),
               Text(
                 'ListEquality().equals(a, b):'
                 '${const ListEquality<String>().equals(a, b)}',
               ),
               const SizedBox(height: 20),
-              Text('c : ${c.toString()}'),
-              Text('d : ${d.toString()}'),
+              Text('c : $c'),
+              Text('d : $d'),
               Text(
                 'DeepCollectionEquality().equals(c, d):'
                 '${const DeepCollectionEquality().equals(c, d)}',

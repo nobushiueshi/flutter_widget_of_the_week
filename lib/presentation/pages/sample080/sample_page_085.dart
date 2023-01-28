@@ -54,7 +54,7 @@ class _SamplePage085State extends State<SamplePage085> {
     await db?.transaction<void>((txn) async {
       await txn.rawInsert(
         // ignore: lines_longer_than_80_chars
-        'INSERT INTO Test(name) VALUES("${DateTime.now().toLocal().toString()}")',
+        'INSERT INTO Test(name) VALUES("${DateTime.now().toLocal()}")',
       );
     });
     await query();
