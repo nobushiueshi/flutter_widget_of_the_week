@@ -34,7 +34,7 @@ class SamplePage022State extends State<SamplePage022> {
                 ),
               ],
             ),
-            _absorbing ? const Text('押せない') : const Text('押せる'),
+            if (_absorbing) const Text('押せない') else const Text('押せる'),
             AbsorbPointer(
               absorbing: _absorbing,
               child: Row(

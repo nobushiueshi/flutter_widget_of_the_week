@@ -31,8 +31,8 @@ class MyApp extends StatelessWidget {
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({
-    super.key,
     required this.title,
+    super.key,
   });
 
   final String title;
