@@ -11,6 +11,8 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#140|flame|[リンク](https://www.youtube.com/watch?v=tEqVyJNOroI)|[リンク](https://pub.dev/packages/flame)|[リンク](#)|
+|#139|firebase_remote_config|[リンク](https://www.youtube.com/watch?v=34ExOdNEMXI)|[リンク](https://pub.dev/packages/firebase_remote_config)|[リンク](lib/presentation/pages/sample130/sample_page_139.dart)|
 |#138|go_router|[リンク](https://www.youtube.com/watch?v=b6Z885Z46cU)|[リンク](https://pub.dev/packages/go_router)|[リンク](lib/presentation/pages/sample130/sample_page_138.dart)|
 |#137|NavigationBar|[リンク](https://www.youtube.com/watch?v=DVGYddFaLv0)|[リンク](https://api.flutter.dev/flutter/material/NavigationBar-class.html)|[リンク](lib/presentation/pages/sample130/sample_page_137.dart)|
 |#136|FutureBuilder(Take 2)|[リンク](https://www.youtube.com/watch?v=zEdw_1B7JHY)|[リンク](https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html)|[リンク](lib/presentation/pages/sample130/sample_page_136.dart)|
