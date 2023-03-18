@@ -11,6 +11,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 |#|ウィジェット名|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#141|RawMagnifier|[リンク](https://www.youtube.com/watch?v=YBRkVCRP1Gw)|[リンク](https://api.flutter.dev/flutter/widgets/RawMagnifier-class.html)|[リンク](lib/presentation/pages/sample140/sample_page_141.dart)|
 |#140|flame|[リンク](https://www.youtube.com/watch?v=tEqVyJNOroI)|[リンク](https://pub.dev/packages/flame)|[リンク](#)|
 |#139|firebase_remote_config|[リンク](https://www.youtube.com/watch?v=34ExOdNEMXI)|[リンク](https://pub.dev/packages/firebase_remote_config)|[リンク](lib/presentation/pages/sample130/sample_page_139.dart)|
 |#138|go_router|[リンク](https://www.youtube.com/watch?v=b6Z885Z46cU)|[リンク](https://pub.dev/packages/go_router)|[リンク](lib/presentation/pages/sample130/sample_page_138.dart)|
