@@ -26,6 +26,7 @@ apply plugin: 'kotlin-android'
 apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
 
 android {
+    namespace "com.example.flutter_widget_of_the_week"
     compileSdkVersion flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
 
