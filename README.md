@@ -5,7 +5,7 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 
 ## 環境
 
-* Flutter Version: [ここ](.fvm/fvm_config.json)を見てください
+* Flutter Version: [ここ](.fvmrc)を見てください
 
 ## Flutter Widget of the Week
 
