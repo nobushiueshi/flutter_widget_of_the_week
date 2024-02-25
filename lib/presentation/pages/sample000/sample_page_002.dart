@@ -21,8 +21,8 @@ class SamplePage002 extends StatelessWidget {
                 padding: const EdgeInsets.all(5),
                 color: Colors.lightBlue,
                 height: 80,
-                child: Row(
-                  children: const [
+                child: const Row(
+                  children: [
                     _SamplePage002Child(),
                     _SamplePage002Child(
                       color: Colors.purple,
@@ -41,8 +41,8 @@ class SamplePage002 extends StatelessWidget {
                 padding: const EdgeInsets.all(5),
                 color: Colors.lightBlue,
                 height: 80,
-                child: Row(
-                  children: const [
+                child: const Row(
+                  children: [
                     _SamplePage002Child(),
                     Expanded(
                       child: _SamplePage002Child(
@@ -65,8 +65,8 @@ class SamplePage002 extends StatelessWidget {
                 padding: const EdgeInsets.all(5),
                 color: Colors.lightBlue,
                 height: 80,
-                child: Row(
-                  children: const [
+                child: const Row(
+                  children: [
                     _SamplePage002Child(),
                     Expanded(
                       flex: 2,

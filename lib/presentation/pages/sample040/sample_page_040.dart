@@ -12,18 +12,18 @@ class SamplePage040 extends StatelessWidget {
         title: const Text('Placeholder'),
         centerTitle: true,
       ),
-      body: SafeArea(
+      body: const SafeArea(
         child: Center(
           child: Column(
             children: [
-              const Flexible(
+              Flexible(
                 child: ColoredBox(
                   color: Colors.purple,
                 ),
               ),
               Flexible(
                 child: Row(
-                  children: const [
+                  children: [
                     Flexible(
                       child: ColoredBox(
                         color: Colors.yellow,
@@ -40,15 +40,15 @@ class SamplePage040 extends StatelessWidget {
                   ],
                 ),
               ),
-              const Flexible(
+              Flexible(
                 child: ColoredBox(
                   color: Colors.cyan,
                 ),
               ),
-              const Flexible(
+              Flexible(
                 child: Placeholder(),
               ),
-              const Flexible(
+              Flexible(
                 child: ColoredBox(
                   color: Colors.blue,
                 ),

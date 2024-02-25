@@ -32,8 +32,8 @@ class SamplePage060 extends StatelessWidget {
                   ),
                   child: SingleChildScrollView(
                     controller: scrollController,
-                    child: Column(
-                      children: const [
+                    child: const Column(
+                      children: [
                         FlutterLogo(
                           size: 256,
                         ),

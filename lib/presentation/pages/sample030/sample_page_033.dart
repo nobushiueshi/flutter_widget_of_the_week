@@ -17,9 +17,9 @@ class _SamplePage033State extends State<SamplePage033> {
         title: const Text('Flexible'),
         centerTitle: true,
       ),
-      body: SafeArea(
+      body: const SafeArea(
         child: Column(
-          children: const [
+          children: [
             Flexible(
               flex: 2,
               child: ColoredBox(

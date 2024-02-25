@@ -32,7 +32,7 @@ class SamplePage016 extends StatelessWidget {
               ClipPath(
                 clipper: _SamplePage016CustomClipperPath(),
                 child: _SamplePage016ChildWidget(),
-              )
+              ),
             ],
           ),
         ),

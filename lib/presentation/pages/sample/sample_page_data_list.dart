@@ -30,5 +30,5 @@ final samplePageDataList = <SamplePageData>[
   ...sample030PageDataList,
   ...sample020PageDataList,
   ...sample010PageDataList,
-  ...sample000PageDataList
+  ...sample000PageDataList,
 ];

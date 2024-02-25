@@ -70,7 +70,7 @@ class _SamplePage110State extends State<SamplePage110>
                   controller: tabController,
                 ),
               ),
-            )
+            ),
           ],
         ),
       ),

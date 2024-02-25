@@ -31,8 +31,8 @@ class SamplePage025 extends StatelessWidget {
                 width: 300,
                 height: 300,
                 color: Colors.blue[100],
-                child: Stack(
-                  children: const [
+                child: const Stack(
+                  children: [
                     Align(
                       alignment: Alignment.topLeft,
                       child: Text('左上'),

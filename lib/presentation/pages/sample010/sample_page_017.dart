@@ -58,7 +58,7 @@ class _SamplePage017DetailPage extends StatelessWidget {
               ),
             ),
             const SizedBox(height: 20),
-            const Text('Hero Sample')
+            const Text('Hero Sample'),
           ],
         ),
       ),

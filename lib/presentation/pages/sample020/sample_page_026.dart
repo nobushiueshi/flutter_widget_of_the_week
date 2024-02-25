@@ -20,8 +20,8 @@ class SamplePage026 extends StatelessWidget {
                 width: 100,
                 height: 100,
                 color: Colors.red[100],
-                child: Stack(
-                  children: const [
+                child: const Stack(
+                  children: [
                     Positioned.fill(
                       child: FlutterLogo(),
                     ),
@@ -34,8 +34,8 @@ class SamplePage026 extends StatelessWidget {
                 width: 300,
                 height: 300,
                 color: Colors.blue[100],
-                child: Stack(
-                  children: const [
+                child: const Stack(
+                  children: [
                     Positioned(
                       left: 100,
                       top: 50,

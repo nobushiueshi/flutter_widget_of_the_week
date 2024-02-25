@@ -46,7 +46,7 @@ class _SamplePage063State extends State<SamplePage063> {
                       Navigator.of(context).pop('Goodbye');
                     },
                     child: const Text('Goodbye'),
-                  )
+                  ),
                 ],
                 cancelButton: CupertinoActionSheetAction(
                   onPressed: () {

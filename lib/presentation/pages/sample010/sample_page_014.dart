@@ -107,16 +107,12 @@ class SamplePage014State extends State<SamplePage014> {
     switch (snapshot.connectionState) {
       case ConnectionState.waiting:
         text = 'waiting';
-        break;
       case ConnectionState.none:
         text = 'none';
-        break;
       case ConnectionState.active:
         text = 'active';
-        break;
       case ConnectionState.done:
         text = 'done';
-        break;
     }
     return Row(
       mainAxisAlignment: MainAxisAlignment.center,

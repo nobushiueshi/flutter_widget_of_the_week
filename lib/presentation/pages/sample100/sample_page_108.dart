@@ -11,11 +11,11 @@ class SamplePage108 extends StatelessWidget {
         title: const Text('font_awesome_flutter'),
         centerTitle: true,
       ),
-      body: SafeArea(
+      body: const SafeArea(
         child: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
-            children: const [
+            children: [
               FaIcon(FontAwesomeIcons.google),
               SizedBox(height: 20),
               FaIcon(FontAwesomeIcons.apple),

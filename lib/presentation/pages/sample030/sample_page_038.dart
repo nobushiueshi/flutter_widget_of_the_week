@@ -12,10 +12,10 @@ class SamplePage038 extends StatelessWidget {
         title: const Text('AspectRatio'),
         centerTitle: true,
       ),
-      body: SafeArea(
+      body: const SafeArea(
         child: Center(
           child: Column(
-            children: const [
+            children: [
               AspectRatio(
                 aspectRatio: 3 / 1,
                 child: _SamplePage038Child(),

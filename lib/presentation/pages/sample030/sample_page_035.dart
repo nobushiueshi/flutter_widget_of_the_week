@@ -12,12 +12,12 @@ class SamplePage035 extends StatelessWidget {
         title: const Text('Spacer'),
         centerTitle: true,
       ),
-      body: SafeArea(
+      body: const SafeArea(
         child: Center(
           child: Column(
             children: [
               Row(
-                children: const [
+                children: [
                   _SamplePage035ColorBox(),
                   Spacer(),
                   _SamplePage035ColorBox(),
@@ -25,9 +25,9 @@ class SamplePage035 extends StatelessWidget {
                   _SamplePage035ColorBox(),
                 ],
               ),
-              const SizedBox(height: 20),
+              SizedBox(height: 20),
               Row(
-                children: const [
+                children: [
                   _SamplePage035ColorBox(),
                   Spacer(flex: 2),
                   _SamplePage035ColorBox(),
@@ -35,9 +35,9 @@ class SamplePage035 extends StatelessWidget {
                   _SamplePage035ColorBox(),
                 ],
               ),
-              const SizedBox(height: 20),
+              SizedBox(height: 20),
               Row(
-                children: const [
+                children: [
                   _SamplePage035ColorBox(),
                   Spacer(),
                   _SamplePage035ColorBox(),

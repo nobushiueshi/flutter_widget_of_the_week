@@ -36,7 +36,7 @@ class _SamplePage076State extends State<SamplePage076> {
               ElevatedButton(
                 onPressed: () {},
                 child: const Text('押せる'),
-              )
+              ),
             ],
           ),
         ),

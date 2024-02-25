@@ -11,10 +11,10 @@ class SamplePage015 extends StatelessWidget {
       appBar: AppBar(
         title: const Text('InheritedModel'),
       ),
-      body: _SamplePage015Stateful(
+      body: const _SamplePage015Stateful(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: const <Widget>[
+          children: <Widget>[
             _SamplePage015ColorOneWidget(),
             _SamplePage015ColorTwoWidget(),
             _SamplePage015ColorChangerWidget(),

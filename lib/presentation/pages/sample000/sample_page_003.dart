@@ -11,16 +11,16 @@ class SamplePage003 extends StatelessWidget {
       appBar: AppBar(
         title: const Text('Wrap'),
       ),
-      body: SafeArea(
+      body: const SafeArea(
         child: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              const Text('Row'),
+              Text('Row'),
               ColoredBox(
                 color: Colors.lightBlue,
                 child: Row(
-                  children: const [
+                  children: [
                     _SamplePage003Child(),
                     _SamplePage003Child(),
                     _SamplePage003Child(),
@@ -28,15 +28,15 @@ class SamplePage003 extends StatelessWidget {
                   ],
                 ),
               ),
-              const SizedBox(height: 30),
-              const Text('Wrap'),
+              SizedBox(height: 30),
+              Text('Wrap'),
               ColoredBox(
                 color: Colors.lightBlue,
                 child: Wrap(
                   alignment: WrapAlignment.center,
                   spacing: 10,
                   runSpacing: 10,
-                  children: const [
+                  children: [
                     _SamplePage003Child(),
                     _SamplePage003Child(),
                     _SamplePage003Child(),

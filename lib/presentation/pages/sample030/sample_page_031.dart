@@ -26,9 +26,9 @@ class _SamplePage031State extends State<SamplePage031> {
               width: double.infinity,
               height: 120,
               color: Colors.grey[100],
-              child: Row(
+              child: const Row(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                children: const [
+                children: [
                   _SamplePage031Draggable(
                     color: Colors.blue,
                   ),

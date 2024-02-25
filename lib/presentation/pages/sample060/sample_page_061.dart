@@ -12,11 +12,11 @@ class SamplePage061 extends StatelessWidget {
         title: const Text('ColorFiltered'),
         centerTitle: true,
       ),
-      body: SafeArea(
+      body: const SafeArea(
         child: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
-            children: const [
+            children: [
               ColorFiltered(
                 colorFilter: ColorFilter.mode(
                   Colors.grey,

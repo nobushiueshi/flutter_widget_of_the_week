@@ -37,7 +37,7 @@ class SamplePage101 extends StatelessWidget {
                       Colors.yellow,
                       Colors.red,
                     ],
-                  )
+                  ),
                 ],
               ),
             ],

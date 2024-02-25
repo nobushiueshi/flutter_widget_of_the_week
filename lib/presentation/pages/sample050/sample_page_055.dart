@@ -12,11 +12,11 @@ class SamplePage055 extends StatelessWidget {
         title: const Text('SelectableText'),
         centerTitle: true,
       ),
-      body: SafeArea(
+      body: const SafeArea(
         child: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
-            children: const [
+            children: [
               Text('選択できないテキスト'),
               SizedBox(height: 100),
               SelectableText('選択できるテキスト'),

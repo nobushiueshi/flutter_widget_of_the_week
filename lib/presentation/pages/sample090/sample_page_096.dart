@@ -46,8 +46,8 @@ class SamplePage096 extends StatelessWidget {
               quarterTurns: 3,
               child: Container(
                 margin: const EdgeInsets.all(10),
-                child: Row(
-                  children: const [
+                child: const Row(
+                  children: [
                     Chip(
                       label: Text('Dash'),
                     ),
@@ -60,7 +60,7 @@ class SamplePage096 extends StatelessWidget {
                   ],
                 ),
               ),
-            )
+            ),
           ],
         ),
       ),

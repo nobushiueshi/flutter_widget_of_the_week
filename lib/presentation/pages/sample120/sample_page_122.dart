@@ -32,11 +32,11 @@ class _SamplePage122State extends State<SamplePage122> {
         title: const Text('RepaintBoundary'),
         centerTitle: true,
       ),
-      body: SafeArea(
+      body: const SafeArea(
         child: Center(
           child: Column(
             mainAxisSize: MainAxisSize.min,
-            children: const [
+            children: [
               RepaintBoundary(
                 child: SamplePage122Rotate(),
               ),

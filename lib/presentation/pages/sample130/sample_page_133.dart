@@ -18,10 +18,10 @@ class _SamplePage133State extends State<SamplePage133> {
         title: const Text('Shortcuts'),
         centerTitle: true,
       ),
-      body: SafeArea(
+      body: const SafeArea(
         child: Center(
           child: Column(
-            children: const [
+            children: [
               Shortcuts(
                 shortcuts: {
                   SingleActivator(LogicalKeyboardKey.keyA):

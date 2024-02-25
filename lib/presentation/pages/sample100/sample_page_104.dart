@@ -15,11 +15,11 @@ class _SamplePage104State extends State<SamplePage104> {
   final b = <String>['Nilay', 'Andrew', 'Fitz', 'Filip'];
   final c = [
     {'apple', 'red'},
-    {'banana', 'yellow'}
+    {'banana', 'yellow'},
   ];
   final d = [
     {'apple', 'red'},
-    {'banana', 'black'}
+    {'banana', 'black'},
   ];
 
   @override

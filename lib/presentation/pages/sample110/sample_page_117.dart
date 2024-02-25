@@ -12,10 +12,10 @@ class SamplePage117 extends StatelessWidget {
         title: const Text('Baseline'),
         centerTitle: true,
       ),
-      body: Center(
+      body: const Center(
         child: Column(
           mainAxisSize: MainAxisSize.min,
-          children: const [
+          children: [
             ColoredBox(
               color: Colors.grey,
               child: Text('Hello World!'),
