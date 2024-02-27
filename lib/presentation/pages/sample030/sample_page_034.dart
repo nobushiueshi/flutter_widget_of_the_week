@@ -14,7 +14,7 @@ class _SamplePage034State extends State<SamplePage034> {
   Widget build(BuildContext context) {
     final size = MediaQuery.of(context).size;
     final orientation = MediaQuery.of(context).orientation;
-    final textScaleFactor = MediaQuery.of(context).textScaleFactor;
+    final textScaleFactor = MediaQuery.of(context).textScaler;
     return Scaffold(
       appBar: AppBar(
         title: const Text('MediaQuery'),

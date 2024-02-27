@@ -25,7 +25,7 @@ class _SamplePage120State extends State<SamplePage120> {
             ),
           );
           await Future<void>.delayed(const Duration(seconds: 1));
-          if (!mounted) {
+          if (!context.mounted) {
             return;
           }
           Navigator.of(context).pop();

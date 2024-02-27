@@ -24,7 +24,7 @@ class _SamplePage103State extends State<SamplePage103> {
             mainAxisSize: MainAxisSize.min,
             children: [
               StreamBuilder(
-                stream: accelerometerEvents,
+                stream: accelerometerEventStream(),
                 builder: (context, snapshot) {
                   if (snapshot.connectionState == ConnectionState.waiting) {
                     return const CircularProgressIndicator();
@@ -48,7 +48,7 @@ class _SamplePage103State extends State<SamplePage103> {
               ),
               const SizedBox(height: 20),
               StreamBuilder(
-                stream: userAccelerometerEvents,
+                stream: userAccelerometerEventStream(),
                 builder: (context, snapshot) {
                   if (snapshot.connectionState == ConnectionState.waiting) {
                     return const CircularProgressIndicator();
@@ -72,7 +72,7 @@ class _SamplePage103State extends State<SamplePage103> {
               ),
               const SizedBox(height: 20),
               StreamBuilder(
-                stream: gyroscopeEvents,
+                stream: gyroscopeEventStream(),
                 builder: (context, snapshot) {
                   if (snapshot.connectionState == ConnectionState.waiting) {
                     return const CircularProgressIndicator();

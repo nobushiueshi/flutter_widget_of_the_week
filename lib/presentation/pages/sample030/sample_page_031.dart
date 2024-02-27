@@ -46,10 +46,11 @@ class _SamplePage031State extends State<SamplePage031> {
                 color: _selectedColor,
                 child: Center(
                   child: DragTarget<Color>(
-                    onWillAccept: (value) => value != _selectedColor,
-                    onAccept: (value) {
+                    onWillAcceptWithDetails: (value) =>
+                        value.data != _selectedColor,
+                    onAcceptWithDetails: (value) {
                       setState(() {
-                        _selectedColor = value;
+                        _selectedColor = value.data;
                       });
                     },
                     builder: (context, candidates, rejects) {
