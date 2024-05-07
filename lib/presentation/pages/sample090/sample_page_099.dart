@@ -13,7 +13,7 @@ class SamplePage099 extends StatefulWidget {
 }
 
 class _SamplePage099State extends State<SamplePage099> {
-  late final StreamSubscription<ConnectivityResult> subscription;
+  late final StreamSubscription<List<ConnectivityResult>> subscription;
   final streamController = StreamController<ConnectivityResult>();
   Stream<ConnectivityResult> get stream => streamController.stream;
 
@@ -21,8 +21,10 @@ class _SamplePage099State extends State<SamplePage099> {
   void initState() {
     super.initState();
     subscription = Connectivity().onConnectivityChanged.listen((result) {
-      streamController.sink.add(result);
-      debugPrint(result.toString());
+      for (final r in result) {
+        streamController.sink.add(r);
+        debugPrint(r.toString());
+      }
     });
   }
 
