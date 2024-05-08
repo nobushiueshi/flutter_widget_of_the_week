@@ -55,16 +55,21 @@ class _MyHomePageState extends State<MyHomePage> {
               .map(
                 (page) => ListTile(
                   title: Text(page.name),
-                  onTap: () {
-                    Navigator.push<void>(
-                      context,
-                      MaterialPageRoute(
-                        builder: (context) {
-                          return page.widget;
-                        },
-                      ),
-                    );
-                  },
+                  trailing: page.widget != null
+                      ? const Icon(Icons.navigate_next_outlined)
+                      : const Icon(Icons.cancel_outlined),
+                  onTap: page.widget != null
+                      ? () {
+                          Navigator.push<void>(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) {
+                                return page.widget!;
+                              },
+                            ),
+                          );
+                        }
+                      : null,
                 ),
               )
               .toList(),

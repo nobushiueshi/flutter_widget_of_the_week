@@ -3,9 +3,9 @@ import 'package:flutter/material.dart';
 class SamplePageData {
   SamplePageData({
     required this.name,
-    required this.widget,
+    this.widget,
   });
 
   final String name;
-  final Widget widget;
+  final Widget? widget;
 }

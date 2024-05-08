@@ -11,20 +11,20 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_p
 // import 'package:flutter_widget_of_the_week/presentation/pages/sample130/sample_page_139.dart';
 
 final sample130PageDataList = <SamplePageData>[
-  // SamplePageData(
-  //   name: '#139 firebase_remote_config',
-  //   widget: const SamplePage139(),
-  // ),
+  SamplePageData(
+    name: '#139 firebase_remote_config',
+    // widget: const SamplePage139(),
+  ),
   SamplePageData(name: '#138 go_router', widget: const SamplePage138()),
   SamplePageData(name: '#137 NavigationBar', widget: const SamplePage137()),
   SamplePageData(
     name: '#136 FutureBuilder(Take 2)',
     widget: const SamplePage136(),
   ),
-  // SamplePageData(
-  //   name: '#135 firebase_ui_auth',
-  //   widget: const SamplePage135(),
-  // ),
+  SamplePageData(
+    name: '#135 firebase_ui_auth',
+    // widget: const SamplePage135(),
+  ),
   SamplePageData(name: '#134 Actions', widget: const SamplePage134()),
   SamplePageData(name: '#133 Shortcuts', widget: const SamplePage133()),
   SamplePageData(name: '#132 Focus', widget: const SamplePage132()),

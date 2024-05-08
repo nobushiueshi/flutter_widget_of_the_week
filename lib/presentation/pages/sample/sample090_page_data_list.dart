@@ -20,5 +20,8 @@ final sample090PageDataList = <SamplePageData>[
   SamplePageData(name: '#93 PhysicalModel', widget: const SamplePage093()),
   SamplePageData(name: '#92 ImageFiltered', widget: const SamplePage092()),
   SamplePageData(name: '#91 device_info_plus', widget: const SamplePage091()),
-  // SamplePageData(name: '#90 Location', widget: const SamplePage090()),
+  SamplePageData(
+    name: '#90 Location',
+    // widget: const SamplePage090(),
+  ),
 ];
