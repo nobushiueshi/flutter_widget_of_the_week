@@ -11,17 +11,54 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample040/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample040/sample_page_049.dart';
 
 final sample040PageDataList = <SamplePageData>[
-  SamplePageData(name: '#49 Stack', widget: const SamplePage049()),
-  SamplePageData(name: '#48 ConstrainedBox', widget: const SamplePage048()),
-  SamplePageData(name: '#47 Semantics', widget: const SamplePage047()),
-  SamplePageData(name: '#46 IndexedStack', widget: const SamplePage046()),
-  SamplePageData(name: '#45 AnimatedPadding', widget: const SamplePage045()),
-  SamplePageData(name: '#44 AnimatedPositioned', widget: const SamplePage044()),
-  SamplePageData(name: '#43 AnimatedSwitcher', widget: const SamplePage043()),
+  SamplePageData(
+    name: '#49 Stack',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage049(),
+  ),
+  SamplePageData(
+    name: '#48 ConstrainedBox',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage048(),
+  ),
+  SamplePageData(
+    name: '#47 Semantics',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage047(),
+  ),
+  SamplePageData(
+    name: '#46 IndexedStack',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage046(),
+  ),
+  SamplePageData(
+    name: '#45 AnimatedPadding',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage045(),
+  ),
+  SamplePageData(
+    name: '#44 AnimatedPositioned',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage044(),
+  ),
+  SamplePageData(
+    name: '#43 AnimatedSwitcher',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage043(),
+  ),
   SamplePageData(
     name: '#42 ReorderableListView',
+    contentType: SamplePageContentType.widget,
     widget: const SamplePage042(),
   ),
-  SamplePageData(name: '#41 RichText', widget: const SamplePage041()),
-  SamplePageData(name: '#40 Placeholder', widget: const SamplePage040()),
+  SamplePageData(
+    name: '#41 RichText',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage041(),
+  ),
+  SamplePageData(
+    name: '#40 Placeholder',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage040(),
+  ),
 ];

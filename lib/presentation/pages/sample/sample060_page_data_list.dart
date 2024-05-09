@@ -13,27 +13,52 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample060/sample_p
 final sample060PageDataList = <SamplePageData>[
   SamplePageData(
     name: '#69 ListWheelScrollView',
+    contentType: SamplePageContentType.widget,
     widget: const SamplePage069(),
   ),
-  SamplePageData(name: '#68 SnackBar', widget: const SamplePage068()),
-  SamplePageData(name: '#67 Drawer', widget: const SamplePage067()),
+  SamplePageData(
+    name: '#68 SnackBar',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage068(),
+  ),
+  SamplePageData(
+    name: '#67 Drawer',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage067(),
+  ),
   SamplePageData(
     name: '#66 DefaultTabController & TabBar & TabBarView',
+    contentType: SamplePageContentType.widget,
     widget: const SamplePage066(),
   ),
-  SamplePageData(name: '#65 Image', widget: const SamplePage065()),
+  SamplePageData(
+    name: '#65 Image',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage065(),
+  ),
   SamplePageData(
     name: '#64 TweenAnimationBuilder',
+    contentType: SamplePageContentType.widget,
     widget: const SamplePage064(),
   ),
   SamplePageData(
     name: '#63 CupertinoActionSheet',
+    contentType: SamplePageContentType.widget,
     widget: const SamplePage063(),
   ),
-  SamplePageData(name: '#62 ToggleButtons', widget: const SamplePage062()),
-  SamplePageData(name: '#61 ColorFiltered', widget: const SamplePage061()),
+  SamplePageData(
+    name: '#62 ToggleButtons',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage062(),
+  ),
+  SamplePageData(
+    name: '#61 ColorFiltered',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage061(),
+  ),
   SamplePageData(
     name: '#60 DraggableScrollableSheet',
+    contentType: SamplePageContentType.widget,
     widget: const SamplePage060(),
   ),
 ];

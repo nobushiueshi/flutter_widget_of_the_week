@@ -11,14 +11,54 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample020/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample020/sample_page_029.dart';
 
 final sample020PageDataList = <SamplePageData>[
-  SamplePageData(name: '#29 SizedBox', widget: const SamplePage029()),
-  SamplePageData(name: '#28 Dismissible', widget: const SamplePage028()),
-  SamplePageData(name: '#27 AnimatedBuilder', widget: const SamplePage027()),
-  SamplePageData(name: '#26 Positioned', widget: const SamplePage026()),
-  SamplePageData(name: '#25 Align', widget: const SamplePage025()),
-  SamplePageData(name: '#24 BackdropFilter', widget: const SamplePage024()),
-  SamplePageData(name: '#23 Transform', widget: const SamplePage023()),
-  SamplePageData(name: '#22 AbsorbPointer', widget: const SamplePage022()),
-  SamplePageData(name: '#21 LayoutBuilder', widget: const SamplePage021()),
-  SamplePageData(name: '#20 FittedBox', widget: const SamplePage020()),
+  SamplePageData(
+    name: '#29 SizedBox',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage029(),
+  ),
+  SamplePageData(
+    name: '#28 Dismissible',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage028(),
+  ),
+  SamplePageData(
+    name: '#27 AnimatedBuilder',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage027(),
+  ),
+  SamplePageData(
+    name: '#26 Positioned',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage026(),
+  ),
+  SamplePageData(
+    name: '#25 Align',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage025(),
+  ),
+  SamplePageData(
+    name: '#24 BackdropFilter',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage024(),
+  ),
+  SamplePageData(
+    name: '#23 Transform',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage023(),
+  ),
+  SamplePageData(
+    name: '#22 AbsorbPointer',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage022(),
+  ),
+  SamplePageData(
+    name: '#21 LayoutBuilder',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage021(),
+  ),
+  SamplePageData(
+    name: '#20 FittedBox',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage020(),
+  ),
 ];

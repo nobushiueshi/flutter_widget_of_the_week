@@ -11,20 +11,54 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample120/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample120/sample_page_129.dart';
 
 final sample120PageDataList = <SamplePageData>[
-  SamplePageData(name: '#129 LinearGradient', widget: const SamplePage129()),
-  SamplePageData(name: '#128 Autocomplete', widget: const SamplePage128()),
-  SamplePageData(name: '#127 NavigationRail', widget: const SamplePage127()),
-  SamplePageData(name: '#126 mason', widget: const SamplePage126()),
+  SamplePageData(
+    name: '#129 LinearGradient',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage129(),
+  ),
+  SamplePageData(
+    name: '#128 Autocomplete',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage128(),
+  ),
+  SamplePageData(
+    name: '#127 NavigationRail',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage127(),
+  ),
+  SamplePageData(
+    name: '#126 mason',
+    contentType: SamplePageContentType.package,
+    widget: const SamplePage126(),
+  ),
   SamplePageData(
     name: '#125 FocusableActionDetector',
+    contentType: SamplePageContentType.widget,
     widget: const SamplePage125(),
   ),
   SamplePageData(
     name: '#124 shared_preferences',
+    contentType: SamplePageContentType.package,
     widget: const SamplePage124(),
   ),
-  SamplePageData(name: '#123 google_fonts', widget: const SamplePage123()),
-  SamplePageData(name: '#122 RepaintBoundary', widget: const SamplePage122()),
-  SamplePageData(name: '#121 StatefulBuilder', widget: const SamplePage121()),
-  SamplePageData(name: '#120 ScaffoldMessenger', widget: const SamplePage120()),
+  SamplePageData(
+    name: '#123 google_fonts',
+    contentType: SamplePageContentType.package,
+    widget: const SamplePage123(),
+  ),
+  SamplePageData(
+    name: '#122 RepaintBoundary',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage122(),
+  ),
+  SamplePageData(
+    name: '#121 StatefulBuilder',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage121(),
+  ),
+  SamplePageData(
+    name: '#120 ScaffoldMessenger',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage120(),
+  ),
 ];

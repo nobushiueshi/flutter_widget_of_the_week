@@ -55,6 +55,7 @@ class _MyHomePageState extends State<MyHomePage> {
               .map(
                 (page) => ListTile(
                   title: Text(page.name),
+                  subtitle: Text(page.contentType.title),
                   trailing: page.widget != null
                       ? const Icon(Icons.navigate_next_outlined)
                       : const Icon(Icons.cancel_outlined),
