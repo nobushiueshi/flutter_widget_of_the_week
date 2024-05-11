@@ -3,6 +3,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_p
 
 final sample140PageDataList = <SamplePageData>[
   SamplePageData(
+    name: '#142 flutter_lints',
+    contentType: SamplePageContentType.package,
+  ),
+  SamplePageData(
     name: '#141 RawMagnifier',
     contentType: SamplePageContentType.widget,
     widget: const SamplePage141(),
