@@ -1,15 +1,21 @@
 # Flutter Widget of the Week勉強用リポジトリ
 
-Flutter Widget of the Weekの勉強用リポジトリです。
-Widgetを使うことが目的なので、サンプルコードは結構適当です。
+**Flutter Widget of the Week**, **Flutter Package of the Week** 等の勉強用リポジトリです。
+WidgetやPackageを実際に使うことが目的なので、サンプルコードが間違っている場合もあります。
 
 ## 環境
 
 * Flutter Version: [ここ](.fvmrc)を見てください
 
-## Flutter Widget of the Week
+## 紹介記事
 
-|#|ウィジェット名|動画|リファレンス|サンプル|
+- [Flutter Widget of the Week](https://nobushiueshi.com/tag/flutter-widget-of-the-week/)
+
+- [Flutter Package of the Week](https://nobushiueshi.com/tag/flutter-package-of-the-week/)
+
+## Link
+
+|番号|ウィジェット名<br>(パッケージ名)|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
 |#141|RawMagnifier|[リンク](https://www.youtube.com/watch?v=YBRkVCRP1Gw)|[リンク](https://api.flutter.dev/flutter/widgets/RawMagnifier-class.html)|[リンク](lib/presentation/pages/sample140/sample_page_141.dart)|
 |#140|flame|[リンク](https://www.youtube.com/watch?v=tEqVyJNOroI)|[リンク](https://pub.dev/packages/flame)|[リンク](#)|
@@ -153,57 +159,6 @@ Widgetを使うことが目的なので、サンプルコードは結構適当�
 |#2|Expanded|[リンク](https://www.youtube.com/watch?v=_rnZaagadyo)|[リンク](https://api.flutter.dev/flutter/widgets/Expanded-class.html)|[リンク](lib/presentation/pages/sample000/sample_page_002.dart)|
 |#1|SafeArea|[リンク](https://www.youtube.com/watch?v=lkF0TQJO0bA)|[リンク](https://api.flutter.dev/flutter/widgets/SafeArea-class.html)|[リンク](lib/presentation/pages/sample000/sample_page_001.dart)|
 
-## 紹介記事
-
-|内容|記事|
-|:---|:---:|
-|Shortcuts<br>Actions<br>firebase_ui_auth|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c133-shortcuts%e3%80%8d%e3%80%81%e3%80%8c134-actions%e3%80%8d%e3%80%81%e3%80%8c135-firebase_ui_auth%e3%80%8d/)|
-|flutter_rating_bar<br>TextStyle<br>Focus|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c130-flutter_rating_bar%e3%80%8d%e3%80%81%e3%80%8c131-textstyle%e3%80%8d%e3%80%81%e3%80%8c132-focus%e3%80%8d/)|
-|NavigationRail<br>Autocomplete<br>LinearGradient|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c127-navigationrail%e3%80%8d%e3%80%81%e3%80%8c128-autocomplete%e3%80%8d%e3%80%81%e3%80%8c129-lineargradient%e3%80%8d/)|
-|shared_preferences<br>FocusableActionDetector<br>mason|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c124-shared_preferences%e3%80%8d%e3%80%81%e3%80%8c125-focusableactiondetector%e3%80%8d%e3%80%81%e3%80%8c126-mason%e3%80%8d/)|
-|StatefulBuilder<br>RepaintBoundary<br>google_fonts|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c121-statefulbuilder%e3%80%8d%e3%80%81%e3%80%8c122-repaintboundary%e3%80%8d%e3%80%81%e3%80%8c123-google_fonts%e3%80%8d/)|
-|badges<br>DropdownButton<br>ScaffoldMessenger|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c118-badges%e3%80%8d%e3%80%81%e3%80%8c119-dropdownbutton%e3%80%8d%e3%80%81%e3%80%8c120-scaffoldmessenger%e3%80%8d/)|
-|path_provider<br>get_it<br>Baseline|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c115-path_provider%e3%80%8d%e3%80%81%e3%80%8c116-get_it%e3%80%8d%e3%80%81%e3%80%8c117-baseline%e3%80%8d/)|
-|cached_network_image<br>GestureDetector<br>freezed|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c112-cached_network_image%e3%80%8d%e3%80%81%e3%80%8c113-gesturedetector%e3%80%8d%e3%80%81%e3%80%8c114-freezed%e3%80%8d/)|
-|Flow<br>TabPageSelector<br>Theme|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c109-flow%e3%80%8d%e3%80%81%e3%80%8c110-tabpageselector%e3%80%8d%e3%80%81%e3%80%8c111-theme%e3%80%8d/)|
-|html<br>RefreshIndicator<br>font_awesome_flutter|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c106-html%e3%80%8d%e3%80%81%e3%80%8c107-refreshindicator%e3%80%8d%e3%80%81%e3%80%8c108-font_awesome_flutter%e3%80%8d/)|
-|sensors_plus<br>collection<br>HeroMode|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c103-sensors_plus%e3%80%8d%e3%80%81%e3%80%8c104-collection%e3%80%8d%e3%80%81%e3%80%8c105-heromode%e3%80%8d/)|
-|FlutterLogo<br>animated_text_kit<br>MouseRegion|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c100-flutterlogo%e3%80%8d%e3%80%81%e3%80%8c101-animated_text_kit%e3%80%8d%e3%80%81%e3%80%8c102-mouseregion%e3%80%8d/)|
-|ExpansionPanel<br>Scrollbar<br>connectivity_plus|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c97-expansionpanel%e3%80%8d%e3%80%81%e3%80%8c98-scrollbar%e3%80%8d%e3%80%81%e3%80%8c99-connectivity_plus%e3%80%8d/)|
-|animations<br>flutter_slidable<br>RotatedBox|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c94-animations%e3%80%8d%e3%80%81%e3%80%8c95-flutter_slidable%e3%80%8d%e3%80%81%e3%80%8c96-rotatedbox%e3%80%8d/)|
-|device_info_plus<br>ImageFiltered<br>PhysicalModel|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c91-device_info_plus%e3%80%8d%e3%80%81%e3%80%8c92-imagefiltered%e3%80%8d%e3%80%81%e3%80%8c93-physicalmodel%e3%80%8d/)|
-|GridView<br>SwitchListTile<br>Location|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c88-gridview%e3%80%8d%e3%80%81%e3%80%8c89-switchlisttile%e3%80%8d%e3%80%81%e3%80%8c90-location%e3%80%8d/)|
-|sqflite<br>SliverAppBar<br>InteractiveViewer|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c85-sqflite%e3%80%8d%e3%80%81%e3%80%8c86-sliverappbar%e3%80%8d%e3%80%81%e3%80%8c87-interactiveviewer%e3%80%8d/)|
-|AboutDialog<br>async<br>url_launcher|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c82-aboutdialog%e3%80%8d%e3%80%81%e3%80%8c83-async%e3%80%8d%e3%80%81%e3%80%8c84-url_launcher%e3%80%8d/)|
-|AnimatedWidget<br>Padding<br>CheckboxListTile|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c79-animatedwidget%e3%80%8d%e3%80%81%e3%80%8c80-padding%e3%80%8d%e3%80%81%e3%80%8c81-checkboxlisttile%e3%80%8d/)|
-|IgnorePointer<br>CupertinoActivityIndicator<br>ClipOval|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c76-ignorepointer%e3%80%8d%e3%80%81%e3%80%8c77-cupertinoactivityindicator%e3%80%8d%e3%80%81%e3%80%8c78-clipoval%e3%80%8d/)|
-|ClipPath<br>CircularProgressIndicator,LinearProgressIndicator<br>Divider|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c73-clippath%e3%80%8d%e3%80%81%e3%80%8c74-circularprogressindicatorlinearprogressindicator%e3%80%8d%e3%80%81%e3%80%8c75-divider%e3%80%8d/)|
-|ShaderMask<br>NotificationListener<br>Builder|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c70-shadermask%e3%80%8d%e3%80%81%e3%80%8c71-notificationlistener%e3%80%8d%e3%80%81%e3%80%8c72-builder%e3%80%8d/)|
-|Drawer<br>SnackBar<br>ListWheelScrollView|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c67-drawer%e3%80%8d%e3%80%81%e3%80%8c68-snackbar%e3%80%8d%e3%80%81%e3%80%8c69-listwheelscrollview%e3%80%8d/)|
-|TweenAnimationBuilder<br>Image<br>DefaultTabController,TabBar,TabBarView|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c64-tweenanimationbuilder%e3%80%8d%e3%80%81%e3%80%8c65-image%e3%80%8d%e3%80%81%e3%80%8c66-defaulttabcontrollertabbartabbarview%e3%80%8d/)|
-|ColorFiltered<br>ToggleButtons<br>CupertinoActionSheet|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c61-colorfiltered%e3%80%8d%e3%80%81%e3%80%8c62-togglebuttons%e3%80%8d%e3%80%81%e3%80%8c63-cupertinoactionsheet%e3%80%8d/)|
-|AlertDialog<br>CupertinoAlertDialog<br>AnimatedCrossFade<br>DraggableScrollableSheet|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c58-alertdialogcupertinoalertdialog%e3%80%8d%e3%80%81%e3%80%8c59-animatedcrossfade%e3%80%8d%e3%80%81%e3%80%8c60-draggablescrollablesheet%e3%80%8d/)|
-|SelectableText<br>DataTable<br>Slider,RangeSlider,CupertinoSlider|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c55-selectabletext%e3%80%8d%e3%80%81%e3%80%8c56-datatable%e3%80%8d%e3%80%81%e3%80%8c57-sliderrangeslidercupertinoslider%e3%80%8d/)|
-|ListView<br>ListTile<br>Container|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c52-listview%e3%80%8d%e3%80%81%e3%80%8c53-listtile%e3%80%8d%e3%80%81%e3%80%8c54-container%e3%80%8d/)|
-|Stack<br>AnimatedOpacity<br>FractionallySizedBox|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c49-stack%e3%80%8d%e3%80%81%e3%80%8c50-animatedopacity%e3%80%8d%e3%80%81%e3%80%8c51-fractionallysizedbox%e3%80%8d/)|
-|IndexedStack<br>Semantics<br>ConstrainedBox|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c46-indexedstack%e3%80%8d%e3%80%81%e3%80%8c47-semantics%e3%80%8d%e3%80%81%e3%80%8c48-constrainedbox%e3%80%8d/)|
-|AnimatedSwitcher<br>AnimatedPositioned<br>AnimatedPadding|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c40-placeholder%e3%80%8d%e3%80%81%e3%80%8c41-richtext%e3%80%8d%e3%80%81%e3%80%8c42-reorderablelistview%e3%80%8d-2/)|
-|Placeholder<br>RichText<br>ReorderableListView|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c40-placeholder%e3%80%8d%e3%80%81%e3%80%8c41-richtext%e3%80%8d%e3%80%81%e3%80%8c42-reorderablelistview%e3%80%8d/)|
-|AnimatedIcon<br>AspectRatio<br>LimitedBox|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c37-animatedicon%e3%80%8d%e3%80%81%e3%80%8c38-aspectratio%e3%80%8d%e3%80%81%e3%80%8c39-limitedbox%e3%80%8d/)|
-|MediaQuery<br>Spacer<br>InheritedWidget|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c34-mediaquery%e3%80%8d%e3%80%81%e3%80%8c35-spacer%e3%80%8d%e3%80%81%e3%80%8c36-inheritedwidget%e3%80%8d/)|
-|Draggable<br>AnimatedList<br>Flexible|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c31-draggable%e3%80%8d%e3%80%81%e3%80%8c32-animatedlist%e3%80%8d%e3%80%81%e3%80%8c33-flexible%e3%80%8d/)|
-|Dismissible<br>SizedBox<br>ValueListenableBuilder|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c28-dismissible%e3%80%8d%e3%80%81%e3%80%8c29-sizedbox%e3%80%8d%e3%80%81%e3%80%8c30-valuelistenablebuilder%e3%80%8d/)|
-|Align<br>Positioned<br>AnimatedBuilder|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c25-align%e3%80%8d%e3%80%81%e3%80%8c26-positioned%e3%80%8d%e3%80%81%e3%80%8c27-animatedbuilder%e3%80%8d/)|
-|Transform<br>BackdropFilter|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c23-transform%e3%80%8d%e3%80%81%e3%80%8c24-backdropfilter%e3%80%8d/)|
-|LayoutBuilder<br>AbsorbPointer|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c21-layoutbuilder%e3%80%8d%e3%80%81%e3%80%8c22-absorbpointer%e3%80%8d/)|
-|CustomPaint<br>Tooltip<br>FittedBox|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c18-custompaint%e3%80%8d%e3%80%81%e3%80%8c19-tooltip%e3%80%8d%e3%80%81%e3%80%8c20-fittedbox%e3%80%8d/)|
-|InheritedModel<br>ClipRRect<br>Hero|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c15-inheritedmodel%e3%80%8d%e3%80%81%e3%80%8c16-cliprrect%e3%80%8d%e3%80%81%e3%80%8c17-hero%e3%80%8d/)|
-|FadeInImage<br>StreamBuilder|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c13-fadeinimage%e3%80%8d%e3%80%81%e3%80%8c14-streambuilder%e3%80%8d/)|
-|SliverAppBar<br>SliverList<br>SliverGrid|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c11-sliverappbar%e3%80%8d%e3%80%81%e3%80%8c12-sliverlist-slivergrid%e3%80%8d/)|
-|PageView<br>Table|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c9-pageview%e3%80%8d%e3%80%81%e3%80%8c10-table%e3%80%8d/)|
-|FutureBuilder<br>FadeTransition<br>FloatingActionButton|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c6-futurebuilder%e3%80%8d%e3%80%81%e3%80%8c7-fadetransition%e3%80%8d%e3%80%81%e3%80%8c8-floatingactionbutton%e3%80%8d/)|
-|Wrap<br>AnimatedContainer<br>Opacity|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c3-wrap%e3%80%8d%e3%80%81%e3%80%8c4-animatedcontainer%e3%80%8d%e3%80%81%e3%80%8c5-opacity%e3%80%8d/)|
-|SafeArea<br>Expanded|[リンク](https://nobushiueshi.com/flutterflutter-widget-of-the-week%e3%80%8c1-safearea%e3%80%8d%e3%80%81%e3%80%8c2-expanded%e3%80%8d/)|
 
 ## Getting Started
 
