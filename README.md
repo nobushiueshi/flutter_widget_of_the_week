@@ -17,6 +17,7 @@ WidgetやPackageを実際に使うことが目的なので、サンプルコー�
 
 |番号|ウィジェット名<br>(パッケージ名)|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#143|firebase_storage|[リンク](https://www.youtube.com/watch?v=4RcK1yKZtBA)|[リンク](https://pub.dev/packages/firebase_storage)|[リンク](lib/presentation/pages/sample140/sample_page_143.dart)|
 |#142|flutter_lints|[リンク](https://www.youtube.com/watch?v=qEZf2q4W20g)|[リンク](https://pub.dev/packages/flutter_lints)|[リンク](#)|
 |#141|RawMagnifier|[リンク](https://www.youtube.com/watch?v=YBRkVCRP1Gw)|[リンク](https://api.flutter.dev/flutter/widgets/RawMagnifier-class.html)|[リンク](lib/presentation/pages/sample140/sample_page_141.dart)|
 |#140|flame|[リンク](https://www.youtube.com/watch?v=tEqVyJNOroI)|[リンク](https://pub.dev/packages/flame)|[リンク](#)|

@@ -1,7 +1,13 @@
 import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample_page_data.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_page_141.dart';
+// import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_page_143.dart';
 
 final sample140PageDataList = <SamplePageData>[
+  SamplePageData(
+    name: '#143 firebase_storage',
+    contentType: SamplePageContentType.package,
+    // widget: const SamplePage143(),
+  ),
   SamplePageData(
     name: '#142 flutter_lints',
     contentType: SamplePageContentType.package,
