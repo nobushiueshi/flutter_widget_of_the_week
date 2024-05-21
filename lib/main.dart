@@ -1,13 +1,26 @@
 // import 'package:firebase_core/firebase_core.dart';
+// import 'package:firebase_crashlytics/firebase_crashlytics.dart';
+// import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 // import 'package:flutter_widget_of_the_week/firebase_options.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample_page_data_list.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  // // Firebase.
   // await Firebase.initializeApp(
   //   options: DefaultFirebaseOptions.currentPlatform,
   // );
+  // // Firebase Crashlytics.
+  // FlutterError.onError = (errorDetails) {
+  //   FirebaseCrashlytics.instance.recordFlutterFatalError(errorDetails);
+  // };
+  // // Pass all uncaught asynchronous errors that aren't handled by the Flutter
+  // // framework to Crashlytics
+  // PlatformDispatcher.instance.onError = (error, stack) {
+  //   FirebaseCrashlytics.instance.recordError(error, stack, fatal: true);
+  //   return true;
+  // };
 
   runApp(const MyApp());
 }

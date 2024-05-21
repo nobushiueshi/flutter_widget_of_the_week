@@ -17,6 +17,7 @@ WidgetやPackageを実際に使うことが目的なので、サンプルコー�
 
 |番号|ウィジェット名<br>(パッケージ名)|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#145|firebase_crashlytics|[リンク](https://www.youtube.com/watch?v=1wBpX0iFl5E)|[リンク](https://pub.dev/packages/firebase_crashlytics)|[リンク](lib/presentation/pages/sample140/sample_page_145.dart)|
 |#144|flutter_animate|[リンク](https://www.youtube.com/watch?v=JSqUZFkRLr8)|[リンク](https://pub.dev/packages/flutter_animate)|[リンク](lib/presentation/pages/sample140/sample_page_144.dart)|
 |#143|firebase_storage|[リンク](https://www.youtube.com/watch?v=4RcK1yKZtBA)|[リンク](https://pub.dev/packages/firebase_storage)|[リンク](lib/presentation/pages/sample140/sample_page_143.dart)|
 |#142|flutter_lints|[リンク](https://www.youtube.com/watch?v=qEZf2q4W20g)|[リンク](https://pub.dev/packages/flutter_lints)|[リンク](#)|

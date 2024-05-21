@@ -2,8 +2,14 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample_page
 import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_page_141.dart';
 // import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_page_143.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_page_144.dart';
+// import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_page_145.dart';
 
 final sample140PageDataList = <SamplePageData>[
+  SamplePageData(
+    name: '#145 firebase_crashlytics',
+    contentType: SamplePageContentType.package,
+    // widget: const SamplePage145(),
+  ),
   SamplePageData(
     name: '#144 flutter_animate',
     contentType: SamplePageContentType.package,
