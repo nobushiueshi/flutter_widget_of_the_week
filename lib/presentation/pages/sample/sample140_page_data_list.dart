@@ -3,8 +3,14 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_p
 // import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_page_143.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_page_144.dart';
 // import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_page_145.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_page_146.dart';
 
 final sample140PageDataList = <SamplePageData>[
+  SamplePageData(
+    name: '#146 Draggable(Take 2)',
+    contentType: SamplePageContentType.package,
+    widget: const SamplePage146(),
+  ),
   SamplePageData(
     name: '#145 firebase_crashlytics',
     contentType: SamplePageContentType.package,
