@@ -4,11 +4,17 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_page_144.dart';
 // import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_page_145.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_page_146.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_page_147.dart';
 
 final sample140PageDataList = <SamplePageData>[
   SamplePageData(
+    name: '#147 CallbackShortcuts',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage147(),
+  ),
+  SamplePageData(
     name: '#146 Draggable(Take 2)',
-    contentType: SamplePageContentType.package,
+    contentType: SamplePageContentType.widget,
     widget: const SamplePage146(),
   ),
   SamplePageData(
