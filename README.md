@@ -17,6 +17,7 @@ WidgetやPackageを実際に使うことが目的なので、サンプルコー�
 
 |番号|ウィジェット名<br>(パッケージ名)|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#149|firebase_analytics|[リンク](https://www.youtube.com/watch?v=Fna-xqrA160)|[リンク](https://pub.dev/packages/firebase_analytics)|[リンク](lib/presentation/pages/sample140/sample_page_149.dart)|
 |#148|cloud_firestore|[リンク](https://www.youtube.com/watch?v=-wAL46TFwQU)|[リンク](https://pub.dev/packages/cloud_firestore)|[リンク](lib/presentation/pages/sample140/sample_page_148.dart)|
 |#147|CallbackShortcuts|[リンク](https://www.youtube.com/watch?v=VcQQ1ns_qNY)|[リンク](https://api.flutter.dev/flutter/widgets/CallbackShortcuts-class.html)|[リンク](lib/presentation/pages/sample140/sample_page_147.dart)|
 |#146|Draggable(Take 2)|[リンク](https://www.youtube.com/watch?v=q4x2G_9-Mu0)|[リンク](https://api.flutter.dev/flutter/widgets/Draggable-class.html)|[リンク](lib/presentation/pages/sample140/sample_page_146.dart)|

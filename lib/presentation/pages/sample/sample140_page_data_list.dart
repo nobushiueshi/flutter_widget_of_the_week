@@ -6,8 +6,14 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_page_146.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_page_147.dart';
 // import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_page_148.dart';
+// import 'package:flutter_widget_of_the_week/presentation/pages/sample140/sample_page_149.dart';
 
 final sample140PageDataList = <SamplePageData>[
+  SamplePageData(
+    name: '#149 firebase_analytics',
+    contentType: SamplePageContentType.package,
+    // widget: const SamplePage149(),
+  ),
   SamplePageData(
     name: '#148 cloud_firestore',
     contentType: SamplePageContentType.package,
