@@ -17,7 +17,8 @@ WidgetやPackageを実際に使うことが目的なので、サンプルコー�
 
 |番号|ウィジェット名<br>(パッケージ名)|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
-|#150|home_widget|[リンク](https://www.youtube.com/watch?v=L9cP9OTUstA)|[リンク](https://pub.dev/packages/home_widget)|[リンク](lib/presentation/pages/sample150/sample_page_150.dart)|
+|#151|firebase_auth|[リンク](https://www.youtube.com/watch?v=Qw3IjnhTl5w)|[リンク](https://pub.dev/packages/firebase_auth)|[リンク](lib/presentation/pages/sample150/sample_page_151.dart)|
+|#150|home_widget|[リンク](https://www.youtube.com/watch?v=L9cP9OTUstA)|[リンク](https://pub.dev/packages/home_widget)|[リンク](#)|
 |#149|firebase_analytics|[リンク](https://www.youtube.com/watch?v=Fna-xqrA160)|[リンク](https://pub.dev/packages/firebase_analytics)|[リンク](lib/presentation/pages/sample140/sample_page_149.dart)|
 |#148|cloud_firestore|[リンク](https://www.youtube.com/watch?v=-wAL46TFwQU)|[リンク](https://pub.dev/packages/cloud_firestore)|[リンク](lib/presentation/pages/sample140/sample_page_148.dart)|
 |#147|CallbackShortcuts|[リンク](https://www.youtube.com/watch?v=VcQQ1ns_qNY)|[リンク](https://api.flutter.dev/flutter/widgets/CallbackShortcuts-class.html)|[リンク](lib/presentation/pages/sample140/sample_page_147.dart)|
