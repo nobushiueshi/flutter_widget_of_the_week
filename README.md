@@ -17,6 +17,7 @@ WidgetやPackageを実際に使うことが目的なので、サンプルコー�
 
 |番号|ウィジェット名<br>(パッケージ名)|動画|リファレンス|サンプル|
 |:---:|:---|:---:|:---:|:---:|
+|#152|fl_chart|[リンク](https://www.youtube.com/watch?v=PkPAtfNNJX8)|[リンク](https://pub.dev/packages/fl_chart)|[リンク](lib/presentation/pages/sample150/sample_page_152.dart)|
 |#151|firebase_auth|[リンク](https://www.youtube.com/watch?v=Qw3IjnhTl5w)|[リンク](https://pub.dev/packages/firebase_auth)|[リンク](lib/presentation/pages/sample150/sample_page_151.dart)|
 |#150|home_widget|[リンク](https://www.youtube.com/watch?v=L9cP9OTUstA)|[リンク](https://pub.dev/packages/home_widget)|[リンク](#)|
 |#149|firebase_analytics|[リンク](https://www.youtube.com/watch?v=Fna-xqrA160)|[リンク](https://pub.dev/packages/firebase_analytics)|[リンク](lib/presentation/pages/sample140/sample_page_149.dart)|
