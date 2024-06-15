@@ -59,7 +59,7 @@
 //                           print('The password provided is too weak.');
 //                         } else if (e.code == 'email-already-in-use') {
 //                           // ignore: avoid_print
-//                           print('The account already exists for that email.');
+//                           print('The account already exists for that email');
 //                         }
 //                       } catch (e) {
 //                         // ignore: avoid_print
