@@ -2,8 +2,14 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample_page
 // import 'package:flutter_widget_of_the_week/presentation/pages/sample150/sample_page_151.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample150/sample_page_152.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample150/sample_page_153.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample150/sample_page_154.dart';
 
 final sample150PageDataList = <SamplePageData>[
+  SamplePageData(
+    name: '#154 OverlayPortal',
+    contentType: SamplePageContentType.package,
+    widget: const SamplePage154(),
+  ),
   SamplePageData(
     name: '#153 gap',
     contentType: SamplePageContentType.package,
