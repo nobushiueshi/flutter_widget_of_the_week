@@ -3,11 +3,17 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample_page
 import 'package:flutter_widget_of_the_week/presentation/pages/sample150/sample_page_152.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample150/sample_page_153.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample150/sample_page_154.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample150/sample_page_155.dart';
 
 final sample150PageDataList = <SamplePageData>[
   SamplePageData(
+    name: '#155 DropdownMenu',
+    contentType: SamplePageContentType.widget,
+    widget: const SamplePage155(),
+  ),
+  SamplePageData(
     name: '#154 OverlayPortal',
-    contentType: SamplePageContentType.package,
+    contentType: SamplePageContentType.widget,
     widget: const SamplePage154(),
   ),
   SamplePageData(
