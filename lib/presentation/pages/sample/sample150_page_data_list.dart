@@ -4,8 +4,14 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample150/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample150/sample_page_153.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample150/sample_page_154.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample150/sample_page_155.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample150/sample_page_156.dart';
 
 final sample150PageDataList = <SamplePageData>[
+  SamplePageData(
+    name: '#156 feedback',
+    contentType: SamplePageContentType.package,
+    widget: const SamplePage156(),
+  ),
   SamplePageData(
     name: '#155 DropdownMenu',
     contentType: SamplePageContentType.widget,

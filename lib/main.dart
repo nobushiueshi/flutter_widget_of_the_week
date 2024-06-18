@@ -1,5 +1,6 @@
 // import 'package:firebase_core/firebase_core.dart';
 // import 'package:firebase_crashlytics/firebase_crashlytics.dart';
+import 'package:feedback/feedback.dart';
 // import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 // import 'package:flutter_widget_of_the_week/firebase_options.dart';
@@ -22,7 +23,11 @@ void main() async {
   //   return true;
   // };
 
-  runApp(const MyApp());
+  runApp(
+    const BetterFeedback(
+      child: MyApp(),
+    ),
+  );
 }
 
 class MyApp extends StatelessWidget {
