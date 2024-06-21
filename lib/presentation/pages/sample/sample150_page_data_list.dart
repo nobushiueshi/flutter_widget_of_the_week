@@ -6,8 +6,14 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample150/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample150/sample_page_155.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample150/sample_page_156.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample150/sample_page_157.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample150/sample_page_158.dart';
 
 final sample150PageDataList = <SamplePageData>[
+  SamplePageData(
+    name: '#158 Isolates',
+    contentType: SamplePageContentType.technique,
+    widget: const SamplePage158(),
+  ),
   SamplePageData(
     name: '#157 SegmentedButton',
     contentType: SamplePageContentType.widget,
