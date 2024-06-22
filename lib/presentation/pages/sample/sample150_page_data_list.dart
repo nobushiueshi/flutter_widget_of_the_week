@@ -10,6 +10,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample150/sample_p
 
 final sample150PageDataList = <SamplePageData>[
   SamplePageData(
+    name: '#159 Tween',
+    contentType: SamplePageContentType.technique,
+  ),
+  SamplePageData(
     name: '#158 Isolates',
     contentType: SamplePageContentType.technique,
     widget: const SamplePage158(),

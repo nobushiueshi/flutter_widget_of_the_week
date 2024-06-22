@@ -1,6 +1,6 @@
 import 'dart:convert';
-import 'dart:isolate';
 
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
 class SamplePage158 extends StatefulWidget {
@@ -36,12 +36,7 @@ class _SamplePage158State extends State<SamplePage158> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () async {
-          final data = await Isolate.run(() {
-            // ここで重い処理を実行する.
-            final json = jsonDecode(jsonString) as Map<String, String>;
-
-            return SamplePage158Message.fromJson(json);
-          });
+          final data = await compute(loadJson, jsonString);
           setState(() {
             message = data.message;
           });
@@ -52,14 +47,21 @@ class _SamplePage158State extends State<SamplePage158> {
   }
 }
 
+SamplePage158Message loadJson(String jsonString) {
+  // ここで重い処理を実行する.
+  final json = jsonDecode(jsonString) as Map<String, dynamic>;
+
+  return SamplePage158Message.fromJson(json);
+}
+
 class SamplePage158Message {
   SamplePage158Message({
     required this.message,
   });
 
-  factory SamplePage158Message.fromJson(Map<String, String> json) =>
+  factory SamplePage158Message.fromJson(Map<String, dynamic> json) =>
       SamplePage158Message(
-        message: json['message'] ?? '',
+        message: json['message'] as String,
       );
 
   final String message;
