@@ -14,9 +14,11 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample120_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample130_page_data_list.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample140_page_data_list.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample150_page_data_list.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample160_page_data_list.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample_page_data.dart';
 
 final samplePageDataList = <SamplePageData>[
+  ...sample160PageDataList,
   ...sample150PageDataList,
   ...sample140PageDataList,
   ...sample130PageDataList,
