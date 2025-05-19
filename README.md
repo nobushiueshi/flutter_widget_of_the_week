@@ -17,6 +17,7 @@
 
 |No.|Widget Name<br>(Package Name)|YouTube|Reference|Sample|
 |:---:|:---|:---:|:---:|:---:|
+|#161|Future.wait|[link](https://www.youtube.com/watch?v=SYy8_z-qsRo)|[link](https://api.flutter.dev/flutter/dart-async/Future/wait.html)|[link](lib/presentation/pages/sample160/sample_page_161.dart)|
 |#160|List.generate|[link](https://www.youtube.com/watch?v=izr7uBuiacE)|[link](https://api.flutter.dev/flutter/dart-core/List/List.generate.html)|[link](lib/presentation/pages/sample160/sample_page_160.dart)|
 |#159|Tween|[link](https://www.youtube.com/watch?v=fatb7Clc0MM)|[link](https://api.flutter.dev/flutter/animation/Tween-class.html)|[link](#)|
 |#158|Isolates|[link](https://www.youtube.com/watch?v=PPwJ75vqP_s)|[link](https://dart.dev/language/isolates)|[link](lib/presentation/pages/sample150/sample_page_158.dart)|
