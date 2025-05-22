@@ -4,6 +4,10 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample160/sample_p
 
 final sample160PageDataList = <SamplePageData>[
   SamplePageData(
+    name: '#162 firebase_vertexai',
+    contentType: SamplePageContentType.package,
+  ),
+  SamplePageData(
     name: '#161 Future.wait',
     contentType: SamplePageContentType.technique,
     widget: const SamplePage161(),
