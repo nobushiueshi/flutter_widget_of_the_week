@@ -53,7 +53,6 @@ class _SamplePage085State extends State<SamplePage085> {
   Future<void> increment() async {
     await db?.transaction<void>((txn) async {
       await txn.rawInsert(
-        // ignore: lines_longer_than_80_chars
         'INSERT INTO Test(name) VALUES("${DateTime.now().toLocal()}")',
       );
     });

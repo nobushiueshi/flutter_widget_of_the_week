@@ -33,9 +33,9 @@ class _SamplePage144State extends State<SamplePage144> {
               ),
               const SizedBox(height: 20),
               const Text('Before').animate().swap(
-                    duration: 900.ms,
-                    builder: (_, __) => const Text('After'),
-                  ),
+                duration: 900.ms,
+                builder: (_, _) => const Text('After'),
+              ),
             ],
           ),
         ),

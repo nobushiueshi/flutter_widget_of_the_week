@@ -10,7 +10,7 @@ class SamplePage036 extends StatefulWidget {
 }
 
 class _SamplePage036State extends State<SamplePage036> {
-  var _color = Colors.white;
+  Color _color = Colors.white;
 
   @override
   Widget build(BuildContext context) {
@@ -81,8 +81,8 @@ class _SamplePage036Color extends InheritedWidget {
   final Color color;
 
   static _SamplePage036Color of(BuildContext context) {
-    final result =
-        context.dependOnInheritedWidgetOfExactType<_SamplePage036Color>();
+    final result = context
+        .dependOnInheritedWidgetOfExactType<_SamplePage036Color>();
     assert(result != null, 'No _SamplePage036Color found in context');
     return result!;
   }

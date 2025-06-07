@@ -10,7 +10,7 @@ class SamplePage155 extends StatefulWidget {
 }
 
 class _SamplePage155State extends State<SamplePage155> {
-  var _backgroundColor = Colors.red[400];
+  Color? _backgroundColor = Colors.red[400];
 
   @override
   Widget build(BuildContext context) {

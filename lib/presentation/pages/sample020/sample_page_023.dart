@@ -12,7 +12,7 @@ class SamplePage023 extends StatefulWidget {
 }
 
 class SamplePage023State extends State<SamplePage023> {
-  var _offset = Offset.zero;
+  Offset _offset = Offset.zero;
 
   @override
   Widget build(BuildContext context) {

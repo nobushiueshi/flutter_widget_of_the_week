@@ -37,7 +37,7 @@ class SamplePage024State extends State<SamplePage024> {
                         sigmaY: 3,
                       ),
                       child: ColoredBox(
-                        color: Colors.black.withOpacity(0),
+                        color: Colors.black.withAlpha(0),
                       ),
                     ),
                   ),
