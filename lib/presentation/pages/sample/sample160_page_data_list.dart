@@ -3,8 +3,14 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample160/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample160/sample_page_161.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample160/sample_page_163.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample160/sample_page_164.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample160/sample_page_165.dart';
 
 final sample160PageDataList = <SamplePageData>[
+  SamplePageData(
+    name: '#165 Uint8List',
+    contentType: SamplePageContentType.technique,
+    widget: const SamplePage165(),
+  ),
   SamplePageData(
     name: '#164 mix',
     contentType: SamplePageContentType.package,

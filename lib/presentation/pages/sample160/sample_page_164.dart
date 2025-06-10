@@ -13,8 +13,6 @@ class SamplePage164 extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // mixでおしゃれなBoxスタイルを定義
-
     return Scaffold(
       appBar: AppBar(
         title: const Text('mix'),
