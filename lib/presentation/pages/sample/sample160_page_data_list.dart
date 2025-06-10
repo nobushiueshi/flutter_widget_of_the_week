@@ -2,8 +2,14 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample/sample_page
 import 'package:flutter_widget_of_the_week/presentation/pages/sample160/sample_page_160.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample160/sample_page_161.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample160/sample_page_163.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample160/sample_page_164.dart';
 
 final sample160PageDataList = <SamplePageData>[
+  SamplePageData(
+    name: '#164 mix',
+    contentType: SamplePageContentType.package,
+    widget: const SamplePage164(),
+  ),
   SamplePageData(
     name: '#163 Completers',
     contentType: SamplePageContentType.technique,

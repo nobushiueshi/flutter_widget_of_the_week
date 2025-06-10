@@ -17,6 +17,7 @@
 
 |No.|Widget Name<br>(Package Name)|YouTube|Reference|Sample|
 |:---:|:---|:---:|:---:|:---:|
+|#164|mix|[link](https://www.youtube.com/watch?v=sjPSx6-iCao)|[link](https://pub.dev/packages/mix)|[link](lib/presentation/pages/sample160/sample_page_164.dart)|
 |#163|Completers|[link](https://www.youtube.com/watch?v=N8sBC_eK7Z4)|[link](https://api.flutter.dev/flutter/dart-async/Completer-class.html)|[link](lib/presentation/pages/sample160/sample_page_163.dart)|
 |#162|firebase_vertexai|[link](https://www.youtube.com/watch?v=ebYDOadpPcI)|[link](https://pub.dev/packages/firebase_vertexai)|[link](#)|
 |#161|Future.wait|[link](https://www.youtube.com/watch?v=SYy8_z-qsRo)|[link](https://api.flutter.dev/flutter/dart-async/Future/wait.html)|[link](lib/presentation/pages/sample160/sample_page_161.dart)|

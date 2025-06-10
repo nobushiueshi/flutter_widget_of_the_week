@@ -645,6 +645,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.0"
+  mix:
+    dependency: "direct main"
+    description:
+      name: mix
+      sha256: f4c5a73f7470f9a85d3aa46dbff434be6f1c172bec35aa052c2ca4dc77845cff
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.6.0"
+  mix_annotations:
+    dependency: transitive
+    description:
+      name: mix_annotations
+      sha256: "38dda27588ab87a8634bed8c8b09a7325380baa8eaeffe39fcb7ea2b227fa496"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.4.0"
   mustache_template:
     dependency: transitive
     description:
