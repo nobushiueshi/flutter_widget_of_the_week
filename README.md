@@ -19,6 +19,7 @@
 
 |No.|Name|YouTube|Reference|Sample|
 |:---:|:---|:---:|:---:|:---:|
+|#167|MediaQuery.propertyOf|[link](https://www.youtube.com/watch?v=xVk1kPvkgAY)|[link](https://api.flutter.dev/flutter/widgets/MediaQuery-class.html)|[link](lib/presentation/pages/sample160/sample_page_167.dart)|
 |#166|UnmodifiableListView|[link](https://www.youtube.com/watch?v=lbxJ4K5MD2o)|[link](https://api.dart.dev/dart-collection/UnmodifiableListView-class.html)|[link](lib/presentation/pages/sample160/sample_page_166.dart)|
 |#165|Uint8List|[link](https://www.youtube.com/watch?v=9lhN5QXyZQc)|[link](https://api.dart.dev/dart-typed_data/Uint8List-class.html)|[link](lib/presentation/pages/sample160/sample_page_165.dart)|
 |#164|mix|[link](https://www.youtube.com/watch?v=sjPSx6-iCao)|[link](https://pub.dev/packages/mix)|[link](lib/presentation/pages/sample160/sample_page_164.dart)|

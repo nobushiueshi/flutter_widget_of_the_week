@@ -5,8 +5,14 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample160/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample160/sample_page_164.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample160/sample_page_165.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample160/sample_page_166.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample160/sample_page_167.dart';
 
 final sample160PageDataList = <SamplePageData>[
+  SamplePageData(
+    name: '#167 MediaQuery.propertyOf',
+    contentType: SamplePageContentType.technique,
+    widget: const SamplePage167(),
+  ),
   SamplePageData(
     name: '#166 UnmodifiableListView',
     contentType: SamplePageContentType.technique,
