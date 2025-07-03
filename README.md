@@ -13,11 +13,14 @@
 
 - [Flutter Package of the Week](https://nobushiueshi.com/tag/flutter-package-of-the-week/)
 
+- [Flutter Technique of the Week](https://nobushiueshi.com/tag/flutter-technique-of-the-week/)
+
 ## Link
 
-|No.|Widget Name<br>(Package Name)|YouTube|Reference|Sample|
+|No.|Name|YouTube|Reference|Sample|
 |:---:|:---|:---:|:---:|:---:|
-|#165|Uint8List|[link](https://www.youtube.com/watch?v=9lhN5QXyZQc)|[link](https://api.dart.dev/stable/3.4.4/dart-typed_data/Uint8List-class.html)|[link](lib/presentation/pages/sample160/sample_page_165.dart)|
+|#166|UnmodifiableListView|[link](https://www.youtube.com/watch?v=lbxJ4K5MD2o)|[link](https://api.dart.dev/dart-collection/UnmodifiableListView-class.html)|[link](lib/presentation/pages/sample160/sample_page_166.dart)|
+|#165|Uint8List|[link](https://www.youtube.com/watch?v=9lhN5QXyZQc)|[link](https://api.dart.dev/dart-typed_data/Uint8List-class.html)|[link](lib/presentation/pages/sample160/sample_page_165.dart)|
 |#164|mix|[link](https://www.youtube.com/watch?v=sjPSx6-iCao)|[link](https://pub.dev/packages/mix)|[link](lib/presentation/pages/sample160/sample_page_164.dart)|
 |#163|Completers|[link](https://www.youtube.com/watch?v=N8sBC_eK7Z4)|[link](https://api.flutter.dev/flutter/dart-async/Completer-class.html)|[link](lib/presentation/pages/sample160/sample_page_163.dart)|
 |#162|firebase_vertexai|[link](https://www.youtube.com/watch?v=ebYDOadpPcI)|[link](https://pub.dev/packages/firebase_vertexai)|[link](#)|
