@@ -6,8 +6,14 @@ import 'package:flutter_widget_of_the_week/presentation/pages/sample160/sample_p
 import 'package:flutter_widget_of_the_week/presentation/pages/sample160/sample_page_165.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample160/sample_page_166.dart';
 import 'package:flutter_widget_of_the_week/presentation/pages/sample160/sample_page_167.dart';
+import 'package:flutter_widget_of_the_week/presentation/pages/sample160/sample_page_168.dart';
 
 final sample160PageDataList = <SamplePageData>[
+  SamplePageData(
+    name: '#168 video_player',
+    contentType: SamplePageContentType.package,
+    widget: const SamplePage168(),
+  ),
   SamplePageData(
     name: '#167 MediaQuery.propertyOf',
     contentType: SamplePageContentType.technique,
