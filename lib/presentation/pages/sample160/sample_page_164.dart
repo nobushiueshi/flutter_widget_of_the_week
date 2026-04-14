@@ -4,12 +4,11 @@ import 'package:mix/mix.dart';
 class SamplePage164 extends StatelessWidget {
   const SamplePage164({super.key});
 
-  static final style = Style(
-    $box.height(128),
-    $box.width(128),
-    $box.color.purple(),
-    $box.borderRadius(16),
-  );
+  static final BoxStyler style = BoxStyler()
+      .height(128)
+      .width(128)
+      .color(Colors.purple)
+      .borderRounded(16);
 
   @override
   Widget build(BuildContext context) {
